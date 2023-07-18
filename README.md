@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Focus+on+the+Front+End+Development.;Will+be+creating+some+personal+project+soon)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=jeffersonfed&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jeffersonfed&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 # Hi, I'm Jefferson! 👋
 # 🚀 About Me
