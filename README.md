@@ -2,6 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Jeffersonfed&label=Profile%20Views&color=6&icon=5&pretty=falsestyle=plastic)](https://github.com/jeffersonfed)
 [![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it)](https://github.com/jeffersonfed)
+[![Years Badge](https://badges.pufler.dev/years/jeffersonfed)](https://github.com/jeffersonfed)
 
 <!--![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
 
