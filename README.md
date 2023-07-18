@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Focus+on+the+Front+End+Development.;Will+be+creating+some+personal+project+soon)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=Jeffersonfed?&label=Profile%20Views&color=6&icon=5&pretty=false&style=plastic)](https://github.com/jeffersonfed)
-[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=plastic)](https://github.com/jeffersonfed)
-[![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=2&icon=5&pretty=false&style=plastic)](https://github.com/jeffersonfed)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/jeffersonfed?&label=Commits&color=2&icon=5&pretty=false&style=plastic)](https://github.com/jeffersonfed)
+[![](https://visitcount.itsvg.in/api?id=Jeffersonfed?&label=Profile%20Views&color=6&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
+[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
+[![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/jeffersonfed?&label=Commits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
 
 <!--![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
 
