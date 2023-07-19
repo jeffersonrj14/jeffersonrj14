@@ -17,7 +17,7 @@
 
 - #### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - #### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc.
-<br><br>
+
 ## Old Repo
 - [Old Project](/../../../../jeffersonfed/Old-Project) <br>
   This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
