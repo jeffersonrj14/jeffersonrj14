@@ -11,7 +11,6 @@
 
 
 # Hi, I'm Jefferson! 👋 
-#### Current Time:![](./html/index.svg)
 # 🚀 About Me
 #### I am a self-taught individual with a strong focus on Front-End Development → Back-End Development → Full-Stack Development.
 
