@@ -16,13 +16,11 @@
 
 - #### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - #### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc.
-
-***
+<br><br>
 ## Old Repo
 - [Old Project](/../../../../jeffersonfed/Old-Project) <br>
   This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
-***
-
+<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
