@@ -53,8 +53,14 @@
 [![](https://img.shields.io/badge/Cloud-Vercel-black?&logo=vercel&logoColor=white)](https://vercel.com)
 
 ### VS Code extensions I use:
-- Name: Night Owl Theme
-  VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme
+- Night Owl Theme <br>
+  https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme
+- Bongo Cat Buddy <br>
+  https://marketplace.visualstudio.com/items?itemName=JohnHarrison.bongocat-buddy
+- Multiple cursor case preserve <br>
+  https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve
+- vscode-pets <br>
+  https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
 ***
 
 # 📊 GitHub Stats:
