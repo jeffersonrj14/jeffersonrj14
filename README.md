@@ -77,7 +77,9 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
 ***
 <p align = "center">
-    # [Back to Top](#top)
+  <a href = "#top">
+    Back to Top
+  </a>
 </p>
 
 <!--
