@@ -52,6 +52,9 @@
 [![](https://img.shields.io/badge/Frameworks-Xampp-black?&logo=xampp&logoColor=orange)](https://www.apachefriends.org)
 [![](https://img.shields.io/badge/Cloud-Vercel-black?&logo=vercel&logoColor=white)](https://vercel.com)
 
+### VS Code extensions I use:
+- Name: Night Owl Theme
+  VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme
 ***
 
 # 📊 GitHub Stats:
