@@ -82,8 +82,8 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
 ***
 
-## Author
-- [Jefferson](#top)
+<!-- ## Author
+- [Jefferson](#top) -->
 <h2 align = "center";>
   <a href = "#top">
     Back to Top
