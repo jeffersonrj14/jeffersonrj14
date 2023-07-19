@@ -31,7 +31,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/606481557615542273)
 -->
 
-## :books: My Learning Site
+# :books: My Learning Site
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Jefferson14)
 [![HackerRank](https://img.shields.io/badge/_-HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Jefferson14?hr_r=1)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -57,7 +57,7 @@
 [![](https://img.shields.io/badge/Frameworks-Xampp-black?&logo=xampp&logoColor=orange)](https://www.apachefriends.org)
 [![](https://img.shields.io/badge/Cloud-Vercel-black?&logo=vercel&logoColor=white)](https://vercel.com)
 
-### VS Code extensions I use:
+## VS Code extensions I use:
 - [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)
 - [Bongo Cat Buddy](https://marketplace.visualstudio.com/items?itemName=JohnHarrison.bongocat-buddy)
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
