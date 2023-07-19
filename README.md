@@ -18,8 +18,9 @@
 - #### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc.
 
 
-## Past Repo
-   [Old Project](/../../../../jeffersonfed/Old-Project)
+## Old Repo
+- [Old Project](/../../../../jeffersonfed/Old-Project) <bn>
+  This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
 
 
 ## 🌐 Socials:
