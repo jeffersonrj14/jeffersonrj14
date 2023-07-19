@@ -53,7 +53,7 @@
 [![](https://img.shields.io/badge/Cloud-Vercel-black?&logo=vercel&logoColor=white)](https://vercel.com)
 
 ### VS Code extensions I use:
-- [ ] \(https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)Night Owl Theme
+- [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)
 - Night Owl Theme <br>
   https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme
 - Bongo Cat Buddy <br>
