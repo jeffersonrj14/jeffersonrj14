@@ -54,20 +54,12 @@
 
 ### VS Code extensions I use:
 - [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)
-- Night Owl Theme <br>
-  https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme
-- Bongo Cat Buddy <br>
-  https://marketplace.visualstudio.com/items?itemName=JohnHarrison.bongocat-buddy
-- Multiple cursor case preserve <br>
-  https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve
-- vscode-pets <br>
-  https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
-- zenkaku <br>
-  https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku
-- Live Server <br>
-  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-- Remote - SSH <br>
-  https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
+- [Bongo Cat Buddy](https://marketplace.visualstudio.com/items?itemName=JohnHarrison.bongocat-buddy)
+- [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+- [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+- [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 ***
 
 # 📊 GitHub Stats:
