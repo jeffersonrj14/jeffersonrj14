@@ -83,7 +83,7 @@
 ***
 
 ## Author
-- [Jefferson](htt[s://github.com/jeffersonfed])
+- [Jefferson](https://github.com/jeffersonfed)
 <h2 align = "center";>
   <a href = "#top">
     Back to Top
