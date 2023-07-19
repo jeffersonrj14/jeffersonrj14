@@ -64,20 +64,16 @@
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 ***
-
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ***
 # :headphones: Spotify
 [![](https://img.shields.io/badge/Listen_to-Spotify-green?&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/6OpjGPXUJ9ZVwPuy955UuL?si=1f5a72d75c6e4f26)
 <br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
-
 ***
 # [Back to Top](#top)
 <!--
