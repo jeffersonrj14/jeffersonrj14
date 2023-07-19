@@ -2,8 +2,8 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=jeffersonfed&icon=5&color=1)](https://github.com/jeffersonfed)
+[![](https://komarev.com/ghpvc/?username=jeffersonfed&color=blue)](https://github.com/jeffersonfed)
 <!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)--> 
-<br><br>
 [![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=5&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/jeffersonfed?&label=Commits&color=5&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
 
