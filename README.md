@@ -70,6 +70,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ***
 # :headphones: Spotify
+
 [![](https://img.shields.io/badge/Listen_to-Spotify-green?&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/6OpjGPXUJ9ZVwPuy955UuL?si=1f5a72d75c6e4f26)
 <br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
