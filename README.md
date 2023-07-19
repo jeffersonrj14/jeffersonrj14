@@ -15,8 +15,8 @@
 #### I am a self-taught individual with a strong focus on front-end development.
 
 - #### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
+- #### 🤔 I currently need help with CSS responsiveness on other sizes, such as tablet mode, phone mode, etc.
 
-#### I'm developing my skills of these technologies through independent study and practical projects in order to develop interesting and user-friendly web experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
