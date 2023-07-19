@@ -61,6 +61,12 @@
   https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve
 - vscode-pets <br>
   https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
+- zenkaku <br>
+  https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku
+- Live Server <br>
+  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- Remote - SSH <br>
+  https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
 ***
 
 # 📊 GitHub Stats:
