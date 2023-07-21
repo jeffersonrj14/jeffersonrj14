@@ -16,6 +16,7 @@
 
 - #### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - #### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc.
+- #### And, I play osu! and [Archeland/アルケランド](https://apps.apple.com/jp/app/アルケランド/id1668752510) 
 
 ## Old Project
 - [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>
