@@ -99,6 +99,7 @@
     - [HoneyComeBear](https://open.spotify.com/artist/18NNCsbb6T0purrSKSRyuG?si=yXwbibGpTxGfPq-v59HP5A)
     - [ヨルシカ](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=90d2c79f2d604471)
     - [Tani Yuuki](https://open.spotify.com/playlist/37i9dQZF1DXcpJV5wyhhUo?si=6b8edd9a46484028)
+    - [Sawano Hiroyuki[nZK]](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wM8PG?si=42adeb6c2025489b)
     - and many more, ....
 - #### :notes: My Favorite Songs
     - [愛とか恋とか - NovelBright](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr?si=0467862b2f92477c)
