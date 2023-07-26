@@ -98,6 +98,7 @@
     - [燐舞曲](https://open.spotify.com/artist/44GR8gyoJ4DnH3mqaq2x7G?si=jmU5X2REQ2K1bPHKcaMQjA)
     - [HoneyComeBear](https://open.spotify.com/artist/18NNCsbb6T0purrSKSRyuG?si=yXwbibGpTxGfPq-v59HP5A)
     - [ヨルシカ](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=90d2c79f2d604471)
+    - [Tani Yuuki](https://open.spotify.com/playlist/37i9dQZF1DXcpJV5wyhhUo?si=6b8edd9a46484028)
     - and many more, ....
 - #### :notes: My Favorite Songs
     - [愛とか恋とか - NovelBright](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr?si=0467862b2f92477c)
@@ -105,6 +106,8 @@
     - [scaPEGoat - SawanoHiroyuki[nZK], Yosh](https://open.spotify.com/track/70MRLhyWZJ5M8QysieavTx?si=1b7e9ae95da94bcc)
     - [夏に閉じこめて - Poppin'Party](https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0?si=a042f37677144064)
     - [Waiting for the rain - 坂本真綾](https://open.spotify.com/track/2iC18gXn4nDZ3JyixvmOFE?si=83cd33cd82e4483e)
+    - [ソラゴト - 明透](https://open.spotify.com/track/6wQWlxfRBct1xSKxrEFE9h?si=006a3994158c40b9)
+    - [Story - Abyssmare](https://open.spotify.com/track/4E8lNsot9KSpDVUYVNzsSy?si=56babf25160a4608)
     <br><br>
 ***
 <h2 align = "center";>
