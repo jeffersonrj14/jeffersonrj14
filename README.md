@@ -16,11 +16,24 @@
 
 - #### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - #### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc , and Javascript, etc
-- #### And, I play: 
+- #### :speaking_head: I Speak 3 Languages:
+    - Indonesia
+    - English
+    - Japanese
+
+- #### :musical_note: My Favorite Artist Music:
+    - [Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96?si=c4b83801ebe244ad)
+    - [Official髭男dism](https://open.spotify.com/playlist/37i9dQZF1DX0MkpDFqXa80?si=1e548c6f11484771)
+    - [燐舞曲](https://open.spotify.com/artist/44GR8gyoJ4DnH3mqaq2x7G?si=jmU5X2REQ2K1bPHKcaMQjA)
+    - [HoneyComeBear](https://open.spotify.com/artist/18NNCsbb6T0purrSKSRyuG?si=yXwbibGpTxGfPq-v59HP5A)
+    - [ヨルシカ](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=90d2c79f2d604471)
+
+- #### :video_game: My Games: 
     - [osu!](https://osu.ppy.sh/users/32059979)<br>
     - [Archeland/アルケランド](https://apps.apple.com/jp/app/アルケランド/id1668752510)<br>
     - [SnowBreak](https://apps.apple.com/jp/app/snowbreak-containment-zone/id6443791795)<br>
     Recently, I am not currently playing the game. <br>Reason: Busy
+
 
 ## Old Project
 - [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>
