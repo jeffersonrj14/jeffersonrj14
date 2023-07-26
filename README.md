@@ -21,13 +21,6 @@
     - English
     - Japanese
 
-- #### :musical_note: My Favorite Artist Music:
-    - [Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96?si=c4b83801ebe244ad)
-    - [Official髭男dism](https://open.spotify.com/playlist/37i9dQZF1DX0MkpDFqXa80?si=1e548c6f11484771)
-    - [燐舞曲](https://open.spotify.com/artist/44GR8gyoJ4DnH3mqaq2x7G?si=jmU5X2REQ2K1bPHKcaMQjA)
-    - [HoneyComeBear](https://open.spotify.com/artist/18NNCsbb6T0purrSKSRyuG?si=yXwbibGpTxGfPq-v59HP5A)
-    - [ヨルシカ](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=90d2c79f2d604471)
-
 - #### :video_game: My Games: 
     - [osu!](https://osu.ppy.sh/users/32059979)<br>
     - [Archeland/アルケランド](https://apps.apple.com/jp/app/アルケランド/id1668752510)<br>
@@ -98,11 +91,25 @@
 <br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
-***
 
+- #### :musical_note: My Favorite Artist Music:
+    - [Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96?si=c4b83801ebe244ad)
+    - [Official髭男dism](https://open.spotify.com/playlist/37i9dQZF1DX0MkpDFqXa80?si=1e548c6f11484771)
+    - [燐舞曲](https://open.spotify.com/artist/44GR8gyoJ4DnH3mqaq2x7G?si=jmU5X2REQ2K1bPHKcaMQjA)
+    - [HoneyComeBear](https://open.spotify.com/artist/18NNCsbb6T0purrSKSRyuG?si=yXwbibGpTxGfPq-v59HP5A)
+    - [ヨルシカ](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=90d2c79f2d604471)
+    - and many more, ....
+- #### :notes: My Favorite Songs
+    - [愛とか恋とか - NovelBright](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr?si=0467862b2f92477c)
+    - [青いのすみか - キタニタツヤ](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd?si=a5455311a97a4bcb)
+    - [scaPEGoat - SawanoHiroyuki[nZK], Yosh](https://open.spotify.com/track/70MRLhyWZJ5M8QysieavTx?si=1b7e9ae95da94bcc)
+    - [夏に閉じこめて - Poppin'Party](https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0?si=a042f37677144064)
+    - [Waiting for the rain - 坂本真綾](https://open.spotify.com/track/2iC18gXn4nDZ3JyixvmOFE?si=83cd33cd82e4483e)
+    <br><br>
+***
 <h2 align = "center";>
   <a href = "#top">
-    Back to Top
+    Back to Top 
   </a>
 </h2>
 
@@ -111,9 +118,6 @@
 <!--
 # 💰 To Donate
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed) 
-
-
-**jeffersonfed/jeffersonfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ### Hi there 👋
