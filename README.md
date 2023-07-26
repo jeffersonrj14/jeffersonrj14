@@ -17,9 +17,10 @@
 - #### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - #### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc , and Javascript, etc
 - #### And, I play: 
-    - [osu!](https://osu.ppy.sh/users/32059979)<br> [Recently, I am not currently playing the game. <br>Reason: Busy],
-    - [Archeland/アルケランド](https://apps.apple.com/jp/app/アルケランド/id1668752510)
-    - [SnowBreak]()
+    - [osu!](https://osu.ppy.sh/users/32059979)<br>
+    - [Archeland/アルケランド](https://apps.apple.com/jp/app/アルケランド/id1668752510)<br>
+    - [SnowBreak](https://apps.apple.com/jp/app/snowbreak-containment-zone/id6443791795)<br>
+    Recently, I am not currently playing the game. <br>Reason: Busy
 
 ## Old Project
 - [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>
