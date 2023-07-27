@@ -17,12 +17,12 @@
 # 🚀 About Me
 ### I am a self-taught individual with a strong focus on <br>Front-End Development → Back-End Development → Full-Stack Development.
 
-- #### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
-- #### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc , and Javascript, etc
-- #### :speaking_head: I Speak 3 Languages:
-    - Indonesia
-    - English
-    - Japanese
+- ### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
+- ### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc , and Javascript, etc
+- ### :speaking_head: I Speak 3 Languages:
+    - ### Indonesia
+    - ### English
+    - ### Japanese
 
 - #### :video_game: My Games: 
     - [osu!](https://osu.ppy.sh/users/32059979)<br>
