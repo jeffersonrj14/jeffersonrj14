@@ -93,9 +93,11 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
 
 
+<h2 align="left">
 
 [![](/../../../../jeffersonfed/for-readme/blob/main/out/output.svg)](linkedin.com/in/ritch-johan-jefferson-613175224/)
 
+</h2>
 
 
 <!-- - #### :musical_note: My Favorite Artist Music:
