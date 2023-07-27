@@ -81,9 +81,12 @@
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 ***
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# Code
+![Waka-Time](/../../../../jeffersonfed/My-Waka-Time/blob/main/README.md)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 ***
 # :headphones: Spotify
 
