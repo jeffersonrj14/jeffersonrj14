@@ -92,7 +92,13 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
 
-- #### :musical_note: My Favorite Artist Music:
+
+
+[![](/../../../../jeffersonfed/for-readme/blob/main/out/output.svg)](linkedin.com/in/ritch-johan-jefferson-613175224/)
+
+
+
+<!-- - #### :musical_note: My Favorite Artist Music:
     - [Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96?si=c4b83801ebe244ad)
     - [Official髭男dism](https://open.spotify.com/playlist/37i9dQZF1DX0MkpDFqXa80?si=1e548c6f11484771)
     - [燐舞曲](https://open.spotify.com/artist/44GR8gyoJ4DnH3mqaq2x7G?si=jmU5X2REQ2K1bPHKcaMQjA)
@@ -109,8 +115,9 @@
     - [Waiting for the rain - 坂本真綾](https://open.spotify.com/track/2iC18gXn4nDZ3JyixvmOFE?si=83cd33cd82e4483e)
     - [ソラゴト - 明透](https://open.spotify.com/track/6wQWlxfRBct1xSKxrEFE9h?si=006a3994158c40b9)
     - [Story - Abyssmare](https://open.spotify.com/track/4E8lNsot9KSpDVUYVNzsSy?si=56babf25160a4608)
-    - [Unti-L - SawanoHiroyuki[nZK]:ASCA](https://open.spotify.com/track/2nFDGqRXiWm5ESB4VzdIv2?si=88f2f2be2c124c2c)
-    <br><br>
+    - [Unti-L - SawanoHiroyuki[nZK]:ASCA](https://open.spotify.com/track/2nFDGqRXiWm5ESB4VzdIv2?si=88f2f2be2c124c2c) 
+     <br><br>-->
+
 ***
 <h2 align = "center";>
   <a href = "#top">
