@@ -19,10 +19,8 @@
 
 - ### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - ### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc , and Javascript, etc
-- ### :speaking_head: I Speak 3 Languages:
-    - ### Indonesia
-    - ### English
-    - ### Japanese
+- ### :speaking_head: I Speak 3 Languages: 
+    ### Indonesia,<br>English,<br>Japanese
 
 - #### :video_game: My Games: 
     - [osu!](https://osu.ppy.sh/users/32059979)<br>
@@ -32,9 +30,8 @@
 
 
 # Old Project
-- ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>
-  ### This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
-<br><br>
+- ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
