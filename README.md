@@ -31,9 +31,9 @@
     Recently, I am not currently playing the game. <br>Reason: Busy
 
 
-## Old Project
-- [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>
-  This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
+# Old Project
+- ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>
+  ### This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
 <br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
