@@ -10,7 +10,10 @@
 
 
 
-# Hi, I'm Jefferson! 👋 
+
+[![](/../../../../jeffersonfed/for-readme/blob/main/out/output.svg)](linkedin.com/in/ritch-johan-jefferson-613175224/)
+
+
 # 🚀 About Me
 #### I am a self-taught individual with a strong focus on <br>Front-End Development → Back-End Development → Full-Stack Development.
 
@@ -92,12 +95,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
 
-
-<h2 align="left"; width="50%">
-
-[![](/../../../../jeffersonfed/for-readme/blob/main/out/output.svg)](linkedin.com/in/ritch-johan-jefferson-613175224/)
-
-</h2>
 
 
 <!-- - #### :musical_note: My Favorite Artist Music:
