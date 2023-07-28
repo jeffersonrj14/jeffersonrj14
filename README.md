@@ -11,7 +11,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&color=blue)](#top)
 
 
-
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
 
