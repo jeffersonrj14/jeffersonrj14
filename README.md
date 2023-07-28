@@ -31,6 +31,7 @@
 - ### 🤔 I currently need help with CSS responsive on other aspect, such as tablet mode, phone mode, etc , and Javascript, etc
 - ### :speaking_head: I Speak 3 Languages: 
     ### - Indonesia,<br>- English,<br>- Japanese
+- ### :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
 
 - #### :video_game: My Games: 
     - [osu!](https://osu.ppy.sh/users/32059979)<br>
