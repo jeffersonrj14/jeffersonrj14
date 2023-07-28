@@ -7,7 +7,7 @@
 [![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=blue&icon=5&pretty=false&style=flat)](#top)
 [![Repos Badge](https://badges.pufler.dev/repos/jeffersonfed?&color=blue)](#top)
 [![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=blue&icon=5&pretty=false&style=flat)](#top)
-[![Gists Badge](https://badges.pufler.dev/gists/jeffersonfed?&color=blue)](https://gist.github.com/jeffersonfed)
+
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&color=blue)](#top)
 
 <!-- ## 🌐 Socials: -->
