@@ -3,6 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=jeffersonfed&icon=5&color=1)](https://github.com/jeffersonfed)
 [![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](https://github.com/jeffersonfed)
 [![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=blue&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
+[![Repos Badge](https://badges.pufler.dev/repos/jeffersonfed?&color=blue)](https://github.com/jeffersonfed)
 [![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=blue&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)
 [![Gists Badge](https://badges.pufler.dev/gists/jeffersonfed?&color=blue)](https://github.com/jeffersonfed)
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
