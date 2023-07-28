@@ -10,8 +10,11 @@
 [![Gists Badge](https://badges.pufler.dev/gists/jeffersonfed?&color=blue)](https://gist.github.com/jeffersonfed)
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&color=blue)](#top)
 
-
-[![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
+<!-- ## 🌐 Socials: -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
+[![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
+[![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)--> 
@@ -41,11 +44,6 @@
 
 # Old Project
 - ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
-[![Keybase](https://img.shields.io/badge/Keybase-black?style=for-the-badge&logo=keybase&logoColor=orange)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
 
 
 <!--
