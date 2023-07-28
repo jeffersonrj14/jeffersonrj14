@@ -14,7 +14,7 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
-</h2>
+
 <!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)--> 
 <!--![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
 
@@ -22,7 +22,7 @@
 
 
 [![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://www.linkedin.com/in/ritch-johan-jefferson-613175224/)
-
+</h2>
 
 # 🚀 About Me
 ### I am a self-taught individual with a strong focus on <br>Front-End Development → Back-End Development → Full-Stack Development.
