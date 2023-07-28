@@ -8,7 +8,11 @@
 [![Gists Badge](https://badges.pufler.dev/gists/jeffersonfed?&color=blue)](https://github.com/jeffersonfed)
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&color=blue)](https://badges.pufler.dev)
 
-[![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
+<h2 align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
+
+</h2>
 <!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)--> 
 <!--![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
 
