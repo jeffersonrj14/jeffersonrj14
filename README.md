@@ -9,7 +9,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=blue&icon=5&pretty=false&style=flat)](#top)
 [![Gists Badge](https://badges.pufler.dev/gists/jeffersonfed?&color=blue)](https://gist.github.com/jeffersonfed)
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&color=blue)](#top)
-[![Gist](https://badges.pufler.dev/gists/jeffersonfed)]()
+[![Gist](https://badges.pufler.dev/gists/jeffersonfed&color=blue)](https://gist.github.com/jeffersonfed)
 
 <!-- ## 🌐 Socials: -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
