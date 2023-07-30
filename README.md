@@ -18,7 +18,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
 <!-- Current focus -->
-Currently Focused on learning about Javascript (ES6+), react.js, next.js, rust,....<br>
+Currently Focused on learning about Javascript (ES6+), frameworks (react.js, next.js), ....<br>
 My Quote:
 >"Learning has no age limit, and there are no words too late to learn."
 
