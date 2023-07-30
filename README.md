@@ -19,7 +19,8 @@
 
 <!-- Current focus -->
 Currently Focused on learning about Javascript (ES6+), react.js, next.js, rust,....<br>
-My Quote "Learning has no age limit, and there are no words too late to learn."
+My Quote:
+>"Learning has no age limit, and there are no words too late to learn."
 
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)--> 
