@@ -89,12 +89,15 @@ My Quote:
 
 ### VS Code extensions I use:
 - [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)
-- [Bongo Cat Buddy](https://marketplace.visualstudio.com/items?itemName=JohnHarrison.bongocat-buddy)
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
 - [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 - [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
+- [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 ***
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
