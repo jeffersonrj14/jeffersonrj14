@@ -37,6 +37,7 @@ My Quote:
 
 - ### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - ### 🤔 I currently learning on frameworks, etc
+    - Check out my activity stats [Github Stats](#github-stats) and [Waka Time Stats](#waka-stats)!
 - ### :speaking_head: I Speak 3 Languages: 
     ### - Indonesia,<br>- English,<br>- Japanese
 - ### :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
@@ -99,12 +100,17 @@ My Quote:
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 ***
+
 # 📊 GitHub Stats:
+<div id="github-stats"></div>
+
 ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ***
+
 # 📊 My Waka Time Stats:
+<div id="waka-stats"></div>
 <!--START_SECTION:waka-->
 
 ```txt
