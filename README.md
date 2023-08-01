@@ -134,8 +134,6 @@ Other        1 hr 3 mins     =========================   01.22 %
 <!--END_SECTION:waka-->
 </div>
 
-***
-
 # :headphones: Spotify:
 
 [![](https://img.shields.io/badge/Listen_to-Spotify-green?&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/6OpjGPXUJ9ZVwPuy955UuL?si=1f5a72d75c6e4f26)
