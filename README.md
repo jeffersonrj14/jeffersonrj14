@@ -37,7 +37,7 @@ My Quote:
 
 - ### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
 - ### 🤔 I currently learning on frameworks, etc
-    ### - Check out my activity stats, [Github Stats](#bar_chart-github-stats-) and [Waka Time Stats](#bar_chart-my-waka-time-stats-)!
+    ### - Check out my activity stats, [Github Stats](# bar_chart-github-stats-) and [Waka Time Stats](# bar_chart-my-waka-time-stats-)!
 - ### :speaking_head: I Speak 3 Languages: 
     ### - Indonesia,<br>- English,<br>- Japanese
 - ### :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
