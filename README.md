@@ -29,7 +29,7 @@ My Quote:
 
 
 
-[![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://www.linkedin.com/in/ritch-johan-jefferson-613175224/)
+[![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://www.linkedin.com/in/jeffersonfed)
 </h2>
 
 # 🚀 About Me
