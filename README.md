@@ -109,7 +109,7 @@ My Quote:
 </div>
 ***
 <div id="waka-time-stats">
-# :bar_chart: [My Waka Time Stats:]
+# :bar_chart: My Waka Time Stats:
 <!--START_SECTION:waka-->
 
 ```txt
