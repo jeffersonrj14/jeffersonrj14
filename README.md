@@ -101,16 +101,13 @@ My Quote:
 - [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 ***
 
-# 📊 GitHub Stats:
-<div id="github-stats"></div>
-
+# 📊 GitHub Stats: <div id="github-stats"></div>
 ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ***
 
-# 📊 My Waka Time Stats:
-<div id="waka-stats"></div>
+# 📊 My Waka Time Stats: <div id="waka-stats"></div>
 <!--START_SECTION:waka-->
 
 ```txt
