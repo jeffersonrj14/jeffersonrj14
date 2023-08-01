@@ -107,7 +107,9 @@ My Quote:
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
 ***
+
 <div id="waka-time-stats">
     
 # :bar_chart: My Waka Time Stats:
@@ -132,6 +134,7 @@ Other        1 hr 3 mins     =========================   01.22 %
 <!--END_SECTION:waka-->
 </div>
 ***
+
 # :headphones: Spotify:
 
 [![](https://img.shields.io/badge/Listen_to-Spotify-green?&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/6OpjGPXUJ9ZVwPuy955UuL?si=1f5a72d75c6e4f26)
