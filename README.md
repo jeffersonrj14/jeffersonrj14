@@ -108,11 +108,10 @@ My Quote:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-***
-
 <div id="waka-time-stats">
     
 # :bar_chart: My Waka Time Stats:
+### Update Every Monday
 <!--START_SECTION:waka-->
 
 ```txt
