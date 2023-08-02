@@ -85,7 +85,7 @@ My Quote:
 [![](https://img.shields.io/badge/Browser:%20Opera-FF1B2D?&logo=Opera&logoColor=white)](https://www.opera.com/gx/gx-browser?utm_id=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB&utm_medium=pa&utm_source=google&utm_campaign=OGX_ID_Search_EN_T1_Brand_V2&gad=1&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB)
 
 ## 💻 My Laptop Specification:
-[![MSI Laptop](https://img.shields.io/badge/MSI%20laptop-FF0000?&logo=msi&logoColor=white)]()
+[![MSI Laptop](https://img.shields.io/badge/MSI%20laptop-FF0000?&logo=msi&logoColor=white)](https://www.msi.com/Laptop/GF63-Thin-9SCSR/Specification)
 
 
 ### VS Code extensions I use:
