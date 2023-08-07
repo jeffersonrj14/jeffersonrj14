@@ -114,23 +114,6 @@ My Quote:
 # :bar_chart: My Waka Time Stats:
 ### Update Every Monday
 <!--START_SECTION:waka-->
-
-```txt
-From: 10 January 2023 - To: 04 August 2023
-
-Total Time: 102 hrs 30 mins
-
-HTML         45 hrs 18 mins  >>>>>>>>>>>==============   43.74 %
-CSS          17 hrs 2 mins   >>>>=====================   16.45 %
-JavaScript   14 hrs 12 mins  >>>======================   13.71 %
-PHP          9 hrs 27 mins   >>=======================   09.13 %
-Markdown     7 hrs 24 mins   >>=======================   07.15 %
-Python       3 hrs 1 min     >========================   02.92 %
-XML          1 hr 50 mins    =========================   01.77 %
-Solidity     1 hr 6 mins     =========================   01.07 %
-Other        1 hr 4 mins     =========================   01.03 %
-```
-
 <!--END_SECTION:waka-->
 </div>
 
