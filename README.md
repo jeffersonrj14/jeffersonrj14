@@ -36,8 +36,8 @@ My Quote:
 # 🚀 About Me
 ### I am a self-taught individual with a strong focus on <br>Front-End Development → Back-End Development → Full-Stack Development.
 
-- ### 🌱 I keep learning for a deeper understanding of JavaScript especially ES6+ and React.js/Next.js, Front-End Development, Responsive WEB, Back-End Development, Python, and PHP because I have a never-ending appetite for information.
-- ### 🤔 I currently learning on frameworks, etc
+- ### 🌱 I keep learning for a deeper understanding of JavaScript, especially ES6+ and React.js/Next.js, front-end development, responsive web design, back-end development, Python, PHP, etc because I want to keep moving forward, not moving back.
+- ### 🤔 I am currently focused on learning frameworks, etc.
     ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!
 - ### :speaking_head: I Speak 3 Languages: 
     ### - Indonesia,<br>- English,<br>- Japanese
