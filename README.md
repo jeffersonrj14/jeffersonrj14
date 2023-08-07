@@ -36,7 +36,7 @@ My Quote:
 # 🚀 About Me
 ### I am a self-taught individual with a strong focus on <br>Front-End Development → Back-End Development → Full-Stack Development.
 
-- ### 🌱 I keep learning for a deeper understanding of JavaScript, MERN Development, PHP, MySQL, Front-End Development, Responsive WEB, and Back-End Development because I have a never-ending appetite for information.
+- ### 🌱 I keep learning for a deeper understanding of JavaScript especially ES6+ and React.js/Next.js, Front-End Development, Responsive WEB, Back-End Development, Python, and PHP because I have a never-ending appetite for information.
 - ### 🤔 I currently learning on frameworks, etc
     ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!
 - ### :speaking_head: I Speak 3 Languages: 
