@@ -42,13 +42,15 @@ My Quote:
 - ### :speaking_head: I Speak 3 Languages: 
     ### - Indonesia,<br>- English,<br>- Japanese
 - ### :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
-
+- ### My Portfolio:
+    ### - [https://jeffersonrj.vercel.app](https://jeffersonrj.vercel.app)
+<!--
 - #### :video_game: My Games: 
     - [osu!](https://osu.ppy.sh/users/32059979)<br>
     - [Archeland/アルケランド](https://apps.apple.com/jp/app/アルケランド/id1668752510)<br>
     - [SnowBreak](https://apps.apple.com/jp/app/snowbreak-containment-zone/id6443791795)<br>
     Recently, I am not currently playing the game. <br>Reason: Busy
-
+-->
 
 # Old Project
 - ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
