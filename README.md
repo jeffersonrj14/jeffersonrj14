@@ -81,8 +81,8 @@ My Quote:
 
 ## 💻 Software I Use:
 [![](https://img.shields.io/badge/Editor:%20VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![](https://img.shields.io/badge/Frameworks:%20Xampp-F37623?&logo=xampp&logoColor=white)](https://www.apachefriends.org)
-[![](https://img.shields.io/badge/Cloud:%20Vercel-000000?&logo=vercel&logoColor=white)](https://vercel.com)
+<!--[![](https://img.shields.io/badge/Frameworks:%20Xampp-F37623?&logo=xampp&logoColor=white)](https://www.apachefriends.org)-->
+[![](https://img.shields.io/badge/Deployment:%20Vercel-000000?&logo=vercel&logoColor=white)](https://vercel.com)
 [![](https://img.shields.io/badge/Browser:%20Opera-FF1B2D?&logo=Opera&logoColor=white)](https://www.opera.com/gx/gx-browser?utm_id=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB&utm_medium=pa&utm_source=google&utm_campaign=OGX_ID_Search_EN_T1_Brand_V2&gad=1&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB)
 
 ## 💻 My Laptop Specification:
