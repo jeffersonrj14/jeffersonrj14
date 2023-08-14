@@ -16,7 +16,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonfed)
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-dfe6e9?&logoColor=white)](https://jeffersonrj.vercel.app)
+
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-dfe6e9?&logoColor=dfe6e9)](https://jeffersonrj.vercel.app)
 
 <!-- Current focus -->
 Currently Focused on learning about Javascript (ES6+), frameworks (react.js, next.js), ....<br>
@@ -24,8 +25,8 @@ My Quote:
 >"Learning has no age limit, and there are no words too late to learn."
 
 
-<!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed)--> 
-<!--![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
+<!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed) 
+![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
 
 
 
@@ -69,17 +70,19 @@ My Quote:
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ***
 ## 🛠 Skills:
-<!--
+<!-- 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 	
--->
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,py)](https://skillicons.dev)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 	 -->
 
-## :art: Design Software:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,py)](https://skillicons.dev)<br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+<!--## :art: Design Software:
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) -->
 
 <!--## 💻 Software I Use:
 [![](https://img.shields.io/badge/Editor:%20VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
