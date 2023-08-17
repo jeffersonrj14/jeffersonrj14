@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Focused+on+learning+JS+Frameworks,;especially+React.js,+Next.js,+Vue.js,+etc.,;and+Tailwind+CSS.&id=top)](https://github.com/jeffersonfed)
 
+<div align="center">
+    
+##### FED → Forever Eager and Driven
+</div>
 <h2 align="center">
-
+    
 
 [![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](#top)
 [![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=blue&icon=5&pretty=false&style=flat)](#top)
