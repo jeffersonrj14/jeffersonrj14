@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Focused+on+learning+JS+Frameworks,;especially+React.js,+Next.js,+Vue.js,+etc.,;and+Tailwind+CSS.&id=top)](https://github.com/jeffersonfed)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Focused+on+learning+JS+Frameworks,;and+other+frameworks(astro,+etc).&id=top)](https://github.com/jeffersonfed)
 
 <div align="center">
     
@@ -24,7 +24,7 @@
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-dfe6e9?&logoColor=dfe6e9)](https://jeffersonrj.vercel.app)
 
 <!-- Current focus -->
-Currently Focused on learning about Javascript (ES6+), frameworks (react.js, next.js), ....<br>
+Currently Focused on learning about Javascript (ES6+), frameworks, ....<br>
 My Quote:
 >"Learning has no age limit, and there are no words too late to learn."
 
