@@ -129,8 +129,8 @@ From: 10 January 2023 - To: 17 August 2023
 Total Time: 138 hrs 30 mins
 
 HTML            62 hrs 18 mins  >>>>>>>>>>>==============   44.62 %
-JavaScript      22 hrs 34 mins  >>>>=====================   16.17 %
 CSS             22 hrs 18 mins  >>>>=====================   15.98 %
+JavaScript      22 hrs 17 mins  >>>>=====================   15.96 %
 Markdown        10 hrs 16 mins  >>=======================   07.36 %
 PHP             9 hrs 34 mins   >>=======================   06.86 %
 Python          4 hrs 6 mins    >========================   02.95 %
