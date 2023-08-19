@@ -124,19 +124,20 @@ My Quote:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 17 August 2023
+From: 10 January 2023 - To: 18 August 2023
 
-Total Time: 138 hrs 30 mins
+Total Time: 146 hrs 28 mins
 
-HTML            62 hrs 18 mins  >>>>>>>>>>>==============   44.62 %
-CSS             22 hrs 18 mins  >>>>=====================   15.98 %
-JavaScript      22 hrs 17 mins  >>>>=====================   15.96 %
-Markdown        10 hrs 16 mins  >>=======================   07.36 %
-PHP             9 hrs 34 mins   >>=======================   06.86 %
-Python          4 hrs 6 mins    >========================   02.95 %
-XML             1 hr 50 mins    =========================   01.32 %
-JSON            1 hr 24 mins    =========================   01.01 %
-Other           1 hr 7 mins     =========================   00.80 %
+HTML             63 hrs 45 mins  >>>>>>>>>>>==============   43.19 %
+CSS              22 hrs 58 mins  >>>>=====================   15.57 %
+JavaScript       22 hrs 43 mins  >>>>=====================   15.39 %
+Markdown         10 hrs 34 mins  >>=======================   07.17 %
+PHP              9 hrs 34 mins   >>=======================   06.49 %
+Astro            4 hrs 26 mins   >========================   03.01 %
+Python           4 hrs 6 mins    >========================   02.79 %
+XML              1 hr 52 mins    =========================   01.27 %
+JSON             1 hr 25 mins    =========================   00.97 %
+Other            1 hr 7 mins     =========================   00.76 %
 ```
 
 <!--END_SECTION:waka-->
