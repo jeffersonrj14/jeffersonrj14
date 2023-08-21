@@ -39,10 +39,22 @@ My Quote:
 </h2>
 
 # 🚀 About Me
+
+<div align="center">
+    
+### 🛠 Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py,react,astro,bootstrap,bash)](https://skillicons.dev)<br><br>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</div>
+
 ### I am a self-taught individual with a strong focus on <br>Front-End Development → Back-End Development → Full-Stack Development.
 
-- ### 🌱 I keep learning for a deeper understanding of JavaScript, especially ES6+ and React.js/Next.js, front-end development, responsive web design, back-end development, Python, etc because I want to keep moving forward, not moving back.
+<!--- ### 🌱 I keep learning for a deeper understanding of JavaScript, especially ES6+ and React.js/Next.js, front-end development, responsive web design, back-end development, Python, etc because I want to keep moving forward, not moving back.
 - ### 🤔 I am currently focused on learning frameworks.
+    ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!-->
+- ### 🌱 I am currently focused on learning JS frameworks (such as React.js, Next.js), Astro, and Tailwind. I am also working on creating projects using these frameworks
     ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!
 - ### :speaking_head: I Speak 3 Languages: 
     ### - Indonesia,<br>- English,<br>- Japanese
@@ -73,14 +85,7 @@ My Quote:
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ***
-## 🛠 Skills:
-<!-- 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 	 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,py,astro)](https://skillicons.dev)<br><br>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <!--## :art: Design Software:
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -96,7 +101,7 @@ My Quote:
 ## 💻 My Laptop Specification:
 [![MSI Laptop](https://img.shields.io/badge/MSI%20laptop-FF0000?&logo=msi&logoColor=white)](https://www.msi.com/Laptop/GF63-Thin-9SCSR/Specification)-->
 
-
+<!-- 
 ### VS Code extensions I use:
 - [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)
 - [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
@@ -107,12 +112,12 @@ My Quote:
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 - [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)-->
 ***
 <div id="github-stats">
 
 # :bar_chart: My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
