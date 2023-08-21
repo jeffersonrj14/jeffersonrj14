@@ -26,7 +26,7 @@
 
 
 <!-- Current focus -->
-Seeking job experience to complement my studies and grow professionally.
+Seeking job experience to complement my studies and grow professionally.<br>
 My Quote:
 >"Learning has no age limit, and there are no words too late to learn."
 
