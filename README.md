@@ -15,13 +15,13 @@
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&label=Last%20Updated&color=blue&icon=5&pretty=false&style=flat)](#top)
 
 
-<!-- ## 🌐 Socials: -->
+<!-- ## 🌐 Socials: 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonfed)
-[![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-dfe6e9?&logoColor=dfe6e9)](https://jeffersonrj.vercel.app)
+[![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)-->
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-dfe6e9?&logoColor=dfe6e9)](https://jeffersonrj.vercel.app)
 
 <!-- Current focus -->
 Currently Focused on learning about Javascript (ES6+), frameworks, ....<br>
@@ -59,15 +59,13 @@ My Quote:
 - ### :speaking_head: I Speak 3 Languages: 
     ### - Indonesia,<br>- English,<br>- Japanese
 - ### :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
-- ### My Portfolio:
-    ### - [https://jeffersonrj.vercel.app](https://jeffersonrj.vercel.app)
-<!--
-- #### :video_game: My Games: 
-    - [osu!](https://osu.ppy.sh/users/32059979)<br>
-    - [Archeland/アルケランド](https://apps.apple.com/jp/app/アルケランド/id1668752510)<br>
-    - [SnowBreak](https://apps.apple.com/jp/app/snowbreak-containment-zone/id6443791795)<br>
-    Recently, I am not currently playing the game. <br>Reason: Busy
--->
+- ### Links:
+    ### - [My Portfolio](https://jeffersonrj.vercel.app)
+    ### - [My CV](https://jeffersonrj-cv.vercel.app)
+    ### - [My Resume PDF](https://jeffersonrj.vercel.app/assets/Resume_CV.pdf)<br> I will create a better version later.
+    ### - [Keybase](https://keybase.io/jeffersonfed)
+    ### - [Twitter](https://twitter.com/jeffersonfed14)
+    ### - [Linkedin](https://linkedin.com/in/jeffersonfed)
 
 # Old Project
 - ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
