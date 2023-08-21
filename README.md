@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Focused+on+learning+JS+Frameworks,;and+other+frameworks(astro,+etc).&id=top)](https://github.com/jeffersonfed)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Seeking+Job+Experience+to;Complement+my+studies;and+grow+professionally.&id=top)](https://github.com/jeffersonfed)-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=600&size=40&duration=3000&pause=800&color=212121&background=13C1A3&center=true&vCenter=true&width=1000&height=60&lines=Nice+to+meet+you;I'm+a+Self-Taught+Developer;Seeking+Job+Experience+to;Complement+my+studies;and+grow+professionally.)](https://jeffersonrj.vercel.app/resume.html)
 
 <div align="center">
     
@@ -24,7 +26,7 @@
 
 
 <!-- Current focus -->
-Currently Focused on learning about Javascript (ES6+), frameworks, ....<br>
+Seeking job experience to complement my studies and grow professionally.
 My Quote:
 >"Learning has no age limit, and there are no words too late to learn."
 
