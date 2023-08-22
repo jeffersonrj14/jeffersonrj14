@@ -59,15 +59,17 @@ My Quote:
 - ### 🌱 I am currently focused on learning JS frameworks (such as React.js, Next.js), Astro, and Tailwind. I am also working on creating projects using these frameworks
     ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!
 - ### :speaking_head: I Speak 3 Languages: 
-    ### - Indonesia,<br>- English,<br>- Japanese
+    - Indonesia - Mother Tongue Language
+    - English - Fluent
+    - Japanese - Limited working proficiency
 - ### :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
 - ### Links:
-    ### - [My Portfolio](https://jeffersonrj.vercel.app)
-    ### - [My CV](https://jeffersonrj-cv.vercel.app)
-    ### - [My Resume PDF](https://jeffersonrj.vercel.app/assets/Resume_CV.pdf)<br> I will create a better version later.
-    ### - [Keybase](https://keybase.io/jeffersonfed)
-    ### - [Twitter](https://twitter.com/jeffersonfed14)
-    ### - [Linkedin](https://linkedin.com/in/jeffersonfed)
+    - [My Portfolio](https://jeffersonrj.vercel.app)
+    - [My CV](https://jeffersonrj-cv.vercel.app)
+    - [My Resume PDF](https://jeffersonrj.vercel.app/assets/Resume_CV.pdf)<br> I will create a better version later.
+    - [Keybase](https://keybase.io/jeffersonfed)
+    - [Twitter](https://twitter.com/jeffersonfed14)
+    - [Linkedin](https://linkedin.com/in/jeffersonfed)
 
 # Old Project
 - ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
