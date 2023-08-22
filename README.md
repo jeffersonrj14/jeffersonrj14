@@ -87,7 +87,7 @@ My Quote:
 ![EdX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-***
+
 
 <!--## 💻 Software I Use:
 [![](https://img.shields.io/badge/Editor:%20VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
@@ -109,7 +109,7 @@ My Quote:
 - [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)-->
-***
+
 <div id="github-stats">
 
 ## :bar_chart: My GitHub Stats:
