@@ -40,7 +40,7 @@ My Quote:
 [![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links-jefferson.vercel.app)
 </h2>
 
-# 🚀 About Me
+## 🚀 About Me
 
 <div align="center">
     
@@ -51,19 +51,20 @@ My Quote:
 
 </div>
 
-### I am a self-taught individual with a strong focus on <br>Front-End Development → Back-End Development → Full-Stack Development.
+#### I am a self-taught individual with a strong focus on <br> Front-End Development → Back-End Development → Full-Stack Development.
 
 <!--- ### 🌱 I keep learning for a deeper understanding of JavaScript, especially ES6+ and React.js/Next.js, front-end development, responsive web design, back-end development, Python, etc because I want to keep moving forward, not moving back.
 - ### 🤔 I am currently focused on learning frameworks.
     ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!-->
-- ### 🌱 I am currently focused on learning JS frameworks (such as React.js, Next.js), Astro, and Tailwind. I am also working on creating projects using these frameworks
-    ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!
-- ### :speaking_head: I Speak 3 Languages: 
+    
+- 🌱 I am currently focused on learning JS frameworks (such as React.js, Next.js), Astro, and Tailwind. I am also working on creating projects using these frameworks
+- Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!
+- :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
     - English - Fluent
     - Japanese - Limited working proficiency
-- ### :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
-- ### Links:
+- :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
+- Links:
     - [My Portfolio](https://jeffersonrj.vercel.app)
     - [My CV](https://jeffersonrj-cv.vercel.app)
     - [My Resume PDF](https://jeffersonrj.vercel.app/assets/Resume_CV.pdf)<br> I will create a better version later.
@@ -71,15 +72,15 @@ My Quote:
     - [Twitter](https://twitter.com/jeffersonfed14)
     - [Linkedin](https://linkedin.com/in/jeffersonfed)
 
-# Old Project
-- ### [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
+### Old Project
+- [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
 
 
 <!--
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/606481557615542273)
 -->
 
-## :books: My Learning Site:
+### :books: My Learning Site:
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Jefferson14)
 [![HackerRank](https://img.shields.io/badge/_-HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Jefferson14?hr_r=1)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -87,13 +88,6 @@ My Quote:
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ***
-
-
-<!--## :art: Design Software:
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) -->
 
 <!--## 💻 Software I Use:
 [![](https://img.shields.io/badge/Editor:%20VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
@@ -118,7 +112,7 @@ My Quote:
 ***
 <div id="github-stats">
 
-# :bar_chart: My GitHub Stats:
+## :bar_chart: My GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -126,7 +120,7 @@ My Quote:
 
 <div id="waka-time-stats">
     
-# :bar_chart: My Waka Time Stats:
+## :bar_chart: My Waka Time Stats:
 ### Update Every Monday
 <!--START_SECTION:waka-->
 
@@ -150,7 +144,7 @@ Other            1 hr 7 mins     =========================   00.71 %
 <!--END_SECTION:waka-->
 </div>
 
-# :headphones: Spotify:
+## :headphones: Spotify:
 
 [![](https://img.shields.io/badge/Listen_to-Spotify-green?&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/6OpjGPXUJ9ZVwPuy955UuL?si=1f5a72d75c6e4f26)
 <br>
