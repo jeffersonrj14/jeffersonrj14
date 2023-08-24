@@ -65,7 +65,7 @@ My Quote:
     - Japanese - Limited working proficiency
 - :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
 - Links:
-    - [My Portfolio](https://jeffersonrj.vercel.app)
+    - [My Portfolio](https://jeffersonfed.github.io)
     - [My CV](https://jeffersonrj-cv.vercel.app)
     - [My Resume PDF](https://jeffersonrj.vercel.app/assets/Resume_CV.pdf)<br> I will create a better version later.
     - [Keybase](https://keybase.io/jeffersonfed)
