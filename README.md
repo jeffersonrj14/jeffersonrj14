@@ -47,7 +47,8 @@ My Quote:
 ### 🛠 Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py,react,astro,bootstrap,bash)](https://skillicons.dev)<br><br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<!--
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)-->
 
 </div>
 
