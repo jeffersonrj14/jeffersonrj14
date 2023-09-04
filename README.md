@@ -111,13 +111,15 @@ My Quote:
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)-->
 
-<div id="github-stats">
 
 ## :bar_chart: My GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)-->
+<!--![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
+<div  width='100%' id="github-stats">
+    <img width='50%' height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img width='50%'  height="250px" alt="Stats" src="https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D" width="500" height="320" />
 </div>
+
 
 <div id="waka-time-stats">
     
