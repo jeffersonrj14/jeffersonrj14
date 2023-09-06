@@ -68,7 +68,7 @@ My Quote:
 - Links:
     - [My Portfolio](https://portfolio.jeffersonfed.xyz)
     - [My CV](https://jeffersonrj-cv.vercel.app)
-    - [My Resume PDF](https://portfolio.jeffersonfed.xyz/Resume_CV.pdf)<br> I will create a better version later.
+    - [My Resume PDF](https://portfolio.jeffersonfed.xyz/Resume_CV.pdf)
     - [Keybase](https://keybase.io/jeffersonfed)
     - [Twitter](https://twitter.com/jeffersonfed14)
     - [Linkedin](https://linkedin.com/in/jeffersonfed)
