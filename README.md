@@ -72,7 +72,8 @@ My Quote:
     - [Keybase](https://keybase.io/jeffersonfed)
     - [Twitter](https://twitter.com/jeffersonfed14)
     - [Linkedin](https://linkedin.com/in/jeffersonfed)
-    - [Personal Blog](https://jeffersonfed.xyz)
+    - [Personal Blog](https://jeffersonfed.xyz)<br>Under development.
+
 
 ### Old Project
 - [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
