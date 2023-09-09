@@ -110,19 +110,14 @@ My Quote:
 - [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)-->
 
 
-## :bar_chart: My GitHub Stats:
+## :bar_chart: My Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 <div  width='100%' id="github-stats">
     <img width='50%' height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img width='50%'  height="250px" alt="Stats" src="https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D" width="500" height="320" />
 </div>
-
-
 <div id="waka-time-stats">
-    
-## :bar_chart: My Waka Time Stats:
-### Update Every Monday
 <!--START_SECTION:waka-->
 
 ```txt
