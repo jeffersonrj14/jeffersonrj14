@@ -59,7 +59,7 @@ My Quote:
     ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!-->
     
 - 🌱 I am currently focused on learning JS frameworks (such as React.js, Next.js), Astro, and Tailwind. I am also working on creating projects using these frameworks
-- Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!
+- Check out my [activity stats](#github-stats)!
 - :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
     - English - Fluent
