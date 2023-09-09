@@ -24,20 +24,10 @@
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)-->
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
-
-<!-- Current focus -->
-Seeking job experience to complement my studies and grow professionally.<br>
-My Quote:
->"Learning has no age limit, and there are no words too late to learn."
-
-
 <!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed) 
 ![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
 
-
-
-
-[![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links-jefferson.vercel.app)
+[![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
 </h2>
 
 ## 🚀 About Me
@@ -66,14 +56,17 @@ My Quote:
     - Japanese - Limited working proficiency
 - :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
 - Links:
-    - [My Portfolio](https://portfolio.jeffersonfed.xyz)
-    - [My CV](https://jeffersonrj-cv.vercel.app)
+    - [My social Links](https://links.jeffersonfed.xyz)
     - [My Resume PDF](https://portfolio.jeffersonfed.xyz/Resume_CV.pdf)
     - [Keybase](https://keybase.io/jeffersonfed)
     - [Twitter](https://twitter.com/jeffersonfed14)
     - [Linkedin](https://linkedin.com/in/jeffersonfed)
     - [Personal Blog](https://jeffersonfed.xyz)<br>Under development.
 
+<!-- Current focus -->
+- Seeking job experience to complement my studies and grow professionally.<br>
+- My Quote:
+  >"Learning has no age limit, and there are no words too late to learn."
 
 ### Old Project
 - [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
