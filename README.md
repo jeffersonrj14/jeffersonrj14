@@ -43,13 +43,8 @@
 </div>
 
 #### I am a self-taught individual with a strong focus on <br> Front-End Development → Back-End Development → Full-Stack Development.
-
-<!--- ### 🌱 I keep learning for a deeper understanding of JavaScript, especially ES6+ and React.js/Next.js, front-end development, responsive web design, back-end development, Python, etc because I want to keep moving forward, not moving back.
-- ### 🤔 I am currently focused on learning frameworks.
-    ### - Check out my activity stats, [Github Stats](#github-stats) and [Waka Time Stats](#waka-time-stats)!-->
-    
+<!--🌱🤔 -->
 - 🌱 I am currently focused on learning JS frameworks (such as React.js, Next.js), Astro, and Tailwind. I am also working on creating projects using these frameworks
-- Check out my [activity stats](#github-stats)!
 - :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
     - English - Fluent
@@ -62,7 +57,7 @@
     - [Twitter](https://twitter.com/jeffersonfed14)
     - [Linkedin](https://linkedin.com/in/jeffersonfed)
     - [Personal Blog](https://jeffersonfed.xyz)<br>Under development.
-
+- Check out my [activity stats](#github-stats)!
 <!-- Current focus -->
 - Seeking job experience to complement my studies and grow professionally.<br>
 - My Quote:
