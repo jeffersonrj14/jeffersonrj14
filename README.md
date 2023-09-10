@@ -64,7 +64,7 @@
   >"Learning has no age limit, and there are no words too late to learn."
 
 ### Old Project
-- [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023. However, we decided to upload it to GitHub on July 11, 2023.
+- [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023.
 
 <!--
 ### :books: My Learning Site:
