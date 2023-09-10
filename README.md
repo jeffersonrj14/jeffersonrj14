@@ -63,7 +63,6 @@
 - My Quote:
   >"Learning has no age limit, and there are no words too late to learn."
 
-
 <!--
 ### Old Project
 - [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023.
@@ -83,8 +82,7 @@
 [![](https://img.shields.io/badge/Deployment:%20Vercel-000000?&logo=vercel&logoColor=white)](https://vercel.com)
 [![](https://img.shields.io/badge/Browser:%20Opera-FF1B2D?&logo=Opera&logoColor=white)](https://www.opera.com/gx/gx-browser?utm_id=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB&utm_medium=pa&utm_source=google&utm_campaign=OGX_ID_Search_EN_T1_Brand_V2&gad=1&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB)
 [![](https://img.shields.io/badge/Frameworks:%20Xampp-F37623?&logo=xampp&logoColor=white)](https://www.apachefriends.org)
-## 💻 My Laptop Specification:
-[![MSI Laptop](https://img.shields.io/badge/MSI%20laptop-FF0000?&logo=msi&logoColor=white)](https://www.msi.com/Laptop/GF63-Thin-9SCSR/Specification)-->
+
 
 <!-- 
 ### VS Code extensions I use:
