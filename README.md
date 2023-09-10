@@ -63,10 +63,12 @@
 - My Quote:
   >"Learning has no age limit, and there are no words too late to learn."
 
+
+<!--
 ### Old Project
 - [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023.
 
-<!--
+
 ### :books: My Learning Site:
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Jefferson14)
 [![HackerRank](https://img.shields.io/badge/_-HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Jefferson14?hr_r=1)
