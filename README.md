@@ -1,5 +1,3 @@
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&duration=3000&pause=800&color=21F718&center=true&width=1000&height=60&lines=Nice+to+Meet+you!;I+am+a+Self-Taught+Developer;Seeking+Job+Experience+to;Complement+my+studies;and+grow+professionally.&id=top)](https://github.com/jeffersonfed)-->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=600&size=40&duration=3000&pause=800&color=212121&background=13C1A3&center=true&vCenter=true&width=1000&height=60&lines=Nice+to+meet+you;I'm+a+Self-Taught+Developer;Seeking+Job+Experience+to;Complement+my+studies;and+grow+professionally.)](https://jeffersonrj.vercel.app/resume.html)
 
 <div align="center">
@@ -7,7 +5,6 @@
 #### FED → Forever Eager and Driven
 </div>
 <h2 align="center">
-    
 
 [![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](#top)
 [![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=blue&icon=5&pretty=false&style=flat)](#top)
@@ -16,16 +13,14 @@
 [![Gist](https://badges.pufler.dev/gists/jeffersonfed?&label=Gist&color=blue&icon=5&pretty=false&style=flat)](https://gist.github.com/jeffersonfed)
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&label=Last%20Updated&color=blue&icon=5&pretty=false&style=flat)](#top)
 
-
-<!-- ## 🌐 Socials: 
+[![Links](https://img.shields.io/badge/My%20Links-black?&logoColor=dfe6e9)](https://links.jeffersonfed.xyz)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?&logoColor=dfe6e9)](https://portfolio.jeffersonfed.xyz)
+[![Blog](https://img.shields.io/badge/My%20Blog-black?&logoColor=dfe6e9)](https://jeffersonfed.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonfed)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-dfe6e9?&logoColor=dfe6e9)](https://jeffersonrj.vercel.app)
-[![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)-->
+[![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
-<!--[![Visits Badge](https://badges.pufler.dev/visits/jeffersonfed/badge-it?&label=Profile%20Visits&color=2&icon=5&pretty=false&style=flat)](https://github.com/jeffersonfed) 
-![](https://komarev.com/ghpvc/?username=jeffersonfed&style=plastic)-->
 
 [![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
 </h2>
@@ -49,13 +44,6 @@
     - Indonesia - Mother Tongue Language
     - English - Fluent
     - Japanese - Limited working proficiency
-- Links:
-    - [My social Links](https://links.jeffersonfed.xyz)
-    - [My Resume PDF](https://portfolio.jeffersonfed.xyz/Resume_CV.pdf)
-    - [Keybase](https://keybase.io/jeffersonfed)
-    - [Twitter](https://twitter.com/jeffersonfed14)
-    - [Linkedin](https://linkedin.com/in/jeffersonfed)
-    - [Personal Blog](https://jeffersonfed.xyz)<br>Under development.
 - Check out my [activity stats](#github-stats)!
 <!-- Current focus -->
 - Seeking job experience to complement my studies and grow professionally.<br>
@@ -75,14 +63,6 @@
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 
-
-## 💻 Software I Use:
-[![](https://img.shields.io/badge/Editor:%20VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![](https://img.shields.io/badge/Deployment:%20Vercel-000000?&logo=vercel&logoColor=white)](https://vercel.com)
-[![](https://img.shields.io/badge/Browser:%20Opera-FF1B2D?&logo=Opera&logoColor=white)](https://www.opera.com/gx/gx-browser?utm_id=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB&utm_medium=pa&utm_source=google&utm_campaign=OGX_ID_Search_EN_T1_Brand_V2&gad=1&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xbFH121JwBw6_Q-8rHGxcQwZh3Rq-ZVZxtfhVq6ha7Pv1gUzBRYVPgaAhozEALw_wcB)
-[![](https://img.shields.io/badge/Frameworks:%20Xampp-F37623?&logo=xampp&logoColor=white)](https://www.apachefriends.org)
-
-
 <!-- 
 ### VS Code extensions I use:
 - [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)
@@ -98,9 +78,9 @@
 
 
 ## :bar_chart: My Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
+<!--
+![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
+
 <div  width='100%' id="github-stats">
     <img width='50%' height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /><img width='50%'  height="250px" alt="Stats" src="https://streak-stats.demolab.com?user=jeffersonfed&theme=tokyonight&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D" width="500" height="320" />
 </div>
