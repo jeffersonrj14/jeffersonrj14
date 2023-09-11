@@ -49,7 +49,6 @@
     - Indonesia - Mother Tongue Language
     - English - Fluent
     - Japanese - Limited working proficiency
-- :scroll: [My Certificate](/../../../../jeffersonfed/My-Certificate)
 - Links:
     - [My social Links](https://links.jeffersonfed.xyz)
     - [My Resume PDF](https://portfolio.jeffersonfed.xyz/Resume_CV.pdf)
