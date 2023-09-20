@@ -16,8 +16,8 @@
 [![Links](https://img.shields.io/badge/My%20Links-black?&logoColor=dfe6e9)](https://links.jeffersonfed.xyz)
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?&logoColor=dfe6e9)](https://portfolio.jeffersonfed.xyz)
 [![Blog](https://img.shields.io/badge/My%20Blog-black?&logoColor=dfe6e9)](https://jeffersonfed.xyz)
+[![Activity Status](https://img.shields.io/badge/My%20Status-black?&logoColor=dfe6e9)](https://activity.jeffersonfed.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonfed)
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
