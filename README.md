@@ -14,8 +14,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/jeffersonfed?&label=Last%20Updated&color=blue&icon=5&pretty=false&style=flat)](#top)
 
 [![Links](https://img.shields.io/badge/My%20Links-black?&logoColor=dfe6e9)](https://links.jeffersonfed.xyz)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-black?&logoColor=dfe6e9)](https://portfolio.jeffersonfed.xyz)
-[![Blog](https://img.shields.io/badge/My%20Blog-black?&logoColor=dfe6e9)](https://jeffersonfed.xyz)
 [![Activity Status](https://img.shields.io/badge/My%20Status-black?&logoColor=dfe6e9)](https://activity.jeffersonfed.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
@@ -48,6 +46,17 @@
 - Seeking job experience to complement my studies and grow professionally.<br>
 - My Quote:
   >"Learning has no age limit, and there are no words too late to learn."
+#### Projects
+- [Portfolio (In development)](https://portfolio.jeffersonfed.xyz)
+- [Javascript Project | Aug 2023 ~ Present](https://jefferson-jsproject.vercel.app)
+- [Personal Blog | Sep 2023 ~ Present](https://jeffersonfed.xyz)
+- [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
+- [Social Links | Jul 2023 - Aug 2023](https://links.jeffersonfed.xyz)
+- [Pokemon Short Game May 2022 - Jun 2022](https://pokemon-short-game.netlify.app)
+
+#### Old Projects and not in use
+- [Portfolio Old Version | Jul 2023 - Aug 2023](https://jeffersonfed-portfolio-old-ver.netlify.app)
+- [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonfed/Oldver-Links-jefferson)
 
 <!--
 ### Old Project
