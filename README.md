@@ -97,20 +97,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 09 October 2023
+From: 10 January 2023 - To: 16 October 2023
 
-Total Time: 249 hrs
+Total Time: 255 hrs 40 mins
 
-HTML             76 hrs 39 mins  >>>>>>>>=================   30.65 %
-JavaScript       36 hrs 46 mins  >>>>=====================   14.70 %
-Markdown         36 hrs 18 mins  >>>>=====================   14.52 %
-CSS              26 hrs 59 mins  >>>======================   10.79 %
-Astro            25 hrs 4 mins   >>>======================   10.02 %
-TypeScript       13 hrs 38 mins  >========================   05.46 %
-PHP              9 hrs 34 mins   >========================   03.83 %
-JSON             6 hrs 41 mins   >========================   02.68 %
-Python           4 hrs 6 mins    =========================   01.65 %
-TeX              3 hrs 39 mins   =========================   01.47 %
+HTML             78 hrs 3 mins   >>>>>>>>=================   30.40 %
+Markdown         37 hrs 19 mins  >>>>=====================   14.54 %
+JavaScript       36 hrs 56 mins  >>>>=====================   14.39 %
+CSS              27 hrs 11 mins  >>>======================   10.59 %
+Astro            26 hrs 13 mins  >>>======================   10.22 %
+TypeScript       14 hrs 35 mins  >========================   05.69 %
+PHP              9 hrs 34 mins   >========================   03.73 %
+JSON             7 hrs 13 mins   >========================   02.82 %
+Python           4 hrs 6 mins    =========================   01.60 %
+TeX              3 hrs 39 mins   =========================   01.43 %
 ```
 
 <!--END_SECTION:waka-->
