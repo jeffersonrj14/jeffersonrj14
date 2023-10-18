@@ -35,7 +35,7 @@
 
 </div>
 
-#### 🌱 I am a self-taught developer currently focused on relearning JavaScript to build a solid foundation before moving into various JavaScript frameworks and libraries.
+- 🌱 I am a self-taught developer currently focused on relearning JavaScript to build a solid foundation before moving into various JavaScript frameworks and libraries.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
