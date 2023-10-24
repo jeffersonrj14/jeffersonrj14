@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=600&size=40&duration=3000&pause=800&color=212121&background=13C1A3&center=true&vCenter=true&width=1000&height=60&lines=Nice+to+meet+you;I'm+a+Self-Taught+Developer;Seeking+Job+Experience+to;Complement+my+studies;and+grow+professionally.)](https://jeffersonrj.vercel.app/resume.html)
 
+<!--
 <div align="center">
     
 #### FED → Forever Eager and Driven
-</div>
+</div>-->
 <h2 align="center">
 
 [![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](#top)
