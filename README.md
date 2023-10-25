@@ -34,7 +34,7 @@
 
 </div>
 
-- 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developers and Back-End Developers courses.
+- 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
