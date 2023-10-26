@@ -173,12 +173,14 @@
 			<img width="auto" height="30px" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 		</td>
 		<td>
+			<img width="auto" height="30px" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+		</td>
+		<td>
 			<img width="auto" height="30px" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 		</td>
 		<td>
 			<img width="auto" height="30px" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
 		</td>
-		<td></td>
 	</tr>
 </table>
 <!-- No table Version
