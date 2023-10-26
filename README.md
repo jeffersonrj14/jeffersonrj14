@@ -24,7 +24,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
-[![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
+[![BuyMeACoffee](https://img.shields.io/badge/SPONSOR-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#white)](https://buymeacoffee.com/jeffersonfed)
 </div>
 
 # Table of Content
@@ -136,13 +136,16 @@
 			<img width="auto" height="30px" alt="Eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
 		</td>
 		<td>
-			<img width="auto" height="30px" alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+			<img width="auto" height="30px" alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 		</td>
 		<td>
-			<img width="auto" height="30px" alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
+			<img width="auto" height="30px" alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
 		</td>
 	</tr>
  	<tr>
+		<td>
+			<img width="auto" height="30px" alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
+		</td>
 		<td>
 			<img width="auto" height="30px" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 		</td>
@@ -153,16 +156,19 @@
 			<img width="auto" height="30px" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 		</td>
 		<td>
-			<img width="auto" height="30px" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+			<img width="auto" height="30px" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 		</td>
+		<td>
+			<img width="auto" height="30px" alt="PNPM" src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
+		</td>
+  	</tr>
+   	<tr>
 		<td>
 			<img width="auto" height="30px" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 		</td>
 		<td>
 			<img width="auto" height="30px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 		</td>
-  	</tr>
-   	<tr>
 		<td>
 			<img width="auto" height="30px" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 		</td>
@@ -174,6 +180,11 @@
 		</td>
 		<td>
 			<img width="auto" height="30px" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
 		</td>
 		<td>
 			<img width="auto" height="30px" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
