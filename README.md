@@ -31,28 +31,17 @@
 
 1. [About Me](#-about-me)
 2. [Project](#projects)
-3. [Github Stats](#github-stats)
-4. [Waka Time Stats](#waka-time-stats)
+3. [Technologies/Skill](#technologies)
+4. [Github Stats](#github-stats)
+5. [Waka Time Stats](#waka-time-stats)
 
 ## 🚀 About Me
-
-<div align="center">
-    
-### 🛠 Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash)](https://skillicons.dev)<br><br>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<!--
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)-->
-
-</div>
-
 - 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
     - English - Fluent
     - Japanese - Limited working proficiency
-- Check out my [activity stats](#github-stats)!
 <!-- Current focus -->
 - Seeking job experience to complement my studies and grow professionally.<br>
 - My Quote:
@@ -69,6 +58,131 @@
 - [Portfolio Old Version | Jul 2023 - Aug 2023](https://jeffersonfed-portfolio-old-ver.netlify.app)
 - [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonfed/Oldver-Links-jefferson)
 - [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonfed/Old-Online-Shop)
+
+***
+
+## Technologies
+
+### CI/CD
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Design
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-31A8FF?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### Frameworks, Platforms and Libraries
+<table>
+	<tr align="left">
+		<td>
+			<img alt="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0">
+		</td>
+		<td>
+			<img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE">
+		</td>
+		<td>
+			<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+		</td>
+		<td>
+			<img alt="Eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
+		</td>
+		<td>
+			<img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+		</td>
+		<td>
+			<img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
+		</td>
+		<td>
+			<img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+		</td>
+	</tr>
+ 	<tr>
+		<td>
+			<img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+		</td>
+  		<td>
+			<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+		</td>
+		<td>
+			<img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+		</td>
+		<td>
+			<img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+		</td>
+		<td>
+			<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+		</td>
+		<td>
+			<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+		</td>
+		<td>
+			<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+		</td>
+  	</tr>
+   	<tr>
+		<td>
+			<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+		</td>
+		<td>
+			<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+		</td>
+		<td>
+			<img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+		</td>
+		<td colspan="4"></td>
+	</tr>
+<!-- No table Version
+![AlpineJS](https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+-->
+
+</table>
+
+### Hosting/SaaS
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### IDE
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Programming & Markdown, Styling Languages
+
+<table>
+	<tr>
+		<td><img alt="" src=""></td>
+		<td><img alt="" src=""></td>
+		<td><img alt="" src=""></td>
+	</tr>
+</table>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=e6e6e6)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 
 
