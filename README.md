@@ -22,9 +22,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
-[![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
-[![BuyMeACoffee](https://img.shields.io/badge/SPONSOR-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#white)](https://buymeacoffee.com/jeffersonfed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
+[![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
+[![Sponsor](https://img.shields.io/badge/SPONSOR-30363D?style=plastic&logo=GitHub-Sponsors&logoColor=#white)](https://buymeacoffee.com/jeffersonfed)
 </div>
 
 # Table of Content
