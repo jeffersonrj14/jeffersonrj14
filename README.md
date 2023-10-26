@@ -64,72 +64,97 @@
 ## Technologies
 
 ### CI/CD
+
+<table>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+		</td>
+	</tr>
+</table>
+
+<!--No table Version
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+-->
 
 ### Design
+
+<table>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="Adobe After Effects" src="https://img.shields.io/badge/After%20Effects-31A8FF?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+		</td>
+	</tr>
+</table>
+<!--
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-31A8FF?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+-->
 
 ### Frameworks, Platforms and Libraries
 <table>
-	<tr align="left">
+	<tr>
 		<td>
-			<img alt="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0">
+			<img width="auto" height="30px" alt="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0">
 		</td>
 		<td>
-			<img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE">
+			<img width="auto" height="30px" alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE">
 		</td>
 		<td>
-			<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+			<img width="auto" height="30px" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 		</td>
 		<td>
-			<img alt="Eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
+			<img width="auto" height="30px" alt="Eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
 		</td>
 		<td>
-			<img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+			<img width="auto" height="30px" alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
 		</td>
 		<td>
-			<img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
-		</td>
-		<td>
-			<img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+			<img width="auto" height="30px" alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
 		</td>
 	</tr>
  	<tr>
 		<td>
-			<img alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+			<img width="auto" height="30px" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 		</td>
   		<td>
-			<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+			<img width="auto" height="30px" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 		</td>
 		<td>
-			<img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+			<img width="auto" height="30px" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 		</td>
 		<td>
-			<img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+			<img width="auto" height="30px" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 		</td>
 		<td>
-			<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-		</td>
-		<td>
-			<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-		</td>
-		<td>
-			<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+			<img width="auto" height="30px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 		</td>
   	</tr>
    	<tr>
 		<td>
-			<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+			<img width="auto" height="30px" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 		</td>
 		<td>
-			<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+			<img width="auto" height="30px" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 		</td>
 		<td>
-			<img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+			<img width="auto" height="30px" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 		</td>
-		<td colspan="4"></td>
+		<td>
+			<img width="auto" height="30px" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+		</td>
+		<td></td>
 	</tr>
+</table>
 <!-- No table Version
 ![AlpineJS](https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
@@ -150,25 +175,76 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 -->
 
-</table>
+
 
 ### Hosting/SaaS
+
+<table>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+		</td>
+	</tr>
+</table>
+<!-- No table Version
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<table>
+	<tr>
+		<td><img width="auto" height="30px" alt="" src=""></td>
+	</tr>
+</table>
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+-->
 
 ### IDE
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+<table>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+		</td>
+	</tr>
+</table>
+
+
 
 ### Programming & Markdown, Styling Languages
 
 <table>
 	<tr>
-		<td><img alt="" src=""></td>
-		<td><img alt="" src=""></td>
-		<td><img alt="" src=""></td>
+		<td>
+			<img width="auto" height="30px" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Solidity" src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=e6e6e6">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+		</td>
 	</tr>
 </table>
-
+<!-- No Table Version
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -177,27 +253,20 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=e6e6e6)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+-->
 
+### Version Control
 
+<table>
+	<tr>
+		<td><img width="auto" height="30px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
+		<td><img width="auto" height="30px" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
+	</tr>
+</table>
 
-
-<!--
-### Old Project
-- [Old Project](/../../../../jeffersonfed/Old-Project/tree/main/2023/50%25_Complete) <br>This project was last updated in March 2023.
-
-
-### :books: My Learning Site:
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Jefferson14)
-[![HackerRank](https://img.shields.io/badge/_-HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Jefferson14?hr_r=1)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![EdX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 
 <!-- 
 ### VS Code extensions I use:
