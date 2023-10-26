@@ -63,6 +63,17 @@
 
 ## Technologies
 
+### Analytics
+
+<table>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="WakaTime" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white">
+		</td>
+	</tr>
+</table>
+
+
 ### CI/CD
 
 <table>
@@ -75,7 +86,22 @@
 
 <!--No table Version
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<table>
+	<tr>
+		<td><img width="auto" height="30px" alt="" src=""></td>
+	</tr>
+</table>
 -->
+
+### Databases
+
+<table>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+		</td>
+	</tr>
+</table>
 
 ### Design
 
@@ -262,8 +288,12 @@
 
 <table>
 	<tr>
-		<td><img width="auto" height="30px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
-		<td><img width="auto" height="30px" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
+		<td>
+			<img width="auto" height="30px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+		</td>
 	</tr>
 </table>
 
