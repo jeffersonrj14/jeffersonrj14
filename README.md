@@ -24,7 +24,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
-[![Sponsor](https://img.shields.io/badge/SPONSOR-30363D?style=plastic&logo=GitHub-Sponsors&logoColor=#white)](https://buymeacoffee.com/jeffersonfed)
+[![Sponsor](https://img.shields.io/badge/SPONSOR-30363D?style=plastic&logo=GitHub-Sponsors&logoColor=#white)](https://ko-fi.com/jeffersonfed)
 </div>
 
 # Table of Content
