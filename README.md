@@ -20,6 +20,8 @@
 
 [![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
@@ -105,11 +107,12 @@
 	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonfed/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
 
+<div id="waka-time-stats">
+
 ## :bar_chart: My Waka Time Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
-<div id="waka-time-stats">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -132,6 +135,7 @@ TeX              3 hrs 39 mins   =========================   01.41 %
 <!--END_SECTION:waka-->
 </div>
 
+<!--
 ## :headphones: Spotify:
 
 [![](https://img.shields.io/badge/Listen_to-Spotify-green?&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/6OpjGPXUJ9ZVwPuy955UuL?si=1f5a72d75c6e4f26)
@@ -141,7 +145,7 @@ TeX              3 hrs 39 mins   =========================   01.41 %
 
 
 
-<!-- - #### :musical_note: My Favorite Artist Music:
+ - #### :musical_note: My Favorite Artist Music:
     - [Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96?si=c4b83801ebe244ad)
     - [Official髭男dism](https://open.spotify.com/playlist/37i9dQZF1DX0MkpDFqXa80?si=1e548c6f11484771)
     - [燐舞曲](https://open.spotify.com/artist/44GR8gyoJ4DnH3mqaq2x7G?si=jmU5X2REQ2K1bPHKcaMQjA)
