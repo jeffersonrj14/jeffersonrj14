@@ -1,26 +1,25 @@
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=600&size=40&duration=3000&pause=800&color=212121&background=13C1A3&center=true&vCenter=true&width=1000&height=60&lines=Hello+and+Welcome;)](https://github.com/jeffersonfed)
 
-<!--
+
 <div align="center">
     
 #### FED → Forever Eager and Driven
 </div>-->
-
-<h3 align="center">
-
-[![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](#top)
-[![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=blue&icon=5&pretty=false&style=flat)](#top)
-[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=blue&icon=5&pretty=false&style=flat)](#top)
-[![Gist](https://badges.pufler.dev/gists/jeffersonfed?&label=Gist&color=blue&icon=5&pretty=false&style=flat)](https://gist.github.com/jeffersonfed)
 <!--
 [![Links](https://img.shields.io/badge/My%20Links-black?&logoColor=dfe6e9)](https://links.jeffersonfed.xyz)
 [![Activity Status](https://img.shields.io/badge/My%20Status-black?&logoColor=dfe6e9)](https://activity.jeffersonfed.xyz)-->
-</h3>
-<div align="center">
+
+<div align="center" id="top">
 
 [![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
+
+[![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=plastic)](#top)
+[![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=blue&icon=5&pretty=false&style=plastic)](#top)
+[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=blue&icon=5&pretty=false&style=plastic)](#top)
+[![Gist](https://badges.pufler.dev/gists/jeffersonfed?&label=Gist&color=blue&icon=5&pretty=false&style=plastic)](https://gist.github.com/jeffersonfed)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
