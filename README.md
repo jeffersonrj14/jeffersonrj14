@@ -31,11 +31,11 @@
 
 1. [About Me](#-about-me)
 2. [Project](#projects)
-3. [Technologies/Skill](#technologies)
+3. [Technologies/Skill](#hammer_and_wrench-technologies)
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](#waka-time-stats)
 
-## 🚀 About Me
+# 🚀 About Me
 - 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
@@ -61,7 +61,7 @@
 
 ***
 
-## Technologies
+# :hammer_and_wrench: Technologies
 
 ### Analytics
 
@@ -133,9 +133,6 @@
 			<img width="auto" height="30px" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 		</td>
 		<td>
-			<img width="auto" height="30px" alt="Eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
-		</td>
-		<td>
 			<img width="auto" height="30px" alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 		</td>
 		<td>
@@ -158,13 +155,10 @@
 		<td>
 			<img width="auto" height="30px" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 		</td>
-		<td>
-			<img width="auto" height="30px" alt="PNPM" src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
-		</td>
   	</tr>
    	<tr>
 		<td>
-			<img width="auto" height="30px" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+			<img width="auto" height="30px" alt="PNPM" src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
 		</td>
 		<td>
 			<img width="auto" height="30px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -178,11 +172,11 @@
 		<td>
 			<img width="auto" height="30px" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 		</td>
+	</tr>
+	<tr>
 		<td>
 			<img width="auto" height="30px" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<img width="auto" height="30px" alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
 		</td>
@@ -244,7 +238,26 @@
 <table>
 	<tr>
 		<td>
+			<img width="auto" height="30px" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-black.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=90E59A">
+		</td>
+		<td>
 			<img width="auto" height="30px" alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+		</td>
+	</tr>
+</table>
+
+### Linters
+
+<table>
+	<tr>
+		<td>
+			<img width="auto" height="30px" alt="Eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
+		</td>
+		<td>
+			<img width="auto" height="30px" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 		</td>
 	</tr>
 </table>
@@ -255,6 +268,9 @@
 
 <table>
 	<tr>
+		<td>
+			<img width="auto" height="30px" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+		</td>
 		<td>
 			<img width="auto" height="30px" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 		</td>
@@ -276,6 +292,9 @@
 			<img width="auto" height="30px" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 		</td>
 		<td>
+			<img width="auto" height="30px" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+		</td>
+		<td>
 			<img width="auto" height="30px" alt="Solidity" src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=e6e6e6">
 		</td>
 		<td>
@@ -294,7 +313,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 -->
 
 ### Version Control
@@ -309,6 +327,7 @@
 		</td>
 	</tr>
 </table>
+
 
 
 <!-- 
@@ -335,7 +354,7 @@
 
 <div id="waka-time-stats">
 
-## :bar_chart: My Waka Time Stats:
+# :bar_chart: My Waka Time Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
