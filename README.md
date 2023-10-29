@@ -28,11 +28,14 @@
 
 # Table of Content
 
-1. [About Me](#-about-me)
-2. [Project](#projects)
-3. [Technologies/Skill](#hammer_and_wrench-technologies)
+1. [About Me](#aboutme)
+2. [Project](#projectsection)
+3. [Technologies/Skill](#technologies)
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](#waka-time-stats)
+
+
+<div id="aboutme"></div>
 
 # 🚀 About Me
 - 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
@@ -45,6 +48,9 @@
 - Seeking job experience to complement my studies and grow professionally.<br>
 - My Quote:
   >"Learning has no age limit, and there are no words too late to learn."
+
+<div id="projectsection"></div>
+
 #### Projects
 - [Portfolio (In development)](https://portfolio.jeffersonfed.xyz)
 - [Javascript Project | Aug 2023 ~ Present](https://jefferson-jsproject.vercel.app)
@@ -59,6 +65,8 @@
 - [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonfed/Old-Online-Shop)
 
 ***
+
+<div id="technologies"></div>
 
 # :hammer_and_wrench: Technologies
 
