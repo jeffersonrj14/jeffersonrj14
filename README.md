@@ -34,10 +34,7 @@
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](#waka-time-stats)
 
-
-<div id="aboutme"></div>
-
-# 🚀 About Me
+# 🚀 About Me <div id="aboutme"></div>
 - 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
@@ -49,9 +46,7 @@
 - My Quote:
   >"Learning has no age limit, and there are no words too late to learn."
 
-<div id="projectsection"></div>
-
-#### Projects
+#### Projects <div id="projectsection"></div>
 - [Portfolio (In development)](https://portfolio.jeffersonfed.xyz)
 - [Javascript Project | Aug 2023 ~ Present](https://jefferson-jsproject.vercel.app)
 - [Personal Blog | Sep 2023 ~ Present](https://jeffersonfed.xyz)
@@ -66,10 +61,7 @@
 
 ***
 
-<div id="technologies"></div>
-
-# :hammer_and_wrench: Technologies
-
+# :hammer_and_wrench: Technologies <div id="technologies"></div>
 ### Analytics
 
 <table>
@@ -360,9 +352,6 @@
 </p>
 
 # :bar_chart: My Waka Time Stats: <div id="waka-time-stats"></div>
-<!--
-![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
-
 <!--START_SECTION:waka-->
 
 ```txt
