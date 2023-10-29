@@ -359,7 +359,7 @@
 	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonfed/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
 
-# :bar_chart: My Waka Time Stats: <div id="waka-time-stats">
+# :bar_chart: My Waka Time Stats: <div id="waka-time-stats"></div>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=jeffersonfed&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
 
