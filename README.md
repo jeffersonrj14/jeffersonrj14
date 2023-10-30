@@ -48,7 +48,9 @@
 - My Quote:
   >"Learning has no age limit, and there are no words too late to learn."
 
-#### Projects <div id="projectsection"></div>
+<div id="projectsection"></div>
+
+#### Projects
 - [Portfolio (In development)](https://portfolio.jeffersonfed.xyz)
 - [Javascript Project | Aug 2023 ~ Present](https://jefferson-jsproject.vercel.app)
 - [Personal Blog | Sep 2023 ~ Present](https://jeffersonfed.xyz)
