@@ -34,7 +34,9 @@
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](#waka-time-stats)
 
-# <div id="aboutme"></div> 🚀 About Me 
+<div id="aboutme"></div> 
+
+# 🚀 About Me 
 - 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
@@ -60,8 +62,9 @@
 - [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonfed/Old-Online-Shop)
 
 ***
+<div id="technologies"></div>
 
-# <div id="technologies"></div> :hammer_and_wrench: Technologies 
+# :hammer_and_wrench: Technologies 
 ### Analytics
 
 <table>
@@ -351,7 +354,9 @@
 	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonfed/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
 
-# <div id="waka-time-stats"></div> :bar_chart: My Waka Time Stats:
+<div id="waka-time-stats"></div>
+
+# :bar_chart: My Waka Time Stats:
 <!--START_SECTION:waka-->
 
 ```txt
