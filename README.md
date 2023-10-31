@@ -51,6 +51,30 @@
 <div id="projectsection"></div>
 
 #### Projects
+
+<details>
+<summary>
+<b>Personal Project</b>
+</summary>
+
+<table>
+<tbody>
+<!-- Projects -->
+<tr>
+  <td>
+  <details>
+  <summary>
+  <code>Projects</code>
+  </summary>
+  
+  ```
+  Current Project / Project in progress / Finished Project
+  ```
+
+  </details>
+  </td>
+  <td>
+
 - [Portfolio (In development)](https://portfolio.jeffersonfed.xyz)
 - [Javascript Project | Aug 2023 ~ Present](https://jefferson-jsproject.vercel.app)
 - [Personal Blog | Sep 2023 ~ Present](https://jeffersonfed.xyz)
@@ -58,10 +82,35 @@
 - [Social Links | Jul 2023 - Aug 2023](https://links.jeffersonfed.xyz)
 - [Pokemon Short Game May 2022 - Jun 2022](https://pokemon-short-game.netlify.app)
 
-#### Old Projects and not in use
+  </td>
+</tr>
+<!-- Old Project -->
+<tr>
+  <td>
+  <details>
+  <summary>
+  <code>Old Project</code>
+  </summary>
+  
+  ```
+  Portfolio Old Version :: My old Portfolio and I created to template
+  Social Link      	:: Old Project
+  Old Online Shop       :: Not finished, will not resumed and I will not put it in my portfolio
+  ```
+
+  </details>
+  </td>
+  <td>
+
 - [Portfolio Old Version | Jul 2023 - Aug 2023](https://jeffersonfed-portfolio-old-ver.netlify.app)
 - [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonfed/Oldver-Links-jefferson)
 - [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonfed/Old-Online-Shop)
+
+  </td>
+</tr>
+</tbody>
+</table>
+</details>
 
 ***
 <div id="technologies"></div>
