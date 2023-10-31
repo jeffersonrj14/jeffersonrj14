@@ -62,16 +62,16 @@
 <!-- Projects -->
 <tr>
   <td>
-  <details>
+<!--   <details> -->
   <summary>
   <code>Projects</code>
   </summary>
   
-  ```
+<!--  ```
   Current Project / Project in progress / Finished Project
   ```
 
-  </details>
+  </details>-->
   </td>
   <td>
 
@@ -87,18 +87,19 @@
 <!-- Old Project -->
 <tr>
   <td>
-  <details>
+<!--   <details> -->
   <summary>
   <code>Old Project</code>
   </summary>
-  
+
+  <!--
   ```
   Portfolio Old Version :: My old Portfolio and I created to template
   Social Link      	:: Old Project
   Old Online Shop       :: Not finished, will not resumed and I will not put it in my portfolio
   ```
 
-  </details>
+  </details>-->
   </td>
   <td>
 
