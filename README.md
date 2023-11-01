@@ -319,7 +319,7 @@ TeX              3 hrs 39 mins   =========================   01.37 %
 ====== Line ====== 
 -->
 
- [hr-style]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&customColorList=0,23
+ [hr-style]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2
 
  <!-- 
 ====== Tech Stack ====== 
