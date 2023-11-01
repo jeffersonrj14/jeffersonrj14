@@ -107,7 +107,7 @@
 </h2>
 <div id="technologies"></div>
 
-# :hammer_and_wrench: Technologies 
+# :hammer_and_wrench: Skills / Technologies 
 
 <!--No table Version
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
