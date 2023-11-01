@@ -1,15 +1,3 @@
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=600&size=40&duration=3000&pause=800&color=212121&background=13C1A3&center=true&vCenter=true&width=1000&height=60&lines=Hello+and+Welcome;)](https://github.com/jeffersonfed)
-
-
-<div align="center">
-    
-#### FED → Forever Eager and Driven
-</div>-->
-<!--
-[![Links](https://img.shields.io/badge/My%20Links-black?&logoColor=dfe6e9)](https://links.jeffersonfed.xyz)
-[![Activity Status](https://img.shields.io/badge/My%20Status-black?&logoColor=dfe6e9)](https://activity.jeffersonfed.xyz)-->
-
 <div align="center" id="top">
 
 [![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
@@ -113,65 +101,22 @@
 </table>
 </details>
 
-***
+<h2 align = "center";>
+	
+![<hr />][hr-style]<br />
+</h2>
 <div id="technologies"></div>
 
 # :hammer_and_wrench: Technologies 
-### Analytics
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="WakaTime" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white">
-		</td>
-	</tr>
-</table>
-
-
-### CI/CD
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-		</td>
-	</tr>
-</table>
 
 <!--No table Version
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+Table Version
 <table>
 	<tr>
 		<td><img width="auto" height="30px" alt="" src=""></td>
 	</tr>
 </table>
--->
-
-### Databases
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-		</td>
-	</tr>
-</table>
-
-### Design
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="Adobe After Effects" src="https://img.shields.io/badge/After%20Effects-31A8FF?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-		</td>
-	</tr>
-</table>
-<!--
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-31A8FF?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 -->
 
 ### Frameworks, Platforms and Libraries
@@ -383,19 +328,52 @@
 </table>
 
 
+<details>
+<summary>
+<b>Analytics</b>
+</summary>
+<br />
 
-<!-- 
-### VS Code extensions I use:
-- [Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme)
-- [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
-- [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
-- [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
-- [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)-->
+| | |
+| - | - |
+| Wakatime     | [ ![wakatime][wakatime-badge] ][wakatime-link] |
+</details>
+
+<details>
+<summary>
+<b>CI/CD</b>
+</summary>
+<br />
+
+| | |
+| - | - |
+| Github Action     | [ ![Github Action][githubaction-badge] ][githubaction-link] |
+</details>
+
+<details>
+<summary>
+<b>Databases</b>
+</summary>
+<br />
+
+| | |
+| - | - |
+| MYSQL     | [ ![MYSQL][mysql-badge] ][mysql-link] |
+</details>
+
+<details>
+<summary>
+<b>Design</b>
+</summary>
+<br />
+
+| | |
+| - | - |
+| After Effects     | [ ![After Effects][aftereffects-badge] ][aftereffects-link] |
+| Canva     | [ ![Canva][canva-badge] ][canva-link] |
+</details>
+
+
 
 <p align="center" id="github-stats">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
@@ -432,14 +410,8 @@ TeX              3 hrs 39 mins   =========================   01.37 %
 </div>
 
 <!--
-## :headphones: Spotify:
-
-[![](https://img.shields.io/badge/Listen_to-Spotify-green?&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/6OpjGPXUJ9ZVwPuy955UuL?si=1f5a72d75c6e4f26)
-<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
-
-
 
  - #### :musical_note: My Favorite Artist Music:
     - [Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96?si=c4b83801ebe244ad)
@@ -461,27 +433,43 @@ TeX              3 hrs 39 mins   =========================   01.37 %
     - [Unti-L - SawanoHiroyuki[nZK]:ASCA](https://open.spotify.com/track/2nFDGqRXiWm5ESB4VzdIv2?si=88f2f2be2c124c2c) 
      <br><br>-->
 
-***
 <h2 align = "center";>
+	
+![<hr />][hr-style]<br />
   <a href = "#top">
     Back to Top 
   </a>
 </h2>
 
 
-
-<!--
-# 💰 To Donate
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed) 
-
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+====== Line ====== 
 -->
+
+ [hr-style]: https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&customColorList=0,23
+
+ <!-- 
+====== Tech Stack ====== 
+-->
+<!-- Wakatime -->
+[wakatime-badge]: https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white
+[wakatime-link]: https://wakatime.com
+
+<!-- Github Action -->
+[githubaction-badge]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[githubaction-link]: https://github.com/features/actions
+
+<!-- MYSQL -->
+[mysql-badge]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-link]: https://www.mysql.com
+
+<!-- After Effects -->
+[aftereffects-badge]: https://img.shields.io/badge/After%20Effects-31A8FF?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=black
+[aftereffects-link]: https://www.adobe.com/products/aftereffects/campaign/pricing.html?sdid=L3XTTPNV&mv=search&mv2=paidsearch&ef_id=Cj0KCQjwy4KqBhD0ARIsAEbCt6gopXRRt3qDcExi234ozoP4GIX_5K2nlahEFBOD9y5sYYCbj7qnHzAaAkOBEALw_wcB%3AG%3As&s_kwcid=AL%213085%213%21636707352609%21e%21%21g%21%21after+effects%21703952805%2138400810418&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6gopXRRt3qDcExi234ozoP4GIX_5K2nlahEFBOD9y5sYYCbj7qnHzAaAkOBEALw_wcB
+
+<!-- Canva -->
+[canva-badge]: https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white
+[canva-link]: https://www.canva.com
+
+
+
