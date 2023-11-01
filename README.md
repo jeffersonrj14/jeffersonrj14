@@ -52,7 +52,7 @@
   <td>
 <!--   <details> -->
   <summary>
-  <code>Projects</code>
+  <b>Projects</b>
   </summary>
   
 <!--  ```
@@ -77,7 +77,7 @@
   <td>
 <!--   <details> -->
   <summary>
-  <code>Old Project</code>
+  <b>Old Project</b>
   </summary>
 
   <!--
@@ -118,96 +118,6 @@ Table Version
 	</tr>
 </table>
 -->
-
-### Frameworks, Platforms and Libraries
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
-		</td>
-	</tr>
- 	<tr>
-		<td>
-			<img width="auto" height="30px" alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="NextJS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-		</td>
-  		<td>
-			<img width="auto" height="30px" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-		</td>
-  	</tr>
-   	<tr>
-		<td>
-			<img width="auto" height="30px" alt="PNPM" src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-		</td>
-	</tr>
-</table>
-<!-- No table Version
-![AlpineJS](https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0)
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
--->
-
-
 
 ### Hosting/SaaS
 
@@ -373,6 +283,26 @@ Table Version
 | Canva     | [ ![Canva][canva-badge] ][canva-link] |
 </details>
 
+<details>
+<summary>
+<b>Frameworks, Platforms and Libraries</b>
+</summary>
+<br />
+
+| | | | | |
+| - | - | - | - | - |
+| Alpine.js     | [ ![Alpine JS][alpinejs-badge] ][alpinejs-link] | |  Astro  | [ ![Astro][astro-badge] ][astro-link] 
+| Bootstrap | [ ![Bootstrap][bootstrap-badge] ][bootstrap-link] | | Font Awesome     | [ ![Font Awesome][fontawesome-badge] ][fontawesome-link] |
+| Github Pages     | [ ![Github Pages][githubpages-badge] ][githubpages-link] | | Jekyll | [ ![Jekyll][jekyll-badge] ][jekyll-link] |
+| JQuery | [ ![JQuery][jquery-badge] ][jquery-link] | | Next.js | [ ![NextJS][nextjs-badge] ][nextjs-link] |
+| Node.js | [ ![NodeJS][nodejs-badge] ][nodejs-link] | | NPM | [ ![NPM][npm-badge] ][npm-link] |
+| PNPM | [ ![PNPM][pnpm-badge] ][pnpm-link] | | React.js | [ ![React][react-badge] ][react-link] |
+| React Router | [ ![React Router][reactrouter-badge] ][reactrouter-link] | | Redux | [ ![Redux][redux-badge] ][redux-link] |
+| SASS | [ ![SASS][sass-badge] ][sass-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
+| Vite | [ ![Vite][vite-badge] ][vite-link] | | Vue.js | [ ![Vue][vue-badge] ][vue-link] |
+| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |
+</details>
+
 
 
 <p align="center" id="github-stats">
@@ -470,6 +400,82 @@ TeX              3 hrs 39 mins   =========================   01.37 %
 <!-- Canva -->
 [canva-badge]: https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white
 [canva-link]: https://www.canva.com
+
+<!-- AlpineJS -->
+[alpinejs-badge]: https://img.shields.io/badge/Alpine%20JS-black?style=for-the-badge&logo=alpinedotjs&logoColor=8BC0D0
+[alpinejs-link]: https://alpinejs.dev
+
+<!-- Astro -->
+[astro-badge]: https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE
+[astro-link]: https://astro.build
+
+<!-- Bootstrap -->
+[bootstrap-badge]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white
+[bootstrap-link]: https://getbootstrap.com
+
+<!-- Font Awesome -->
+[fontawesome-badge]: https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white
+[fontawesome-link]: https://fontawesome.com
+
+<!-- Github Pages -->
+[githubpages-badge]: https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
+[githubpages-link]: https://pages.github.com
+
+<!-- Jekyll -->
+[jekyll-badge]: https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white
+[jekyll-link]: https://jekyllrb.com
+
+<!-- Jquery -->
+[jquery-badge]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[jquery-link]: https://jquery.com
+
+<!-- NextJS -->
+[nextjs-badge]: https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[nextjs-link]: https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+
+<!-- NodeJS -->
+[nodejs-badge]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[nodejs-link]: https://nodejs.org/en
+
+<!-- NPM -->
+[npm-badge]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[npm-link]: https://www.npmjs.com
+
+<!-- PNPM -->
+[pnpm-badge]: https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white
+[pnpm-link]: https://pnpm.io
+
+<!-- React -->
+[react-badge]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[react-link]: https://react.dev
+
+<!-- React Router -->
+[reactrouter-badge]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
+[reactrouter-link]: https://reactrouter.com/en/main
+
+<!-- Redux -->
+[redux-badge]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+[redux-link]: https://redux.js.org
+
+<!-- SASS -->
+[sass-badge]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
+[sass-link]: https://sass-lang.com
+
+<!-- Tailwind CSS -->
+[tailwind-badge]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwind-link]: https://tailwindcss.com
+
+<!-- Vite -->
+[vite-badge]: https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
+[vite-link]: https://vitejs.dev
+
+<!-- Vue JS -->
+[vue-badge]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[vue-link]: https://vuejs.org
+
+<!-- Yarn -->
+[yarn-badge]: https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white
+[yarn-link]: https://yarnpkg.com
 
 
 
