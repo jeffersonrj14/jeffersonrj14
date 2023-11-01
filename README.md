@@ -119,72 +119,6 @@ Table Version
 </table>
 -->
 
-
-### Programming & Markdown, Styling Languages
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Solidity" src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=e6e6e6">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-		</td>
-	</tr>
-</table>
-<!-- No Table Version
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=e6e6e6)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
--->
-
-### Version Control
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-		</td>
-	</tr>
-</table>
-
-
 <details>
 <summary>
 <b>Analytics</b>
@@ -294,9 +228,24 @@ Table Version
 
 | | | | | |
 | - | - | - | - | - |
-| Alpine.js     | [ ![Alpine JS][alpinejs-badge] ][alpinejs-link] | |  Astro  | [ ![Astro][astro-badge] ][astro-link] 
+| C     | [ ![C][c-badge] ][c-link] | |  CSS3  | [ ![CSS3][css-badge] ][css-link] |
+| HTML5     | [ ![HTML5][html-badge] ][html-link] | | Java     | [ ![Java][java-badge] ][java-link] |
+| JavaScript     | [ ![Javascript][javascript-badge] ][javascript-link] | | LaTeX     | [ ![LaTeX][latex-badge] ][latex-link] |
+| Markdown     | [ ![Markdown][markdown-badge] ][markdown-link] | | Shell Script/Bash     | [ ![Shell Script/Bash][shell-badge] ][shell-link] |
+| Solidity     | [ ![Solidity][solidity-badge] ][solidity-link] | | Typescript     | [ ![Typescript][typescript-badge] ][typescript-link] |
 </details>
 
+<details>
+<summary>
+<b>Version Control</b>
+</summary>
+<br />
+
+| | |
+| - | - |
+| Git     | [ ![Git][git-badge] ][git-link] |
+| Github     | [ ![Github][github-badge] ][github-link] |
+</details>
 
 
 <p align="center" id="github-stats">
@@ -521,7 +470,27 @@ TeX              3 hrs 39 mins   =========================   01.37 %
 
 <!-- Markdown -->
 [markdown-badge]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
-[markdown-link]: 
+[markdown-link]: https://learnmarkdown.com
+
+<!-- Shell Script-->
+[shell-badge]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[shell-link]: https://www.shellscript.sh
+
+<!-- Solidity -->
+[solidity-badge]: https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=e6e6e6
+[solidity-link]: https://soliditylang.org
+
+<!-- Typescript -->
+[typescript-badge]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[typescript-link]: https://www.typescriptlang.org
+
+<!-- Git -->
+[git-badge]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git-link]: https://git-scm.com
+
+<!-- Github -->
+[github-badge]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+[github-link]: https://github.com
 
 
 
