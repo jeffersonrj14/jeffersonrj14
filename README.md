@@ -119,59 +119,6 @@ Table Version
 </table>
 -->
 
-### Hosting/SaaS
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-		</td>
-	</tr>
-</table>
-<!-- No table Version
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<table>
-	<tr>
-		<td><img width="auto" height="30px" alt="" src=""></td>
-	</tr>
-</table>
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
--->
-
-### IDE
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-black.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=90E59A">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-		</td>
-	</tr>
-</table>
-
-### Linters
-
-<table>
-	<tr>
-		<td>
-			<img width="auto" height="30px" alt="Eslint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
-		</td>
-		<td>
-			<img width="auto" height="30px" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
-		</td>
-	</tr>
-</table>
-
-
 
 ### Programming & Markdown, Styling Languages
 
@@ -301,6 +248,53 @@ Table Version
 | SASS | [ ![SASS][sass-badge] ][sass-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
 | Vite | [ ![Vite][vite-badge] ][vite-link] | | Vue.js | [ ![Vue][vue-badge] ][vue-link] |
 | Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |
+</details>
+
+<details>
+<summary>
+<b>Hosting/SaaS</b>
+</summary>
+<br />
+
+| | |
+| - | - |
+| Netlify     | [ ![Netlify][netlify-badge] ][netlify-link] |
+| Vercel     | [ ![Vercel][vercel-badge] ][vercel-link] |
+</details>
+
+<details>
+<summary>
+<b>IDE</b>
+</summary>
+<br />
+
+| | |
+| - | - |
+| Eclipse     | [ ![Eclipse][eclipse-badge] ][eclipse-link] |
+| VS Code     | [ ![VS Code][vscode-badge] ][vscode-link] |
+</details>
+
+<details>
+<summary>
+<b>Linters</b>
+</summary>
+<br />
+
+| | |
+| - | - |
+| Eslint     | [ ![Eslint][eslint-badge] ][eslint-link] |
+| Prettier     | [ ![Prettier][prettier-badge] ][prettier-link] |
+</details>
+
+<details>
+<summary>
+<b>Programming & Markdown, Styling Languages</b>
+</summary>
+<br />
+
+| | | | | |
+| - | - | - | - | - |
+| Alpine.js     | [ ![Alpine JS][alpinejs-badge] ][alpinejs-link] | |  Astro  | [ ![Astro][astro-badge] ][astro-link] 
 </details>
 
 
@@ -476,6 +470,59 @@ TeX              3 hrs 39 mins   =========================   01.37 %
 <!-- Yarn -->
 [yarn-badge]: https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white
 [yarn-link]: https://yarnpkg.com
+
+<!-- Netlify -->
+[netlify-badge]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
+[netlify-link]: https://www.netlify.com
+
+<!-- Vercel -->
+[vercel-badge]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[vercel-link]: https://vercel.com/dashboard
+
+<!-- Eclipse -->
+[eclipse-badge]: https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=whit
+[eclipse-link]: https://eclipseide.org
+
+<!-- VS Code --> 
+[vscode-badge]: https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[vscode-link]: https://code.visualstudio.com
+
+<!-- Eslint -->
+[eslint-badge]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
+[eslint-link]: https://eslint.org
+
+<!-- Prettier -->
+[prettier-badge]: https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
+[prettier-link]: https://prettier.io
+
+<!-- C -->
+[c-badge]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[c-link]: https://www.w3schools.com/c/c_intro.php
+
+<!-- CSS3 -->
+[css-badge]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css-link]: https://www.w3schools.com/css/css_intro.asp
+
+<!-- HTML5 -->
+[html-badge]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[html-link]: https://www.w3schools.com/html/
+
+<!-- Java --> 
+[java-badge]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[java-link]: https://www.java.com/en/
+
+<!-- Javascript -->
+[javascript-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[javascript-link]: https://www.javascript.com
+
+<!-- LaTeX -->
+[latex-badge]: https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white
+[latex-link]: https://www.latex-project.org
+
+<!-- Markdown -->
+[markdown-badge]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
+[markdown-link]: 
+
 
 
 
