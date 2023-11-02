@@ -79,14 +79,12 @@
   <summary>
   <b>Old Project</b>
   </summary>
-
   <!--
   ```
   Portfolio Old Version :: My old Portfolio and I created to template
   Social Link      	:: Old Project
   Old Online Shop       :: Not finished, will not resumed and I will not put it in my portfolio
   ```
-
   </details>-->
   </td>
   <td>
