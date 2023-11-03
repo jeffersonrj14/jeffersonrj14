@@ -14,7 +14,7 @@
 [![Sponsor](https://img.shields.io/badge/SPONSOR-30363D?style=plastic&logo=GitHub-Sponsors&logoColor=#white)](https://ko-fi.com/jeffersonfed)
 </div>
 
-# Table of Content
+<h2>Table of Content</h2>
 
 1. [About Me](#aboutme)
 2. [Project](#projectsection)
@@ -22,9 +22,8 @@
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](#waka-time-stats)
 
-<div id="aboutme"></div> 
-
-# 🚀 About Me 
+<h2 id="aboutme">🚀 About Me</h2> 
+ 
 - 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
@@ -36,9 +35,7 @@
 - My Quote:
   >"Learning has no age limit, and there are no words too late to learn."
 
-<div id="projectsection"></div>
-
-#### Projects
+<h4 id="projectsection"> Projects</h4>
 
 <details>
 <summary>
@@ -103,10 +100,32 @@
 	
 ![<hr />][hr-style]<br />
 </h2>
-<div id="technologies"></div>
 
-# :hammer_and_wrench: Skills / Technologies 
+<h4>My Current/Recent Projects</h4>
 
+<div>
+
+<a href="https://github.com/jeffersonfed/JavascriptProject" target=_blank>
+	<img height="100" alt="JavascriptProject" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=JavascriptProject">
+</a>
+<a href="https://github.com/jeffersonfed/Projects" target=_blank>
+	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=Projects">
+</a>
+<a href="https://github.com/jeffersonfed/portfolio.jeffersonfed.xyz" target=_blank>
+	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=portfolio.jeffersonfed.xyz">
+</a>
+<a href="https://github.com/jeffersonfed/activity.jeffersonfed.xyz" target=_blank>
+	<img height="100" alt="Activity" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=activity.jeffersonfed.xyz">
+</a>
+
+</div>
+
+<h2 align = "center";>
+	
+![<hr />][hr-style]<br />
+</h2>
+
+<h2 id="technologies">🛠️ Skills / Technologies</h2>
 <!--No table Version
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 Table Version
@@ -116,8 +135,11 @@ Table Version
 	</tr>
 </table>
 -->
-### Tools I use often
 
+<h3>Tools I use often</h3> 
+
+<div>
+	
 [![HTML][html-badge]][html-link]
 [![CSS][css-badge]][css-link]
 [![Javascript][javascript-badge]][javascript-link]
@@ -133,7 +155,9 @@ Table Version
 [![Font Awesome][fontawesome-badge]][fontawesome-link]
 [![Canva][canva-badge]][canva-link]
 
+</div>
 
+<div>
 <details>
 <summary>
 <b>Analytics</b>
@@ -261,8 +285,9 @@ Table Version
 | Git     | [ ![Git][git-badge] ][git-link] |
 | Github     | [ ![Github][github-badge] ][github-link] |
 </details>
+</div>
 
-
+<div>
 <p align="center" id="github-stats">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p>
@@ -271,10 +296,10 @@ Table Version
 <p align="center">
 	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonfed/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
+</div>
 
-<div id="waka-time-stats"></div>
+<h2 id="waka-time-stats">📊 My Waka Time Stats:</h2>
 
-# :bar_chart: My Waka Time Stats:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -295,7 +320,7 @@ TeX              3 hrs 39 mins   =========================   01.37 %
 ```
 
 <!--END_SECTION:waka-->
-</div>
+
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
