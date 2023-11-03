@@ -116,6 +116,23 @@ Table Version
 	</tr>
 </table>
 -->
+### Tools I use often
+
+[![HTML][html-badge]][html-link]
+[![CSS][css-badge]][css-link]
+[![Javascript][javascript-badge]][javascript-link]
+[![React.js][react-badge]][react-link]
+[![React Router][reactrouter-badge]][reactrouter-link]
+[![Tailwind CSS][tailwind-badge]][tailwind-link]
+[![Eslint][eslint-badge]][eslint-link]
+[![Markdown][markdown-badge]][markdown-link]
+[![NPM][npm-badge]][npm-link]
+[![Git][git-badge]][git-link]
+[![VS Code][vscode-badge]][vscode-link]
+[![ShellScript/Bash][shell-badge]][shell-link]
+[![Font Awesome][fontawesome-badge]][fontawesome-link]
+[![Canva][canva-badge]][canva-link]
+
 
 <details>
 <summary>
