@@ -106,16 +106,16 @@
 <div>
 
 <a href="https://github.com/jeffersonfed/JavascriptProject" target=_blank>
-	<img height="100" alt="JavascriptProject" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=JavascriptProject">
+	<img height="100" alt="JavascriptProject" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=JavascriptProject&show_owner=true">
 </a>
 <a href="https://github.com/jeffersonfed/Projects" target=_blank>
-	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=Projects">
+	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=Projects&show_owner=true">
 </a>
 <a href="https://github.com/jeffersonfed/portfolio.jeffersonfed.xyz" target=_blank>
-	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=portfolio.jeffersonfed.xyz">
+	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=portfolio.jeffersonfed.xyz&show_owner=true">
 </a>
 <a href="https://github.com/jeffersonfed/activity.jeffersonfed.xyz" target=_blank>
-	<img height="100" alt="Activity" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=activity.jeffersonfed.xyz">
+	<img height="100" alt="Activity" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=activity.jeffersonfed.xyz&show_owner=true">
 </a>
 
 </div>
