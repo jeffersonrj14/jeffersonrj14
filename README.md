@@ -239,6 +239,7 @@ Table Version
 | | |
 | - | - |
 | Eclipse     | [ ![Eclipse][eclipse-badge] ][eclipse-link] |
+| Sublime Text     | [ ![Sublime Text][sublime-badge] ][sublime-link] |
 | VS Code     | [ ![VS Code][vscode-badge] ][vscode-link] |
 </details>
 
@@ -527,6 +528,9 @@ TeX              3 hrs 39 mins   =========================   01.37 %
 [github-badge]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 [github-link]: https://github.com
 
+<!-- Sublime Text -->
+[sublime-badge]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
+[sublime-link]: https://www.sublimetext.com
 
 
 
