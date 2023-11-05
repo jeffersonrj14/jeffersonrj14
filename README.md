@@ -96,11 +96,6 @@
 </table>
 </details>
 
-<h2 align = "center";>
-	
-![<hr />][hr-style]<br />
-</h2>
-
 <h4>My Current/Recent Projects</h4>
 
 <div>
