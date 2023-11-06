@@ -115,10 +115,10 @@
 
 </div>
 
-<h2 align = "center";>
+<div align = "center";>
 	
 ![<hr />][hr-style]<br />
-</h2>
+</div>
 
 <h2 id="technologies">🛠️ Skills / Technologies</h2>
 <!--No table Version
@@ -342,13 +342,13 @@ TeX              3 hrs 39 mins   =========================   01.37 %
     - [Unti-L - SawanoHiroyuki[nZK]:ASCA](https://open.spotify.com/track/2nFDGqRXiWm5ESB4VzdIv2?si=88f2f2be2c124c2c) 
      <br><br>-->
 
-<h2 align = "center";>
+<div align = "center";>
 	
 ![<hr />][hr-style]<br />
   <a href = "#top">
     Back to Top 
   </a>
-</h2>
+</div>
 
 
 <!-- 
