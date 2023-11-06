@@ -22,9 +22,7 @@
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](#waka-time-stats)
  
-<div id="aboutme">
-	🚀<span style="font-size:20px">About Me</span>
-</div> 
+<h2 id="aboutme">🚀 About Me</h2>
 
 <!--🚀 About Me-->
  
