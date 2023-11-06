@@ -21,8 +21,12 @@
 3. [Technologies/Skill](#technologies)
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](#waka-time-stats)
+ 
+<div id="aboutme">
+	🚀<span style="font-size:20px">About Me</span>
+</div> 
 
-<h2 id="aboutme">🚀 About Me</h2> 
+<!--🚀 About Me-->
  
 - 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
 <!--🌱🤔 -->
