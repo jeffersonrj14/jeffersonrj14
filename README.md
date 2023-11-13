@@ -301,20 +301,20 @@ Table Version
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2023 - To: 05 November 2023
+From: 10 January 2023 - To: 10 November 2023
 
-Total Time: 277 hrs 25 mins
+Total Time: 282 hrs 9 mins
 
-HTML             83 hrs 46 mins  >>>>>>>>=================   30.08 %
-Markdown         50 hrs 59 mins  >>>>>====================   18.30 %
-JavaScript       37 hrs 5 mins   >>>======================   13.32 %
-CSS              28 hrs 20 mins  >>>======================   10.17 %
-Astro            26 hrs 17 mins  >>=======================   09.44 %
-TypeScript       15 hrs          >========================   05.39 %
-PHP              9 hrs 34 mins   >========================   03.44 %
-JSON             7 hrs 31 mins   >========================   02.70 %
-Python           4 hrs 6 mins    =========================   01.48 %
-TeX              3 hrs 39 mins   =========================   01.32 %
+HTML             84 hrs 9 mins   >>>>>>>==================   29.71 %
+Markdown         55 hrs 17 mins  >>>>>====================   19.52 %
+JavaScript       37 hrs 6 mins   >>>======================   13.10 %
+CSS              28 hrs 20 mins  >>>======================   10.00 %
+Astro            26 hrs 18 mins  >>=======================   09.29 %
+TypeScript       15 hrs          >========================   05.30 %
+PHP              9 hrs 34 mins   >========================   03.38 %
+JSON             7 hrs 31 mins   >========================   02.66 %
+Python           4 hrs 7 mins    =========================   01.45 %
+TeX              3 hrs 39 mins   =========================   01.29 %
 ```
 
 <!--END_SECTION:waka-->
