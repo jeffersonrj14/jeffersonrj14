@@ -20,7 +20,7 @@
 2. [Project](#projectsection)
 3. [Technologies/Skill](#technologies)
 4. [Github Stats](#github-stats)
-5. [Waka Time Stats](#waka-time-stats)
+5. [Waka Time Stats](https://gist.github.com/jeffersonfed/d1de409fc1e8e4b61edbb8a19e90525e)
  
 <h2 id="aboutme">🚀 About Me</h2>
 
@@ -296,28 +296,6 @@ Table Version
 </p>
 </div>
 
-<h2 id="waka-time-stats">📊 My Waka Time Stats:</h2>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 January 2023 - To: 10 November 2023
-
-Total Time: 282 hrs 9 mins
-
-HTML             84 hrs 9 mins   >>>>>>>==================   29.71 %
-Markdown         55 hrs 17 mins  >>>>>====================   19.52 %
-JavaScript       37 hrs 6 mins   >>>======================   13.10 %
-CSS              28 hrs 20 mins  >>>======================   10.00 %
-Astro            26 hrs 18 mins  >>=======================   09.29 %
-TypeScript       15 hrs          >========================   05.30 %
-PHP              9 hrs 34 mins   >========================   03.38 %
-JSON             7 hrs 31 mins   >========================   02.66 %
-Python           4 hrs 7 mins    =========================   01.45 %
-TeX              3 hrs 39 mins   =========================   01.29 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <!--
