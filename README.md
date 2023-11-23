@@ -8,6 +8,7 @@
 [![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=blue&icon=5&pretty=false&style=plastic)](#top)
 [![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=blue&icon=5&pretty=false&style=plastic)](#top)
 [![Gist](https://badges.pufler.dev/gists/jeffersonfed?&label=Gist&color=blue&icon=5&pretty=false&style=plastic)](https://gist.github.com/jeffersonfed)
+[![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@012554dc-b24b-4b6b-90bf-92214455e325)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonfed14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
