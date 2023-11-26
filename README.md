@@ -4,7 +4,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeffersonfed%2Fjeffersonfed&count_bg=%2313C4A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Profile Total Visits](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=13c4a5&style=plastic)](#top)
 [![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
 [![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
