@@ -70,11 +70,11 @@ Many people think that after my name, I put 'FED', which they believe stands for
   </td>
   <td>
 
+- [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
+- [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
 - [Portfolio (In development)](https://portfolio.jeffersonfed.xyz)
 - [Javascript Project | Aug 2023 ~ Present](https://jefferson-jsproject.vercel.app)
-- [Personal Blog | Sep 2023 ~ Present](https://jeffersonfed.xyz)
 - [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
-- [Social Links | Jul 2023 - Aug 2023](https://links.jeffersonfed.xyz)
 - [Pokemon Short Game May 2022 - Jun 2022](https://pokemon-short-game.netlify.app)
 
   </td>
