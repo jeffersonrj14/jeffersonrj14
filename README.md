@@ -148,10 +148,10 @@ Table Version
 [![HTML][html-badge]][html-link]
 [![CSS][css-badge]][css-link]
 [![Javascript][javascript-badge]][javascript-link]
-[![React.js][react-badge]][react-link]
+<!--[![React.js][react-badge]][react-link]
 [![React Router][reactrouter-badge]][reactrouter-link]
 [![Tailwind CSS][tailwind-badge]][tailwind-link]
-[![Eslint][eslint-badge]][eslint-link]
+[![Eslint][eslint-badge]][eslint-link]-->
 [![Markdown][markdown-badge]][markdown-link]
 [![NPM][npm-badge]][npm-link]
 [![Git][git-badge]][git-link]
@@ -185,7 +185,7 @@ Table Version
 | Github Action     | [ ![Github Action][githubaction-badge] ][githubaction-link] |
 </details>
 
-<details>
+<!--<details>
 <summary>
 <b>Databases</b>
 </summary>
@@ -194,7 +194,7 @@ Table Version
 | | |
 | - | - |
 | MYSQL     | [ ![MYSQL][mysql-badge] ][mysql-link] |
-</details>
+</details>-->
 
 <details>
 <summary>
@@ -208,7 +208,7 @@ Table Version
 | Canva     | [ ![Canva][canva-badge] ][canva-link] |
 </details>
 
-<details>
+<!--<details>
 <summary>
 <b>Frameworks, Platforms and Libraries</b>
 </summary>
@@ -226,7 +226,7 @@ Table Version
 | SASS | [ ![SASS][sass-badge] ][sass-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
 | Vite | [ ![Vite][vite-badge] ][vite-link] | | Vue.js | [ ![Vue][vue-badge] ][vue-link] |
 | Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |
-</details>
+</details>-->
 
 <details>
 <summary>
@@ -253,7 +253,7 @@ Table Version
 | VS Code     | [ ![VS Code][vscode-badge] ][vscode-link] |
 </details>
 
-<details>
+<!--<details>
 <summary>
 <b>Linters</b>
 </summary>
@@ -263,7 +263,10 @@ Table Version
 | - | - |
 | Eslint     | [ ![Eslint][eslint-badge] ][eslint-link] |
 | Prettier     | [ ![Prettier][prettier-badge] ][prettier-link] |
-</details>
+
+<!--| C     | [ ![C][c-badge] ][c-link] | | [ ![Java][java-badge] ][java-link] |--> 
+<!--| Solidity     | [ ![Solidity][solidity-badge] ][solidity-link] | | Typescript     | [ ![Typescript][typescript-badge] ][typescript-link] |-->
+</details>-->
 
 <details>
 <summary>
@@ -273,11 +276,10 @@ Table Version
 
 | | | | | |
 | - | - | - | - | - |
-| C     | [ ![C][c-badge] ][c-link] | |  CSS3  | [ ![CSS3][css-badge] ][css-link] |
-| HTML5     | [ ![HTML5][html-badge] ][html-link] | | Java     | [ ![Java][java-badge] ][java-link] |
-| JavaScript     | [ ![Javascript][javascript-badge] ][javascript-link] | | LaTeX     | [ ![LaTeX][latex-badge] ][latex-link] |
-| Markdown     | [ ![Markdown][markdown-badge] ][markdown-link] | | Shell Script/Bash     | [ ![Shell Script/Bash][shell-badge] ][shell-link] |
-| Solidity     | [ ![Solidity][solidity-badge] ][solidity-link] | | Typescript     | [ ![Typescript][typescript-badge] ][typescript-link] |
+| HTML5     | [ ![HTML5][html-badge] ][html-link]                  | | CSS3             | [ ![CSS3][css-badge] ][css-link] |
+| JavaScript| [ ![Javascript][javascript-badge] ][javascript-link] | | LaTeX            | [ ![LaTeX][latex-badge] ][latex-link] |
+| Markdown  | [ ![Markdown][markdown-badge] ][markdown-link]       | | Shell Script/Bash| [ ![Shell Script/Bash][shell-badge] ][shell-link] |
+
 </details>
 
 <details>
