@@ -265,7 +265,7 @@ Table Version
 | Prettier     | [ ![Prettier][prettier-badge] ][prettier-link] |
 
 <!--| C     | [ ![C][c-badge] ][c-link] | | [ ![Java][java-badge] ][java-link] |--> 
-<!--| Solidity     | [ ![Solidity][solidity-badge] ][solidity-link] | | Typescript     | [ ![Typescript][typescript-badge] ][typescript-link] |-->
+<!--| Solidity     | [ ![Solidity][solidity-badge] ][solidity-link] | | Typescript     | [ ![Typescript][typescript-badge] ][typescript-link] |
 </details>-->
 
 <details>
