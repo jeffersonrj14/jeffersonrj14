@@ -304,6 +304,9 @@ Table Version
 <p align="center">
 	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonfed/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
+<p align="center">
+ 	<img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonfed">
+</p>
 </div>
 
 
