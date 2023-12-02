@@ -34,7 +34,7 @@ Many people think that after my name, I put 'FED', which they believe stands for
 
 <!--🚀 About Me-->
  
-- 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Front-End Developer and Computer Science courses.
+- 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Full Stack Course
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
