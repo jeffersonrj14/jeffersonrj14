@@ -148,9 +148,10 @@ Table Version
 [![HTML][html-badge]][html-link]
 [![CSS][css-badge]][css-link]
 [![Javascript][javascript-badge]][javascript-link]
+[![Tailwind CSS][tailwind-badge]][tailwind-link]
 <!--[![React.js][react-badge]][react-link]
 [![React Router][reactrouter-badge]][reactrouter-link]
-[![Tailwind CSS][tailwind-badge]][tailwind-link]
+
 [![Eslint][eslint-badge]][eslint-link]-->
 [![Markdown][markdown-badge]][markdown-link]
 [![NPM][npm-badge]][npm-link]
@@ -208,13 +209,22 @@ Table Version
 | Canva     | [ ![Canva][canva-badge] ][canva-link] |
 </details>
 
-<!--<details>
+<details>
 <summary>
 <b>Frameworks, Platforms and Libraries</b>
 </summary>
 <br />
 
 | | | | | |
+| - | - | - | - | - |
+| Bootstrap | [ ![Bootstrap][bootstrap-badge] ][bootstrap-link] | | Font Awesome     | [ ![Font Awesome][fontawesome-badge] ][fontawesome-link] |
+| Github Pages     | [ ![Github Pages][githubpages-badge] ][githubpages-link] | | Jekyll | [ ![Jekyll][jekyll-badge] ][jekyll-link] |
+| NPM | [ ![NPM][npm-badge] ][npm-link] | | PNPM | [ ![PNPM][pnpm-badge] ][pnpm-link] | 
+| React.js | [ ![React][react-badge] ][react-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
+| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |
+</details>
+
+<!--| | | | | |
 | - | - | - | - | - |
 | Alpine.js     | [ ![Alpine JS][alpinejs-badge] ][alpinejs-link] | |  Astro  | [ ![Astro][astro-badge] ][astro-link] 
 | Bootstrap | [ ![Bootstrap][bootstrap-badge] ][bootstrap-link] | | Font Awesome     | [ ![Font Awesome][fontawesome-badge] ][fontawesome-link] |
@@ -225,8 +235,7 @@ Table Version
 | React Router | [ ![React Router][reactrouter-badge] ][reactrouter-link] | | Redux | [ ![Redux][redux-badge] ][redux-link] |
 | SASS | [ ![SASS][sass-badge] ][sass-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
 | Vite | [ ![Vite][vite-badge] ][vite-link] | | Vue.js | [ ![Vue][vue-badge] ][vue-link] |
-| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |
-</details>-->
+| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |-->
 
 <details>
 <summary>
