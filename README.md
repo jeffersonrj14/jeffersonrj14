@@ -205,7 +205,6 @@ Table Version
 
 | | |
 | - | - |
-| After Effects     | [ ![After Effects][aftereffects-badge] ][aftereffects-link] |
 | Canva     | [ ![Canva][canva-badge] ][canva-link] |
 </details>
 
@@ -218,10 +217,9 @@ Table Version
 | | | | | |
 | - | - | - | - | - |
 | Bootstrap | [ ![Bootstrap][bootstrap-badge] ][bootstrap-link] | | Font Awesome     | [ ![Font Awesome][fontawesome-badge] ][fontawesome-link] |
-| Github Pages     | [ ![Github Pages][githubpages-badge] ][githubpages-link] | | Jekyll | [ ![Jekyll][jekyll-badge] ][jekyll-link] |
 | NPM | [ ![NPM][npm-badge] ][npm-link] | | PNPM | [ ![PNPM][pnpm-badge] ][pnpm-link] | 
 | React.js | [ ![React][react-badge] ][react-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
-| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |
+| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] | | Next.js | [ ![NextJS][nextjs-badge] ][nextjs-link] |
 </details>
 
 <!--| | | | | |
@@ -257,8 +255,6 @@ Table Version
 
 | | |
 | - | - |
-| Eclipse     | [ ![Eclipse][eclipse-badge] ][eclipse-link] |
-| Sublime Text     | [ ![Sublime Text][sublime-badge] ][sublime-link] |
 | VS Code     | [ ![VS Code][vscode-badge] ][vscode-link] |
 </details>
 
