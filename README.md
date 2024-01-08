@@ -4,18 +4,19 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 
-[![Profile Total Visits](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=13c4a5&style=plastic)](#top)
-[![Years Badge](https://badges.pufler.dev/years/jeffersonfed?&label=Years&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
-[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
-[![Gist](https://badges.pufler.dev/gists/jeffersonfed?&label=Gist&color=13c4a5&icon=5&pretty=false&style=plastic)](https://gist.github.com/jeffersonfed)
+[![Profile Total Visits](https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=13c4a5&style=plastic)](#top)
+[![Years Badge](https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
+[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonrj14?&label=Overall%20Commits&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
+[![Gist](https://badges.pufler.dev/gists/jeffersonrj14?&label=Gist&color=13c4a5&icon=5&pretty=false&style=plastic)](https://gist.github.com/jeffersonfed)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/JeffRJSH) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed/)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
 
 <h4>
-WHAT DOES 'FED' MEANS?<br><br>
-Many people think that after my name, I put 'FED', which they believe stands for Front End Development. The truth is, it's not about front-end, it symbolizes 'Forever Eager and Driven', encouraging me to keep moving forward.
+Previous Username is JeffersonFED now is JeffersonRJ.<br>
+Why I change it?
+Because I couldnt think what is fed meant to my account is
 </h4>
 
 </div>
@@ -97,8 +98,8 @@ Many people think that after my name, I put 'FED', which they believe stands for
   <td>
 
 - [Portfolio Old Version | Jul 2023 - Aug 2023](https://jeffersonfed-portfolio-old-ver.netlify.app)
-- [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonfed/Oldver-Links-jefferson)
-- [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonfed/Old-Online-Shop)
+- [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonrj14/Oldver-Links-jefferson)
+- [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonrj14/Old-Online-Shop)
 
   </td>
 </tr>
@@ -111,16 +112,16 @@ Many people think that after my name, I put 'FED', which they believe stands for
 <div>
 
 <a href="https://github.com/jeffersonfed/JavascriptProject" target=_blank>
-	<img height="100" alt="JavascriptProject" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=JavascriptProject&show_owner=true">
+	<img height="100" alt="JavascriptProject" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=JavascriptProject&show_owner=true">
 </a>
 <a href="https://github.com/jeffersonfed/Projects" target=_blank>
-	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=Projects&show_owner=true">
+	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=Projects&show_owner=true">
 </a>
 <a href="https://github.com/jeffersonfed/portfolio.jeffersonfed.xyz" target=_blank>
-	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=portfolio.jeffersonfed.xyz&show_owner=true">
+	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=portfolio.jeffersonfed.xyz&show_owner=true">
 </a>
 <a href="https://github.com/jeffersonfed/activity.jeffersonfed.xyz" target=_blank>
-	<img height="100" alt="Activity" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonfed&repo=activity.jeffersonfed.xyz&show_owner=true">
+	<img height="100" alt="Activity" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=activity.jeffersonfed.xyz&show_owner=true">
 </a>
 
 </div>
