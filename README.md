@@ -14,9 +14,12 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
 
 <h4>
-Previous Username is JeffersonFED now is JeffersonRJ.<br>
+Previous Username is JeffersonFED now is JeffersonRJ.<br><br>
 Why I change it?
-Because I couldnt think what is fed meant to my account is
+Because I couldnt think what is fed meant to my account is<br>
+<br>
+
+  >"Learning has no age limit, and there are no words too late to learn."
 </h4>
 
 </div>
@@ -34,19 +37,24 @@ Because I couldnt think what is fed meant to my account is
 <h2 id="aboutme">🚀 About Me</h2>
 
 <!--🚀 About Me-->
- 
-- 🌱 I am a self-taught developer currently pursuing a career path in ZTM, taking Full Stack Course
+
+- 🌱 In October 2023, I began learning web development (full-stack development) at ZTM. This might take a lot of time to finish, my target was to complete it within 6 months of learning, by April 1, 2024. However, I think I might extend it to June 2024.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
     - Indonesia - Mother Tongue Language
     - English - Fluent
-    - Japanese - Limited working proficiency
+    - Japanese - Basic working proficiency
 <!-- Current focus -->
-- Seeking job experience to complement my studies and grow professionally.<br>
-- My Quote:
-  >"Learning has no age limit, and there are no words too late to learn."
 
-<h4 id="projectsection"> Projects</h4>
+<h2 id="focus">🚀 My focus after learning will be...:</h2>
+- Seeking job experience to complement my studies and grow professionally.<br><br>
+
+<div align = "center";>
+	
+![<hr />][hr-style]<br />
+</div>
+
+<h3 id="projectsection"> Projects</h4>
 
 <details>
 <summary>
