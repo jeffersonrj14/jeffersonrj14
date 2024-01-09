@@ -29,7 +29,7 @@ Because I couldnt think what is fed meant to my account is
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](https://gist.github.com/jeffersonfed/d1de409fc1e8e4b61edbb8a19e90525e)
    
-[![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@012554dc-b24b-4b6b-90bf-92214455e325)
+[![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@jeffersonrj14)
  
 <h2 id="aboutme">🚀 About Me</h2>
 
@@ -303,15 +303,15 @@ Table Version
 
 <div>
 <p align="center" id="github-stats">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfed&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrj14&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p>
 
 <h4 align="center">Lines of Code per language in the last year only</h4>
 <p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonfed/langs?time_range=one_year&loc_metric=changed&theme=dark">
+	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonrj14/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
 <p align="center">
- 	<img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonfed">
+ 	<img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonrj14">
 </p>
 </div>
 
