@@ -38,7 +38,7 @@ Because I couldnt think what is fed meant to my account is<br>
 
 <!--🚀 About Me-->
 
-- 🌱 In December 2023, I began learning web development (full-stack development) at ZTM. This might take a lot of time to finish, my target was to complete it within 6 months of learning, by March 01, 2024. However, I think I might extend it to June 2024.
+- 🌱 In October 2023, I began learning web development (full-stack development) at ZTM. This might take a lot of time to finish, my target was to complete it within 6 months of learning, by March 01, 2024. However, I think I might extend it to June 2024.
 > Any advice is welcome, so I can also learn from other developers, etc.
 <!--🌱🤔 -->
 - :speaking_head: I Speak 3 Languages: 
