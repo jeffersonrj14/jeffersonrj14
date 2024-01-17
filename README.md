@@ -31,7 +31,7 @@ Because I couldnt think what is fed meant to my account is<br>
 3. [Technologies/Skill](#technologies)
 4. [Github Stats](#github-stats)
 5. [Waka Time Stats](https://gist.github.com/jeffersonfed/d1de409fc1e8e4b61edbb8a19e90525e) 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jeffersonrj14/My-Waka-Time/wakatime.yml?&style=plastic)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jeffersonrj14/My-Waka-Time/wakatime.yml?&style=plastic)](https://github.com/jeffersonrj14/My-Waka-Time)
 
 [![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@jeffersonrj14)
 
