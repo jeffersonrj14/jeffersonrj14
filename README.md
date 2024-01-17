@@ -228,7 +228,7 @@ Table Version
 | - | - | - | - | - |
 | Bootstrap | [ ![Bootstrap][bootstrap-badge] ][bootstrap-link] | | Font Awesome     | [ ![Font Awesome][fontawesome-badge] ][fontawesome-link] |
 | NPM | [ ![NPM][npm-badge] ][npm-link] | | PNPM | [ ![PNPM][pnpm-badge] ][pnpm-link] | 
-| React.js | [ ![React][react-badge] ][react-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
+| React | [ ![React][react-badge] ][react-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
 | Yarn | [ ![Yarn][yarn-badge] ][yarn-link] | | Next.js | [ ![NextJS][nextjs-badge] ][nextjs-link] |
 </details>
 
