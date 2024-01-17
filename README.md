@@ -30,9 +30,11 @@ Because I couldnt think what is fed meant to my account is<br>
 2. [Project](#projectsection)
 3. [Technologies/Skill](#technologies)
 4. [Github Stats](#github-stats)
-5. [Waka Time Stats](https://gist.github.com/jeffersonfed/d1de409fc1e8e4b61edbb8a19e90525e)
-   
+5. [Waka Time Stats](https://gist.github.com/jeffersonfed/d1de409fc1e8e4b61edbb8a19e90525e) 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jeffersonrj14/My-Waka-Time/wakatime.yml?&style=plastic)
+
 [![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@jeffersonrj14)
+
  
 <h2 id="aboutme">🚀 About Me</h2>
 
