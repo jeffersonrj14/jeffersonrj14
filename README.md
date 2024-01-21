@@ -122,9 +122,9 @@ Because I couldnt think what is fed meant to my account is<br>
 
 <div>
 
-<a href="https://github.com/jeffersonfed/JavascriptProject" target=_blank>
+<!--<a href="https://github.com/jeffersonfed/JavascriptProject" target=_blank>
 	<img height="100" alt="JavascriptProject" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=JavascriptProject&show_owner=true">
-</a>
+</a>-->
 <a href="https://github.com/jeffersonfed/Projects" target=_blank>
 	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=Projects&show_owner=true">
 </a>
