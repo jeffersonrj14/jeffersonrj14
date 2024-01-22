@@ -77,17 +77,22 @@ Because I couldnt think what is fed meant to my account is<br>
 <!--  ```
   Current Project / Project in progress / Finished Project
   ```
-
   </details>-->
   </td>
   <td>
 
-- [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
-- [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
-- [Portfolio (In development)](https://portfolio.jeffersonfed.xyz)
-- [Javascript Project | Aug 2023 ~ Present](https://jefferson-jsproject.vercel.app)
-- [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
-- [Pokemon Short Game May 2022 - Jun 2022](https://pokemon-short-game.netlify.app)
+- [Portfolio (In development)](https://github.com/jeffersonrj14/portfolio.jeffersonfed.xyz) 
+	- ![Vercel](https://img.shields.io/github/deployments/jeffersonrj14/portfolio.jeffersonfed.xyz/production?style=plastic&logo=vercel&label=vercel&color=13c4a5
+) 
+	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fportfolio.jeffersonfed.xyz&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=plastic&logo=globe
+)](https://portfolio.jeffersonfed.xyz)
+- [HTML, CSS, JS Project | Aug 2023 ~ Present](https://github.com/jeffersonrj14/Projects)
+	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fjeffersonrj14.github.io%2FProjects&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=plastic&logo=globe
+)](https://jeffersonrj14.github.io/Projects)
+- [Pokemon Short Game May 2022 - Jun 2022](https://github.com/jeffersonrj14/Pokemon-short-game)
+	- ![Netlify Status](https://api.netlify.com/api/v1/badges/a434340b-2b0e-4fa8-9799-a71e2e792210/deploy-status?style=plastic)
+	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fpokemon-short-game.netlify.app&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=plastic&logo=globe
+)](https://pokemon-short-game.netlify.app)
 
   </td>
 </tr>
@@ -96,21 +101,24 @@ Because I couldnt think what is fed meant to my account is<br>
   <td>
 <!--   <details> -->
   <summary>
-  <b>Old Project</b>
+  <b>Redesigning Old Project</b>
   </summary>
   <!--
   ```
   Portfolio Old Version :: My old Portfolio and I created to template
   Social Link      	:: Old Project
   Old Online Shop       :: Not finished, will not resumed and I will not put it in my portfolio
+- [Portfolio Old Version | Jul 2023 - Aug 2023](https://jeffersonfed-portfolio-old-ver.netlify.app)
+- [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonrj14/Oldver-Links-jefferson)
+- [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonrj14/Old-Online-Shop)
   ```
   </details>-->
   </td>
   <td>
 
-- [Portfolio Old Version | Jul 2023 - Aug 2023](https://jeffersonfed-portfolio-old-ver.netlify.app)
-- [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonrj14/Oldver-Links-jefferson)
-- [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonrj14/Old-Online-Shop)
+- [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
+- [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
+- [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
 
   </td>
 </tr>
