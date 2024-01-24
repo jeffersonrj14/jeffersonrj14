@@ -11,6 +11,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonrj14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonrj14)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
+[![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@jeffersonrj14)
+
+<p align="center">
+ 	<img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonrj14">
+</p>
 -->
 
 </div >
@@ -27,11 +32,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Development | Frontend | Japanese Language Enthusiast
 --------
 
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jeffersonrj14?style=flat&logo=twitter&label=Follow%20%40jeffersonrj14&labelColor=000000&color=000000)](https://www.x.com/jeffersonrj14)
+
+
 I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
 Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me by [Email](mailto:stupidjeff430@gmail.com)
+* ✉️  You can contact me by
+	* [Email](mailto:stupidjeff430@gmail.com)
+ 	* [Discord](https://discordapp.com/users/606481557615542273) 
+ 	* [Keybase](https://keybase.io/jeffersonrj14)
+	* [Twitter DM](https://www.x.com/jeffersonrj14)
 * 🚀  I'm currently working on [Portfolio](http://portfolio.jeffersonfed.xyz)
 * 🧠  I'm learning Javascript and Typescript
 * 🤝  I'm open to collaborating on Websites
@@ -41,7 +53,6 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
     - Japanese - Basic working proficiency (N3～N2 Level)
 > Any advice is welcome, so I can also learn from other developers, etc.
 
-[![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@jeffersonrj14)
 
 Skills
 --------
@@ -84,7 +95,7 @@ Skills
 Projects
 --------
 
-### Recent Projects
+### Recent Projects 
 
 <div>
 
@@ -130,9 +141,6 @@ Projects
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrj14&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p>
 
-<p align="center">
- 	<img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonrj14">
-</p>
 </div>
 
 
