@@ -1,141 +1,93 @@
 <div align="center" id="top">
 
-[![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
 
-[![Profile Total Visits](https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=13c4a5&style=plastic)](#top)
-[![Years Badge](https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
-[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonrj14?&label=Overall%20Commits&color=13c4a5&icon=5&pretty=false&style=plastic)](#top)
-[![Gist](https://badges.pufler.dev/gists/jeffersonrj14?&label=Gist&color=13c4a5&icon=5&pretty=false&style=plastic)](https://gist.github.com/jeffersonfed)
+[![Profile Total Visits](https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=13c4a5&style=flat)](#top)
+[![Years Badge](https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=13c4a5&icon=5&pretty=false&style=flat)](#top)
+[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonrj14?&label=Overall%20Commits&color=13c4a5&icon=5&pretty=false&style=flat)](#top)
+[![Gist](https://badges.pufler.dev/gists/jeffersonrj14?&label=Gist&color=13c4a5&icon=5&pretty=false&style=flat)](https://gist.github.com/jeffersonfed)
 
+<!--
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonrj14) 
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonrj14)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
+-->
 
-<h4>
-Previous Username is JeffersonFED now is JeffersonRJ.<br><br>
-Why I change it?
-Because I couldnt think what is fed meant to my account is<br>
-<br>
+</div >
 
-  >"Learning has no age limit, and there are no words too late to learn."
-</h4>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ritch Johan Jefferson
+=============================================================================================================================================
 
+<div align="center">
+
+[![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
+	
 </div>
 
-<h2>Table of Content</h2>
+Web Development | Frontend | Japanese Language Enthusiast
+--------
 
-1. [About Me](#aboutme)
-2. [Project](#projectsection)
-3. [Technologies/Skill](#technologies)
-4. [Github Stats](#github-stats)
-5. [Waka Time Stats](https://gist.github.com/jeffersonfed/d1de409fc1e8e4b61edbb8a19e90525e) 
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jeffersonrj14/My-Waka-Time/wakatime.yml?&style=plastic)](https://github.com/jeffersonrj14/My-Waka-Time)
+I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
+Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it.
+
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me by [Email](mailto:stupidjeff430@gmail.com)
+* 🚀  I'm currently working on [Portfolio](http://portfolio.jeffersonfed.xyz)
+* 🧠  I'm learning Javascript and Typescript
+* 🤝  I'm open to collaborating on Websites
+* :speaking_head: I Speak 3 Languages: 
+    - Indonesia - Mother Tongue Language
+    - English - Fluent
+    - Japanese - Basic working proficiency (N3～N2 Level)
+> Any advice is welcome, so I can also learn from other developers, etc.
 
 [![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@jeffersonrj14)
 
- 
-<h2 id="aboutme">🚀 About Me</h2>
+Skills
+--------
 
-<!--🚀 About Me-->
+<b>Web Development</b>
 
-- 🌱 In October 2023, I began learning web development (full-stack development) at ZTM. This might take a lot of time to finish, my target was to complete it within 6 months of learning, by March 01, 2024. However, I think I might extend it to June 2024.
-> Any advice is welcome, so I can also learn from other developers, etc.
-<!--🌱🤔 -->
-- :speaking_head: I Speak 3 Languages: 
-    - Indonesia - Mother Tongue Language
-    - English - Fluent
-    - Japanese - Basic working proficiency
-<!-- Current focus -->
+[![HTML5][html-badge] ][html-link]
+[![CSS3][css-badge] ][css-link]
+[![Bootstrap][bootstrap-badge] ][bootstrap-link]
+[![Javascript][javascript-badge] ][javascript-link]
+[![Typescript][typescript-badge] ][typescript-link]
 
-<h2 id="focus">🚀 My focus after learning will be...:</h2>
-- Seeking job experience to complement my studies and grow professionally.<br><br>
+<b>Frontend</b>
 
-<div align = "center";>
-	
-![<hr />][hr-style]<br />
-</div>
+[![Astro][astro-badge] ][astro-link]
+[![NextJS][nextjs-badge] ][nextjs-link]
+[![React][react-badge] ][react-link] 
+[![Tailwind][tailwind-badge] ][tailwind-link]
 
-<h3 id="projectsection"> Projects</h4>
+<b>Other</b>
 
-<details>
-<summary>
-<b>Personal Project</b>
-</summary>
+[![LaTeX][latex-badge] ][latex-link]
+[![Markdown][markdown-badge] ][markdown-link] 
+[![Shell Script/Bash][shell-badge] ][shell-link]
 
-<table>
-<tbody>
-<!-- Projects -->
-<tr>
-  <td>
-<!--   <details> -->
-  <summary>
-  <b>Projects</b>
-  </summary>
-  
-<!--  ```
-  Current Project / Project in progress / Finished Project
-  ```
-  </details>-->
-  </td>
-  <td>
+<b>Hosting/SaaS</b>
 
-- [Portfolio (In development)](https://github.com/jeffersonrj14/portfolio.jeffersonfed.xyz) 
-	- ![Vercel](https://img.shields.io/github/deployments/jeffersonrj14/portfolio.jeffersonfed.xyz/production?style=plastic&logo=vercel&label=vercel&color=13c4a5
-) 
-	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fportfolio.jeffersonfed.xyz&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=plastic&logo=globe
-)](https://portfolio.jeffersonfed.xyz)
-- [HTML, CSS, JS Project | Aug 2023 ~ Present](https://github.com/jeffersonrj14/Projects)
-	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fjeffersonrj14.github.io%2FProjects&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=plastic&logo=globe
-)](https://jeffersonrj14.github.io/Projects)
-- [Pokemon Short Game May 2022 - Jun 2022](https://github.com/jeffersonrj14/Pokemon-short-game)
-	- ![Netlify Status](https://api.netlify.com/api/v1/badges/a434340b-2b0e-4fa8-9799-a71e2e792210/deploy-status?style=plastic)
-	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fpokemon-short-game.netlify.app&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=plastic&logo=globe
-)](https://pokemon-short-game.netlify.app)
+[![Netlify][netlify-badge] ][netlify-link]
+[![Vercel][vercel-badge] ][vercel-link]
 
-  </td>
-</tr>
-<!-- Old Project -->
-<tr>
-  <td>
-<!--   <details> -->
-  <summary>
-  <b>Redesigning Old Project</b>
-  </summary>
-  <!--
-  ```
-  Portfolio Old Version :: My old Portfolio and I created to template
-  Social Link      	:: Old Project
-  Old Online Shop       :: Not finished, will not resumed and I will not put it in my portfolio
-- [Portfolio Old Version | Jul 2023 - Aug 2023](https://jeffersonfed-portfolio-old-ver.netlify.app)
-- [Social Link | Jun 2023 - Jul 2023](https://github.com/jeffersonrj14/Oldver-Links-jefferson)
-- [Old Online Shop | March 2021 - March 2023](https://github.com/jeffersonrj14/Old-Online-Shop)
-  ```
-  </details>-->
-  </td>
-  <td>
+<b>Version Control</b>
 
-- [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
-- [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
-- [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
+[![Git][git-badge] ][git-link]
+[![Github][github-badge] ][github-link]
 
-  </td>
-</tr>
-</tbody>
-</table>
-</details>
+<b>IDE</b>
 
-<h4>My Current/Recent Projects</h4>
+[![VS Code][vscode-badge] ][vscode-link]
+
+Projects
+--------
+
+### Recent Projects
 
 <div>
 
-<!--<a href="https://github.com/jeffersonfed/JavascriptProject" target=_blank>
-	<img height="100" alt="JavascriptProject" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=JavascriptProject&show_owner=true">
-</a>
-<a href="https://github.com/jeffersonfed/activity.jeffersonfed.xyz" target=_blank>
-	<img height="100" alt="Activity" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=activity.jeffersonfed.xyz&show_owner=true">
-</a>-->
 <a href="https://github.com/jeffersonfed/Projects" target=_blank>
 	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=Projects&show_owner=true">
 </a>
@@ -143,182 +95,34 @@ Because I couldnt think what is fed meant to my account is<br>
 	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=portfolio.jeffersonfed.xyz&show_owner=true">
 </a>
 
-
 </div>
+
+### Personal Projects
+
+- [Portfolio (In development)](https://github.com/jeffersonrj14/portfolio.jeffersonfed.xyz) 
+	- ![Vercel](https://img.shields.io/github/deployments/jeffersonrj14/portfolio.jeffersonfed.xyz/production?style=flat&logo=vercel&label=vercel&color=13c4a5
+) 
+	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fportfolio.jeffersonfed.xyz&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
+)](https://portfolio.jeffersonfed.xyz)
+- [HTML, CSS, JS Project | Aug 2023 ~ Present](https://github.com/jeffersonrj14/Projects)
+	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fjeffersonrj14.github.io%2FProjects&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
+)](https://jeffersonrj14.github.io/Projects)
+- [Pokemon Short Game May 2022 - Jun 2022](https://github.com/jeffersonrj14/Pokemon-short-game)
+	- ![Netlify Status](https://api.netlify.com/api/v1/badges/a434340b-2b0e-4fa8-9799-a71e2e792210/deploy-status?style=plastic)
+	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fpokemon-short-game.netlify.app&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
+)](https://pokemon-short-game.netlify.app)
+
+### Will Try to Redesign it later
+
+- [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
+- [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
+- [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
+
+
 
 <div align = "center";>
 	
 ![<hr />][hr-style]<br />
-</div>
-
-<h2 id="technologies">🛠️ Skills / Technologies</h2>
-<!--No table Version
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-Table Version
-<table>
-	<tr>
-		<td><img width="auto" height="30px" alt="" src=""></td>
-	</tr>
-</table>
--->
-
-<h3>Tools I use often</h3> 
-
-<div>
-	
-[![HTML][html-badge]][html-link]
-[![CSS][css-badge]][css-link]
-[![Javascript][javascript-badge]][javascript-link]
-[![Tailwind CSS][tailwind-badge]][tailwind-link]
-<!--[![React.js][react-badge]][react-link]
-[![React Router][reactrouter-badge]][reactrouter-link]
-
-[![Eslint][eslint-badge]][eslint-link]-->
-[![Markdown][markdown-badge]][markdown-link]
-[![NPM][npm-badge]][npm-link]
-[![Git][git-badge]][git-link]
-[![VS Code][vscode-badge]][vscode-link]
-[![ShellScript/Bash][shell-badge]][shell-link]
-[![Font Awesome][fontawesome-badge]][fontawesome-link]
-[![Canva][canva-badge]][canva-link]
-
-</div>
-
-<div>
-<details>
-<summary>
-<b>Analytics</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| Wakatime     | [ ![wakatime][wakatime-badge] ][wakatime-link] |
-</details>
-
-<details>
-<summary>
-<b>CI/CD</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| Github Action     | [ ![Github Action][githubaction-badge] ][githubaction-link] |
-</details>
-
-<!--<details>
-<summary>
-<b>Databases</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| MYSQL     | [ ![MYSQL][mysql-badge] ][mysql-link] |
-</details>-->
-
-<details>
-<summary>
-<b>Design</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| Canva     | [ ![Canva][canva-badge] ][canva-link] |
-</details>
-
-<details>
-<summary>
-<b>Frameworks, Platforms and Libraries</b>
-</summary>
-<br />
-
-| | | | | |
-| - | - | - | - | - |
-| Bootstrap | [ ![Bootstrap][bootstrap-badge] ][bootstrap-link] | | Font Awesome     | [ ![Font Awesome][fontawesome-badge] ][fontawesome-link] |
-| NPM | [ ![NPM][npm-badge] ][npm-link] | | PNPM | [ ![PNPM][pnpm-badge] ][pnpm-link] | 
-| React | [ ![React][react-badge] ][react-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
-| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] | | Next.js | [ ![NextJS][nextjs-badge] ][nextjs-link] |
-</details>
-
-<!--| | | | | |
-| - | - | - | - | - |
-| Alpine.js     | [ ![Alpine JS][alpinejs-badge] ][alpinejs-link] | |  Astro  | [ ![Astro][astro-badge] ][astro-link] 
-| Bootstrap | [ ![Bootstrap][bootstrap-badge] ][bootstrap-link] | | Font Awesome     | [ ![Font Awesome][fontawesome-badge] ][fontawesome-link] |
-| Github Pages     | [ ![Github Pages][githubpages-badge] ][githubpages-link] | | Jekyll | [ ![Jekyll][jekyll-badge] ][jekyll-link] |
-| JQuery | [ ![JQuery][jquery-badge] ][jquery-link] | | Next.js | [ ![NextJS][nextjs-badge] ][nextjs-link] |
-| Node.js | [ ![NodeJS][nodejs-badge] ][nodejs-link] | | NPM | [ ![NPM][npm-badge] ][npm-link] |
-| PNPM | [ ![PNPM][pnpm-badge] ][pnpm-link] | | React.js | [ ![React][react-badge] ][react-link] |
-| React Router | [ ![React Router][reactrouter-badge] ][reactrouter-link] | | Redux | [ ![Redux][redux-badge] ][redux-link] |
-| SASS | [ ![SASS][sass-badge] ][sass-link] | | Tailwind CSS | [ ![Tailwind][tailwind-badge] ][tailwind-link] |
-| Vite | [ ![Vite][vite-badge] ][vite-link] | | Vue.js | [ ![Vue][vue-badge] ][vue-link] |
-| Yarn | [ ![Yarn][yarn-badge] ][yarn-link] |-->
-
-<details>
-<summary>
-<b>Hosting/SaaS</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| Netlify     | [ ![Netlify][netlify-badge] ][netlify-link] |
-| Vercel     | [ ![Vercel][vercel-badge] ][vercel-link] |
-</details>
-
-<details>
-<summary>
-<b>IDE</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| VS Code     | [ ![VS Code][vscode-badge] ][vscode-link] |
-</details>
-
-<!--<details>
-<summary>
-<b>Linters</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| Eslint     | [ ![Eslint][eslint-badge] ][eslint-link] |
-| Prettier     | [ ![Prettier][prettier-badge] ][prettier-link] |
-
-<!--| C     | [ ![C][c-badge] ][c-link] | | [ ![Java][java-badge] ][java-link] |--> 
-<!--| Solidity     | [ ![Solidity][solidity-badge] ][solidity-link] | | Typescript     | [ ![Typescript][typescript-badge] ][typescript-link] |
-</details>-->
-
-<details>
-<summary>
-<b>Programming & Markdown, Styling Languages</b>
-</summary>
-<br />
-
-| | | | | |
-| - | - | - | - | - |
-| HTML5     | [ ![HTML5][html-badge] ][html-link]                  | | CSS3             | [ ![CSS3][css-badge] ][css-link] |
-| JavaScript| [ ![Javascript][javascript-badge] ][javascript-link] | | LaTeX            | [ ![LaTeX][latex-badge] ][latex-link] |
-| Markdown  | [ ![Markdown][markdown-badge] ][markdown-link]       | | Shell Script/Bash| [ ![Shell Script/Bash][shell-badge] ][shell-link] |
-
-</details>
-
-<details>
-<summary>
-<b>Version Control</b>
-</summary>
-<br />
-
-| | |
-| - | - |
-| Git     | [ ![Git][git-badge] ][git-link] |
-| Github     | [ ![Github][github-badge] ][github-link] |
-</details>
 </div>
 
 <div>
@@ -326,40 +130,11 @@ Table Version
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrj14&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p>
 
-<h4 align="center">Lines of Code per language in the last year only</h4>
-<p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/jeffersonrj14/langs?time_range=one_year&loc_metric=changed&theme=dark">
-</p>
 <p align="center">
  	<img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonrj14">
 </p>
 </div>
 
-
-
-<!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215lqconp3eomcjzwaufygfri)
-
- - #### :musical_note: My Favorite Artist Music:
-    - [Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96?si=c4b83801ebe244ad)
-    - [Official髭男dism](https://open.spotify.com/playlist/37i9dQZF1DX0MkpDFqXa80?si=1e548c6f11484771)
-    - [燐舞曲](https://open.spotify.com/artist/44GR8gyoJ4DnH3mqaq2x7G?si=jmU5X2REQ2K1bPHKcaMQjA)
-    - [HoneyComeBear](https://open.spotify.com/artist/18NNCsbb6T0purrSKSRyuG?si=yXwbibGpTxGfPq-v59HP5A)
-    - [ヨルシカ](https://open.spotify.com/playlist/37i9dQZF1DWYLp3LpUUY2V?si=90d2c79f2d604471)
-    - [Tani Yuuki](https://open.spotify.com/playlist/37i9dQZF1DXcpJV5wyhhUo?si=6b8edd9a46484028)
-    - [Sawano Hiroyuki[nZK]](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1wM8PG?si=42adeb6c2025489b)
-    - and many more, ....
-- #### :notes: My Favorite Songs
-    - [愛とか恋とか - NovelBright](https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr?si=0467862b2f92477c)
-    - [青いのすみか - キタニタツヤ](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd?si=a5455311a97a4bcb)
-    - [scaPEGoat - SawanoHiroyuki[nZK], Yosh](https://open.spotify.com/track/70MRLhyWZJ5M8QysieavTx?si=1b7e9ae95da94bcc)
-    - [夏に閉じこめて - Poppin'Party](https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0?si=a042f37677144064)
-    - [Waiting for the rain - 坂本真綾](https://open.spotify.com/track/2iC18gXn4nDZ3JyixvmOFE?si=83cd33cd82e4483e)
-    - [ソラゴト - 明透](https://open.spotify.com/track/6wQWlxfRBct1xSKxrEFE9h?si=006a3994158c40b9)
-    - [Story - Abyssmare](https://open.spotify.com/track/4E8lNsot9KSpDVUYVNzsSy?si=56babf25160a4608)
-    - [Unti-L - SawanoHiroyuki[nZK]:ASCA](https://open.spotify.com/track/2nFDGqRXiWm5ESB4VzdIv2?si=88f2f2be2c124c2c) 
-     <br><br>-->
 
 <div align = "center";>
 	
