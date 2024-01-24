@@ -23,7 +23,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ritch Johan Jefferson
 =============================================================================================================================================
 
-<div align="center">
+<div>
 
 [![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
 	
@@ -130,14 +130,13 @@ Projects
 - [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
 
 
+Badges
+--------
+### My Github Stats
 
-<div align = "center";>
-	
-![<hr />][hr-style]<br />
-</div>
-
+<!--align="center"-->
 <div>
-<p align="center" id="github-stats">
+<p  id="github-stats">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrj14&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
 </p>
 
