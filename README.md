@@ -108,8 +108,9 @@ Projects
 
 </div>
 
-### Personal Projects
+### Old Projects
 
+<!--
 - [Portfolio (In development)](https://github.com/jeffersonrj14/portfolio.jeffersonfed.xyz) 
 	- ![Vercel](https://img.shields.io/github/deployments/jeffersonrj14/portfolio.jeffersonfed.xyz/production?style=flat&logo=vercel&label=vercel&color=13c4a5
 ) 
@@ -117,7 +118,7 @@ Projects
 )](https://portfolio.jeffersonfed.xyz)
 - [HTML, CSS, JS Project | Aug 2023 ~ Present](https://github.com/jeffersonrj14/Projects)
 	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fjeffersonrj14.github.io%2FProjects&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
-)](https://jeffersonrj14.github.io/Projects)
+)](https://jeffersonrj14.github.io/Projects)-->
 - [Pokemon Short Game May 2022 - Jun 2022](https://github.com/jeffersonrj14/Pokemon-short-game)
 	- ![Netlify Status](https://api.netlify.com/api/v1/badges/a434340b-2b0e-4fa8-9799-a71e2e792210/deploy-status?style=plastic)
 	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fpokemon-short-game.netlify.app&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
@@ -142,14 +143,18 @@ Badges
 
 </div>
 
-
 <div align = "center";>
+<a href='https://ko-fi.com/W7W7KXAFP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 	
 ![<hr />][hr-style]<br />
   <a href = "#top">
     Back to Top 
   </a>
 </div>
+
+
+
+
 
 
 <!-- 
