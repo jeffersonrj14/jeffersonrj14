@@ -49,7 +49,7 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
 <!--* 🤝  I'm open to collaborating on Websites-->
 * :star: Languages: 
     - Indonesia - Mother Tongue Language
-    - English - Fluent
+    - English - Basic Working Proficiency
     - Japanese - Basic working proficiency (N3～N2 Level)
 > Any advice is welcome, so I can also learn from other developers, etc.
 
@@ -91,6 +91,10 @@ Skills
 <b>IDE</b>
 
 [![VS Code][vscode-badge] ][vscode-link]
+
+<b>Design</b>
+
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
 
 Projects
 --------
