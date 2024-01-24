@@ -45,9 +45,9 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
  	* [Keybase](https://keybase.io/jeffersonrj14)
 	* [Twitter DM](https://www.x.com/jeffersonrj14)
 * 🚀  I'm currently working on [Portfolio](http://portfolio.jeffersonfed.xyz)
-* 🧠  I'm learning Javascript and Typescript
-* 🤝  I'm open to collaborating on Websites
-* :speaking_head: I Speak 3 Languages: 
+* 🧠  I'm currently learning JavaScript and TypeScript.
+<!--* 🤝  I'm open to collaborating on Websites-->
+* :star: Languages: 
     - Indonesia - Mother Tongue Language
     - English - Fluent
     - Japanese - Basic working proficiency (N3～N2 Level)
