@@ -38,6 +38,9 @@ Web Development | Frontend | Japanese Language Enthusiast
 I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
 Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it.
 
+このコースを頑張っています。数ヶ月後には実務経験を得られることを期待しています。
+> 石の上にも三年
+
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me by
 	* [Email](mailto:stupidjeff430@gmail.com)
