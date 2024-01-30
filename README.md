@@ -48,7 +48,7 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
  	* [Keybase](https://keybase.io/jeffersonrj14)
 	* [Twitter DM](https://www.x.com/jeffersonrj14)
 * 🚀  I'm currently working on [Portfolio](http://portfolio.jeffersonfed.xyz)
-* 🧠  I'm currently learning JavaScript and TypeScript.
+* 🧠  I'm currently taking Full Stack Developer Career Path
 <!--* 🤝  I'm open to collaborating on Websites-->
 * :star: Languages: 
     - Indonesia - Mother Tongue Language
