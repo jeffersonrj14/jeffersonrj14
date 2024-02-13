@@ -106,9 +106,9 @@ Projects
 
 <div>
 
-<a href="https://github.com/jeffersonfed/Projects" target=_blank>
+<!--<a href="https://github.com/jeffersonfed/Projects" target=_blank>
 	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=Projects&show_owner=true">
-</a>
+</a>-->
 <a href="https://github.com/jeffersonfed/portfolio.jeffersonfed.xyz" target=_blank>
 	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=portfolio.jeffersonfed.xyz&show_owner=true">
 </a>
@@ -131,12 +131,13 @@ Projects
 	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fpokemon-short-game.netlify.app&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
 )](https://pokemon-short-game.netlify.app)
 
+<!--
 ### Will Try to Redesign it later
 
 - [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
 - [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
 - [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
-
+-->
 
 Badges
 --------
