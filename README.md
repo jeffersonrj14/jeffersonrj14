@@ -60,13 +60,15 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
 Skills
 --------
 
-<b>Web Development</b>
+<b>Languages</b>
 
 [![HTML5][html-badge] ][html-link]
 [![CSS3][css-badge] ][css-link]
 [![Bootstrap][bootstrap-badge] ][bootstrap-link]
 [![Javascript][javascript-badge] ][javascript-link]
 [![Typescript][typescript-badge] ][typescript-link]
+
+Native in <code>Indonesian</code>, conversant in <code>English</code> and <code>Japanese</code>.
 
 <b>Frontend</b>
 
