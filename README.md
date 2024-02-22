@@ -1,22 +1,13 @@
 <div align="center" id="top">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&redirect=true)
+![<hr />][hr-style]
 
-[![Profile Total Visits](https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=13c4a5&style=flat)](#top)
-[![Years Badge](https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=13c4a5&icon=5&pretty=false&style=flat)](#top)
-[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonrj14?&label=Overall%20Commits&color=13c4a5&icon=5&pretty=false&style=flat)](#top)
-[![Gist](https://badges.pufler.dev/gists/jeffersonrj14?&label=Gist&color=13c4a5&icon=5&pretty=false&style=flat)](https://gist.github.com/jeffersonfed)
+<img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
-<!--
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/jeffersonrj14) 
-[![Keybase](https://img.shields.io/badge/Keybase-black?style=plastic&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonrj14)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeffersonfed)
-[![wakatime](https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&style=plastic)](https://wakatime.com/@jeffersonrj14)
-
-<p align="center">
- 	<img width="450em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jeffersonrj14">
-</p>
--->
+<a href='https://discord.com/users/606481557615542273' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/606481557615542273?simple=true" /></a>
+<img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
+<a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
+<img alt="Years Badge" src="https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=1b7565&icon=5&pretty=false&style=flat" />
 
 </div >
 
@@ -37,9 +28,6 @@ Web Development | Frontend | Japanese Language Enthusiast
 
 I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
 Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it.
-
-このコースを頑張っています。数ヶ月後には実務経験を得られることを期待しています。
-> 石の上にも三年
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me by
@@ -119,6 +107,8 @@ Projects
 	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fpokemon-short-game.netlify.app&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
 )](https://pokemon-short-game.netlify.app)
 
+--------
+
 <!--
 ### Will Try to Redesign it later
 
@@ -127,28 +117,22 @@ Projects
 - [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
 -->
 
-Badges
---------
-### My Github Stats
 
-<!--align="center"-->
-<div>
-<p  id="github-stats">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrj14&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
-</p>
-
-</div>
-
+<!--
 <div align = "center";>
 <a href='https://ko-fi.com/W7W7KXAFP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 	
-![<hr />][hr-style]<br />
+<br />
   <a href = "#top">
     Back to Top 
-  </a>
+  </a><br />
+
+![<hr />][hr-style]
 </div>
 
-
+石の上にも三年
+<blockquote>このコースを頑張っています。数ヶ月後には実務経験を得られることを期待しています。</blockquote>
+-->
 
 
 
