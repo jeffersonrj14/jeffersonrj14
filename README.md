@@ -47,57 +47,43 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
  	* [Discord](https://discordapp.com/users/606481557615542273) 
  	* [Keybase](https://keybase.io/jeffersonrj14)
 	* [Twitter DM](https://www.x.com/jeffersonrj14)
-* 🚀  I'm currently working on [Portfolio](http://portfolio.jeffersonfed.xyz)
+* 🚀  I'm currently working on Portfolio and Personal Projects
 * 🧠  I'm currently taking Full Stack Developer Career Path at Zero To Mastery
 <!--* 🤝  I'm open to collaborating on Websites-->
 * :star: Languages: 
-    - Indonesia - Mother Tongue Language
-    - English - Basic Working Proficiency
-    - Japanese - Basic working proficiency (N3～N2 Level)
+	- Native in <code>Indonesian</code>, conversant in <code>English</code> and <code>Japanese</code>.<br>
+		- Indonesia → Mother Tongue Language
+		- English → Basic Working Proficiency
+		- Japanese → Basic working proficiency (N3～N2 Level)
 > Any advice is welcome, so I can also learn from other developers, etc.
 
 
 Skills
 --------
 
-<b>Languages</b>
-
 [![HTML5][html-badge] ][html-link]
 [![CSS3][css-badge] ][css-link]
 [![Bootstrap][bootstrap-badge] ][bootstrap-link]
 [![Javascript][javascript-badge] ][javascript-link]
 [![Typescript][typescript-badge] ][typescript-link]
+[![LaTeX][latex-badge] ][latex-link]
+[![Markdown][markdown-badge] ][markdown-link] 
+[![Shell Script/Bash][shell-badge] ][shell-link]
 
-Native in <code>Indonesian</code>, conversant in <code>English</code> and <code>Japanese</code>.
 
-<b>Frontend</b>
 
 [![Astro][astro-badge] ][astro-link]
 [![NextJS][nextjs-badge] ][nextjs-link]
 [![React][react-badge] ][react-link] 
 [![Tailwind][tailwind-badge] ][tailwind-link]
 
-<b>Other</b>
 
-[![LaTeX][latex-badge] ][latex-link]
-[![Markdown][markdown-badge] ][markdown-link] 
-[![Shell Script/Bash][shell-badge] ][shell-link]
-
-<b>Hosting/SaaS</b>
-
+[![VS Code][vscode-badge] ][vscode-link]
+[![Git][git-badge] ][git-link]
+[![Github][github-badge] ][github-link]
 [![Netlify][netlify-badge] ][netlify-link]
 [![Vercel][vercel-badge] ][vercel-link]
 
-<b>Version Control</b>
-
-[![Git][git-badge] ][git-link]
-[![Github][github-badge] ][github-link]
-
-<b>IDE</b>
-
-[![VS Code][vscode-badge] ][vscode-link]
-
-<b>Design</b>
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
 
@@ -111,7 +97,7 @@ Projects
 <!--<a href="https://github.com/jeffersonfed/Projects" target=_blank>
 	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=Projects&show_owner=true">
 </a>-->
-<a href="https://github.com/jeffersonfed/portfolio.jeffersonfed.xyz" target=_blank>
+<a href="https://github.com/jeffersonrj14" target=_blank>
 	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=portfolio.jeffersonfed.xyz&show_owner=true">
 </a>
 
