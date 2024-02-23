@@ -4,6 +4,8 @@
 
 <img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
+<!--<code><t:1704150000:t></code>-->
+
 <a href='https://discord.com/users/606481557615542273' target='_blank'><img alt="discord status" src="https://api.statusbadges.me/badge/status/606481557615542273?simple=true" /></a>
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 <a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
