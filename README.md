@@ -56,17 +56,15 @@ Skills
 [![Bootstrap][bootstrap-badge] ][bootstrap-link]
 [![Javascript][javascript-badge] ][javascript-link]
 [![Typescript][typescript-badge] ][typescript-link]
+
 [![LaTeX][latex-badge] ][latex-link]
 [![Markdown][markdown-badge] ][markdown-link] 
 [![Shell Script/Bash][shell-badge] ][shell-link]
-
-
 
 [![Astro][astro-badge] ][astro-link]
 [![NextJS][nextjs-badge] ][nextjs-link]
 [![React][react-badge] ][react-link] 
 [![Tailwind][tailwind-badge] ][tailwind-link]
-
 
 [![VS Code][vscode-badge] ][vscode-link]
 [![Git][git-badge] ][git-link]
