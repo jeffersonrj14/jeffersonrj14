@@ -80,34 +80,20 @@ Skills
 Projects
 --------
 
-### Recent Projects 
+<details>
+  <summary>Recent Projects</summary>
 
-<div>
+  - [jeffersonrj14/portfolio.jeffersonfed.xyz](https://github.com/jeffersonrj14/portfolio.jeffersonfed.xyz): My portfolio is created using Next.js, Tailwind, and Framer Motion. I might add more in the future. I keep my portfolio as simple as I can.
 
-<!--<a href="https://github.com/jeffersonfed/Projects" target=_blank>
-	<img height="100" alt="Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=Projects&show_owner=true">
-</a>-->
-<a href="https://github.com/jeffersonrj14" target=_blank>
-	<img height="100" alt="Portfolio(Under Development)" src="https://github-readme-stats.vercel.app/api/pin/?username=jeffersonrj14&repo=portfolio.jeffersonfed.xyz&show_owner=true">
-</a>
+  - [jeffersonrj14/Projects](https://github.com/jeffersonrj14/Projects): Deleting unnecessary projects and focusing on real projects that I can create to showcase my skills..
+</details>
 
-</div>
+<details>
+  <summary>Old Projects</summary>
 
-### Old Projects
+  - [jeffersonrj14/Pokemon-short-game](https://github.com/jeffersonrj14/Pokemon-short-game) (May 2022 - Jun 2022): .
+</details>
 
-<!--
-- [Portfolio (In development)](https://github.com/jeffersonrj14/portfolio.jeffersonfed.xyz) 
-	- ![Vercel](https://img.shields.io/github/deployments/jeffersonrj14/portfolio.jeffersonfed.xyz/production?style=flat&logo=vercel&label=vercel&color=13c4a5
-) 
-	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fportfolio.jeffersonfed.xyz&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
-)](https://portfolio.jeffersonfed.xyz)
-- [HTML, CSS, JS Project | Aug 2023 ~ Present](https://github.com/jeffersonrj14/Projects)
-	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fjeffersonrj14.github.io%2FProjects&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
-)](https://jeffersonrj14.github.io/Projects)-->
-- [Pokemon Short Game May 2022 - Jun 2022](https://github.com/jeffersonrj14/Pokemon-short-game)
-	- ![Netlify Status](https://api.netlify.com/api/v1/badges/a434340b-2b0e-4fa8-9799-a71e2e792210/deploy-status?style=plastic)
-	- [![Status](https://img.shields.io/website?url=https%3A%2F%2Fpokemon-short-game.netlify.app&up_message=Online&up_color=13c4a5&down_message=offline&down_color=FF0000&style=flat&logo=globe
-)](https://pokemon-short-game.netlify.app)
 
 --------
 
