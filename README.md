@@ -5,6 +5,7 @@
 <img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
 <br />
+
 <!--<code><t:1704150000:t></code>
 <a href='https://discord.com/users/606481557615542273' target='_blank'><img src="https://api.statusbadges.me/badge/status/606481557615542273?label=Discord%20Status&style=flat" alt="status"></a>-->
 
