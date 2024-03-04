@@ -130,7 +130,7 @@ Support
 <a href="https://ko-fi.com/jeffersonrj14"> 
 <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jeffersonrj14" /></a>
 
---------
+
 
 <!--
 ### Will Try to Redesign it later
