@@ -27,21 +27,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Development | Frontend | Japanese Language Enthusiast
 --------
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jeffersonrj14?style=flat&logo=twitter&label=Follow%20%40jeffersonrj14&labelColor=000000&color=000000)](https://www.x.com/jeffersonrj14)
+- 🌍 I'm based in Indonesia **(GMT +7)**
 
+- 🚀 I’m currently working on **Portfolio and Personal Projects**
 
-I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
-Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it.
+- 🌱 I’m currently learning **Advanced Javascript and DOM Manipulation in the Zero to Mastery Full Stack Course**
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me by
-	* [Email](mailto:stupidjeff430@gmail.com)
- 	* [Discord](https://discordapp.com/users/606481557615542273) 
- 	* [Keybase](https://keybase.io/jeffersonrj14)
-	* [Twitter DM](https://www.x.com/jeffersonrj14)
-* 🚀  I'm currently working on Portfolio and Personal Projects
-* 🧠  I'm currently taking Full Stack Developer Career Path at Zero To Mastery
-<!--* 🤝  I'm open to collaborating on Websites-->
+- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio.jeffersonfed.xyz)** (Under Development)
+
+- 📫 How to reach me: **[Email](mailto:stupidjeff430@gmail.com)**, **[Twitter DM](https://www.x.com/jeffersonrj14)**, and **[Discord](https://discordapp.com/users/606481557615542273)** (Recommended)
+
+- ⚡ Fun fact **I'm a night owl Person**
+
 * :star: Languages: 
 	- Native in <code>Indonesian</code>, conversant in <code>English</code> and <code>Japanese</code>.<br>
 		- Indonesia → Mother Tongue Language
@@ -49,8 +46,40 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
 		- Japanese → Basic working proficiency (N3～N2 Level)
 > Any advice is welcome, so I can also learn from other developers, etc.
 
+Connect with Me
+--------
 
-Skills
+<a href="https://twitter.com/jeffersonrj14" target="blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://instagram.com/jeffersonrj14" target="blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://codepen.io/jeffersonrj14" target="blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+
+<!-- <a href="https://linkedin.com/in/" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="jeffersonrj14" height="30" width="40" /></a> -->
+
+<!-- - 🔭 I’m currently working on [link](asd)
+
+- 🌱 I’m currently learning **Zero to Mastery Full Stack Course**
+
+- 👯 I’m looking to collaborate on [asd](asd)
+
+- 🤝 I’m looking for help with [asd](asd)
+
+- 👨‍💻 All of my projects are available at [link](link)
+
+- 📝 I regularly write articles on [link](link)
+
+- 💬 Ask me about **asd**
+
+- 📫 How to reach me **Email**
+
+- 📄 Know about my experiences [link](link)
+
+- ⚡ Fun fact **asd** -->
+
+<!-- I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
+Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it. -->
+
+
+Skills:
 --------
 
 [![HTML5][html-badge] ][html-link]
@@ -94,6 +123,12 @@ Projects
   - [jeffersonrj14/Pokemon-short-game](https://github.com/jeffersonrj14/Pokemon-short-game) (May 2022 - Jun 2022): .
 </details>
 
+
+Support
+--------
+
+<a href="https://ko-fi.com/jeffersonrj14"> 
+<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jeffersonrj14" /></a>
 
 --------
 
