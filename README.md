@@ -128,7 +128,7 @@ Support
 --------
 
 <a href="https://ko-fi.com/jeffersonrj14"> 
-<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jeffersonrj14" /></a>
+<img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" height="auto" width="100" alt="jeffersonrj14" /></a>
 
 
 
