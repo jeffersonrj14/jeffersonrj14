@@ -129,10 +129,21 @@ Projects
 Support
 --------
 
-<a href="https://ko-fi.com/jeffersonrj14"> 
-<img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" height="auto" width="100" alt="jeffersonrj14" /></a>
+<p>
+	<a href="https://ko-fi.com/jeffersonrj14"> 
+		<img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" height="auto" width="100" alt="jeffersonrj14" />
+	</a>
+</p>
+<br><br>
 
+Metric
+--------
 
+<div align="center">
+
+![Metric](https://github.com/jeffersonrj14/metric-readme/blob/main/github-metrics.svg)
+![<hr />][hr-style]
+</div>
 
 <!--
 ### Will Try to Redesign it later
