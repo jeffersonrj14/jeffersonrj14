@@ -51,9 +51,9 @@ Connect with Me
 
 <a href="https://github.com/jeffersonrj14"><img src="https://img.shields.io/github/followers/jeffersonrj14.svg?style=social&label=Follow&maxAge=2592000" /></a>
 
-<a href="https://twitter.com/jeffersonrj14" target="blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="30" width="40" /></a>
-<a href="https://instagram.com/jeffersonrj14" target="blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="30" width="40" /></a>
-<a href="https://codepen.io/jeffersonrj14" target="blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://twitter.com/jeffersonrj14" target="_blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://instagram.com/jeffersonrj14" target="_blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://codepen.io/jeffersonrj14" target="_blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="30" width="40" /></a>
 
 <!-- <a href="https://linkedin.com/in/" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="jeffersonrj14" height="30" width="40" /></a> -->
 
