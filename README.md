@@ -15,13 +15,15 @@
 
 </div >
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RJ Jefferson
+Hi <img src= "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />My name is RJ Jefferson
 =============================================================================================================================================
 
 <div>
 
-[![](/../../../../jeffersonfed/jefferson14/blob/main/out/output.svg)](https://links.jeffersonfed.xyz)
-	
+<a href="https://links.jeffersonfed.xyz">
+	<img src="/../../../../jeffersonrj14/jefferson14/blob/main/out/output.svg" />
+</a>
+
 </div>
 
 Web Development | Frontend | Japanese Language Enthusiast
@@ -141,7 +143,8 @@ Metric
 
 <div align="center">
 
-![Metric](https://github.com/jeffersonrj14/metric-readme/blob/main/github-metrics.svg)
+<img src="/../../../../jeffersonrj14/metric-readme/blob/main/github-metrics.svg" alt="Github Metric" />
+
 ![<hr />][hr-style]
 </div>
 
