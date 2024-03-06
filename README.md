@@ -2,6 +2,8 @@
 
 ![<hr />][hr-style]
 
+<img alt="Created Badge" src="https://badges.pufler.dev/created/jeffersonrj14/jeffersonrj14?&color=1b7565&style=flat" />
+<br>
 <img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
 <br />
@@ -11,7 +13,10 @@
 
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 <a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
+<img alt="Commits Badge" src="https://badges.pufler.dev/commits/monthly/jeffersonrj14?&color=1b7565&style=flat" />
 <img alt="Years Badge" src="https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=1b7565&icon=5&pretty=false&style=flat" />
+<br>
+
 
 </div >
 
@@ -28,8 +33,6 @@ Hi <img src= "https://user-images.githubusercontent.com/18350557/176309783-07859
 
 Web Development | Frontend | Japanese Language Enthusiast
 --------
-
-- 🌍 I'm based in Indonesia **(GMT +7)**
 
 - 🚀 I’m currently working on **Portfolio and Personal Projects**
 
@@ -53,9 +56,9 @@ Connect with Me
 
 <a href="https://github.com/jeffersonrj14"><img src="https://img.shields.io/github/followers/jeffersonrj14.svg?style=social&label=Follow&maxAge=2592000" /></a>
 
-<a href="https://twitter.com/jeffersonrj14" target="_blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="30" width="40" /></a>
-<a href="https://instagram.com/jeffersonrj14" target="_blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="30" width="40" /></a>
-<a href="https://codepen.io/jeffersonrj14" target="_blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://twitter.com/jeffersonrj14" target="_blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="40" width="50" /></a>
+<a href="https://instagram.com/jeffersonrj14" target="_blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="40" width="50" /></a>
+<a href="https://codepen.io/jeffersonrj14" target="_blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="40" width="50" /></a>
 
 <!-- <a href="https://linkedin.com/in/" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="jeffersonrj14" height="30" width="40" /></a> -->
 
@@ -86,7 +89,71 @@ Aside from my tech interests, I'm a Japanese language enthusiast. I read novels,
 Skills:
 --------
 
-[![HTML5][html-badge] ][html-link]
+<!-- Language -->
+<div>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/HTML.svg" alt="html5" width="50" height="50"/> 
+</a>   
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/CSS.svg" alt="css3" width="50" height="50"/> 
+</a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/JavaScript.svg" alt="javascript" width="50" height="50"/>
+</a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/TypeScript.svg" alt="typescript" width="50" height="50"/> 
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/NextJS-Dark.svg" alt="nextjs" width="50" height="50"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/React-Dark.svg" alt="react" width="50" height="50"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/TailwindCSS-Dark.svg" alt="tailwind" width="50" height="50"/> 
+</a> 
+</div>
+
+
+
+<!--  -->
+<div>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/VSCode-Dark.svg" alt="vscode" width="50" height="50"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/Git.svg" alt="git" width="50" height="50"/> 
+</a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/Github-Dark.svg" alt="github" width="50" height="50"/> 
+</a> 
+<a href="https://netlify.com" target="_blank" rel="noreferrer">
+  <img src="assets/tech-stack/Netlify-Dark.svg" alt="netlify" width="50" height="50"/> 
+</a> 
+<a href="https://vercel.com" target="_blank" rel="noreferrer">
+  <img src="assets/tech-stack/Vercel-Dark.svg" alt="vercel" width="50" height="50"/> 
+</a> 
+<a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/LaTeX-Dark.svg" alt="LaTeX" width="50" height="50"/> 
+</a> 
+<a href="#" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/Markdown-Dark.svg" alt="Markdown" width="50" height="50"/> 
+</a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+  <img src="assets/tech-stack/Bash-Dark.svg" alt="bash" width="50" height="50"/> 
+</a> 
+</div>
+
+<div>
+<a href="https://canva.com" target="_blank" rel="noreferrer">
+  <img src="assets/tech-stack/Canva.svg" alt="canva" width="50" height="50"/> 
+</a>
+</div>
+
+<!-- [![HTML5][html-badge] ][html-link]
 [![CSS3][css-badge] ][css-link]
 [![Bootstrap][bootstrap-badge] ][bootstrap-link]
 [![Javascript][javascript-badge] ][javascript-link]
@@ -108,7 +175,7 @@ Skills:
 [![Vercel][vercel-badge] ][vercel-link]
 
 
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com) -->
 
 Projects
 --------
