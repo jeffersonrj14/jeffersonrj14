@@ -138,15 +138,6 @@ Support
 </p>
 <br><br>
 
-Metric
---------
-
-<div align="center">
-
-<img src="/../../../../jeffersonrj14/metric-readme/blob/main/github-metrics.svg" alt="Github Metric" />
-
-![<hr />][hr-style]
-</div>
 
 <!--
 ### Will Try to Redesign it later
