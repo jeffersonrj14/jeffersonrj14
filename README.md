@@ -3,20 +3,27 @@
 ![<hr />][hr-style]
 
 <img alt="Created Badge" src="https://badges.pufler.dev/created/jeffersonrj14/jeffersonrj14?&color=1b7565&style=flat" />
-<br>
+
+<!--
 <img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
 <br />
 
-<!--<code><t:1704150000:t></code>
+<code><t:1704150000:t></code>
 <a href='https://discord.com/users/606481557615542273' target='_blank'><img src="https://api.statusbadges.me/badge/status/606481557615542273?label=Discord%20Status&style=flat" alt="status"></a>-->
 
+<br>
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 <a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
-<img alt="Commits Badge" src="https://badges.pufler.dev/commits/monthly/jeffersonrj14?&color=1b7565&style=flat" />
 <img alt="Years Badge" src="https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=1b7565&icon=5&pretty=false&style=flat" />
+
 <br>
 
+<a href="https://github.com/jeffersonrj14"><img src="https://badges.pufler.dev/contributors/jeffersonrj14/jeffersonrj14?size=50&padding=5&perRow=10&bots=true" /></a><br>
+<a href="https://github.com/jeffersonrj14"><img src="https://img.shields.io/github/followers/jeffersonrj14.svg?style=social&label=Follow&maxAge=2592000" /></a><br>
+<a href="https://twitter.com/jeffersonrj14" target="_blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://instagram.com/jeffersonrj14" target="_blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+<a href="https://codepen.io/jeffersonrj14" target="_blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="30" width="40" /></a>
 
 </div >
 
@@ -50,15 +57,6 @@ Web Development | Frontend | Japanese Language Enthusiast
 		- English → Basic Working Proficiency
 		- Japanese → Basic working proficiency (N3～N2 Level)
 > Any advice is welcome, so I can also learn from other developers, etc.
-
-Connect with Me
---------
-
-<a href="https://github.com/jeffersonrj14"><img src="https://img.shields.io/github/followers/jeffersonrj14.svg?style=social&label=Follow&maxAge=2592000" /></a>
-
-<a href="https://twitter.com/jeffersonrj14" target="_blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="40" width="50" /></a>
-<a href="https://instagram.com/jeffersonrj14" target="_blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="40" width="50" /></a>
-<a href="https://codepen.io/jeffersonrj14" target="_blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="40" width="50" /></a>
 
 <!-- <a href="https://linkedin.com/in/" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="jeffersonrj14" height="30" width="40" /></a> -->
 
