@@ -83,11 +83,12 @@ Web Development | Frontend | Japanese Language Enthusiast
 <!-- I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
 Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it. -->
 
-
+<!--
 Skills:
 --------
-
+-->
 <!-- Language -->
+<!--  
 <div>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="assets/tech-stack/HTML.svg" alt="html5" width="50" height="50"/> 
@@ -117,7 +118,7 @@ Skills:
 
 
 
-<!--  -->
+
 <div>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
   <img src="assets/tech-stack/VSCode-Dark.svg" alt="vscode" width="50" height="50"/> 
@@ -149,7 +150,7 @@ Skills:
 <a href="https://canva.com" target="_blank" rel="noreferrer">
   <img src="assets/tech-stack/Canva.svg" alt="canva" width="50" height="50"/> 
 </a>
-</div>
+</div>-->
 
 <!-- [![HTML5][html-badge] ][html-link]
 [![CSS3][css-badge] ][css-link]
