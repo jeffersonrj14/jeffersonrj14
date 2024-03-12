@@ -47,7 +47,7 @@ Web Development | Frontend | Japanese Language Enthusiast
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio.jeffersonfed.xyz)** (Under Development)
 
-- 📫 How to reach me: **[Email](mailto:stupidjeff430@gmail.com)**, **[Twitter DM](https://www.x.com/jeffersonrj14)**, and **[Discord](https://discordapp.com/users/606481557615542273)** (Recommended)
+- 📫 How to reach me: **[Email](mailto:jefferson@jeffersonrj.com)**, **[Twitter DM](https://www.x.com/jeffersonrj14)**, and **[Discord](https://discordapp.com/users/606481557615542273)** (Recommended)
 
 - ⚡ Fun fact **I'm a night owl Person**
 
