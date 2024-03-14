@@ -27,8 +27,7 @@
 
 </div >
 
-Hi <img src= "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />My name is RJ Jefferson
-=============================================================================================================================================
+<h2>Hi 👋, My name is RJ Jefferson</h2>
 
 <div>
 
@@ -41,11 +40,11 @@ Hi <img src= "https://user-images.githubusercontent.com/18350557/176309783-07859
 Web Development | Frontend | Japanese Language Enthusiast
 --------
 
-- 🚀 I’m currently working on **Portfolio and Personal Projects**
+- 🚀 I’m currently working on  **[Portfolio](https://jeffersonrj.com)**
 
 - 🌱 I’m currently learning **Advanced Javascript and DOM Manipulation in the Zero to Mastery Full Stack Course**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio.jeffersonfed.xyz)** (Under Development)
+- 👨‍💻 All of my projects are available at **[jeffersonrj14.github.io/personal-projects](#)** (Website is not yet available as it is still under development.)
 
 - 📫 How to reach me: **[Email](mailto:jefferson@jeffersonrj.com)**, **[Twitter DM](https://www.x.com/jeffersonrj14)**, and **[Discord](https://discordapp.com/users/606481557615542273)** (Recommended)
 
@@ -182,9 +181,8 @@ Projects
 <details>
   <summary>Recent Projects</summary>
 
-  - [jeffersonrj14/portfolio.jeffersonfed.xyz](https://github.com/jeffersonrj14/portfolio.jeffersonfed.xyz): My portfolio is created using Next.js, Tailwind, and Framer Motion. I might add more in the future. I keep my portfolio as simple as I can.
+  - [jeffersonrj14/jeffersonrj.com](https://github.com/jeffersonrj14/jeffersonrj.com): My portfolio is created using Next.js, Tailwind, and Framer Motion. I might add more in the future. I keep my portfolio as simple as I can.
 
-  - [jeffersonrj14/Projects](https://github.com/jeffersonrj14/Projects): Deleting unnecessary projects and focusing on real projects that I can create to showcase my skills..
 </details>
 
 <details>
