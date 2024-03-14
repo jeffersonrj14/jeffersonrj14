@@ -44,7 +44,7 @@ Web Development | Frontend | Japanese Language Enthusiast
 
 - 🌱 I’m currently learning **Advanced Javascript and DOM Manipulation in the Zero to Mastery Full Stack Course**
 
-- 👨‍💻 All of my projects are available at **[jeffersonrj14.github.io/personal-projects](#)** (Website is not yet available as it is still under development.)
+- 👨‍💻 All of my projects are available at **[jeffersonrj14.github.io/personal-projects](https://jeffersonrj14.github.io/personal-projects)** (Website is not yet available as it is still under development.)
 
 - 📫 How to reach me: **[Email](mailto:jefferson@jeffersonrj.com)**, **[Twitter DM](https://www.x.com/jeffersonrj14)**, and **[Discord](https://discordapp.com/users/606481557615542273)** (Recommended)
 
