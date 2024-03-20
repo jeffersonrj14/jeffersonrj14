@@ -200,6 +200,11 @@ Support
 		<img align="left" src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" height="auto" width="100" alt="jeffersonrj14" />
 	</a>
 </p>
+<p>
+	<a href="https://www.buymeacoffee.com/jeffersonrj14"> 
+		<img align="left" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" height="auto" width="200" alt="jeffersonrj14" />
+	</a>
+</p>
 <br><br>
 
 
