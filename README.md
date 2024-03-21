@@ -31,7 +31,7 @@
 
 <div>
 
-<a href="https://links.jeffersonfed.xyz">
+<a href="https://links.jeffersonrj.com">
 	<img src="/../../../../jeffersonrj14/jefferson14/blob/main/out/output.svg" />
 </a>
 
