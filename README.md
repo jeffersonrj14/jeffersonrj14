@@ -42,7 +42,7 @@ Web Development | Frontend | Japanese Language Enthusiast
 
 - 🚀 I’m currently working on  **[Portfolio](https://jeffersonrj.com)**
 
-- 🌱 I’m currently learning **Advanced Javascript and DOM Manipulation in the Zero to Mastery Full Stack Course**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at **[jeffersonrj14.github.io/personal-projects](https://jeffersonrj14.github.io/personal-projects)** (Website is not yet available as it is still under development.)
 
