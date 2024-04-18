@@ -2,8 +2,6 @@
 
 ![<hr />][hr-style]
 
-<img alt="Created Badge" src="https://badges.pufler.dev/created/jeffersonrj14/jeffersonrj14?&color=1b7565&style=flat" />
-
 <!--
 <img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=215lqconp3eomcjzwaufygfri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 
@@ -15,167 +13,64 @@
 <br>
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 <a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
-<img alt="Years Badge" src="https://badges.pufler.dev/years/jeffersonrj14?&label=Years&color=1b7565&icon=5&pretty=false&style=flat" />
 
 <br>
 
 <a href="https://github.com/jeffersonrj14"><img src="https://badges.pufler.dev/contributors/jeffersonrj14/jeffersonrj14?size=50&padding=5&perRow=10&bots=true" /></a><br>
-<a href="https://github.com/jeffersonrj14"><img src="https://img.shields.io/github/followers/jeffersonrj14.svg?style=social&label=Follow&maxAge=2592000" /></a><br>
-<a href="https://twitter.com/jeffersonrj14" target="_blank"><img align="center" src="assets/twitter.svg" alt="jeffersonrj14" height="30" width="40" /></a>
-<a href="https://instagram.com/jeffersonrj14" target="_blank"><img align="center" src="assets/instagram.svg" alt="jeffersonrj14" height="30" width="40" /></a>
-<a href="https://codepen.io/jeffersonrj14" target="_blank"><img align="center" src="assets/codepen.svg" alt="jeffersonrj14" height="30" width="40" /></a>
+
 
 </div >
 
-<h2>Hi 👋, My name is RJ Jefferson</h2>
+<h3>Hi 👋, My name is RJ Jefferson</h3>
 
-<div>
+I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion for web development.
 
-<a href="https://links.jeffersonrj.com">
-	<img src="/../../../../jeffersonrj14/jefferson14/blob/main/out/output.svg" />
-</a>
-
-</div>
-
-Web Development | Frontend | Japanese Language Enthusiast
---------
-
+- Check out my **[Portfolio](https://jeffersonrj.com/about)** to learn more about me 
 - 🚀 I’m currently working on  **[Portfolio](https://jeffersonrj.com)**
-
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at **[jeffersonrj14.github.io/personal-projects](https://jeffersonrj14.github.io/personal-projects)** (Website is not yet available as it is still under development.)
+> Any advice is welcome, so I can also learn from other developers, etc. -->
 
-- 📫 How to reach me: **[Email](mailto:jefferson@jeffersonrj.com)**, **[Twitter DM](https://www.x.com/jeffersonrj14)**, and **[Discord](https://discordapp.com/users/606481557615542273)** (Recommended)
+## 🛠️ Skills
 
-- ⚡ Fun fact **I'm a night owl Person**
+**Frontend Development:** `JavaScript` `TypeScript` `React` `Next.js` `Tailwind`
 
-* :star: Languages: 
-	- Native in <code>Indonesian</code>, conversant in <code>English</code> and <code>Japanese</code>.<br>
-		- Indonesia → Mother Tongue Language
-		- English → Basic Working Proficiency
-		- Japanese → Basic working proficiency (N3～N2 Level)
-> Any advice is welcome, so I can also learn from other developers, etc.
+**Backend Development:** `-`
 
-<!-- <a href="https://linkedin.com/in/" target="blank"><img align="center" src="assets/linked-in-alt.svg" alt="jeffersonrj14" height="30" width="40" /></a> -->
+**Version Control:** `Git` `GitHub`
 
-<!-- - 🔭 I’m currently working on [link](asd)
+**Deployment/Hosting** `Vercel` `Github Pages`
 
-- 🌱 I’m currently learning **Zero to Mastery Full Stack Course**
+**Others:** `Java (Minecraft Modding)` `LaTeX` 
 
-- 👯 I’m looking to collaborate on [asd](asd)
+## ✨ Fun Facts
+- I'm a night owl Person
+- Love reading Japanese novels.
+  - Novels that I have read: 
+    - [告白 （双葉文庫）by 	湊 かなえ （著）](https://honto.jp/netstore/pd-book_03247858.html)
+    - [あの夏が飽和する。 by 	カンザキイオリ](https://honto.jp/ebook/pd_30499106.html)
+    - [容疑者Ｘの献身 （文春文庫 ガリレオ）by 	東野 圭吾 （著）](https://honto.jp/netstore/pd-book_03022366.html)
+- I edit clips of Hololive Japan talents by adding English subtitles to the videos.
 
-- 🤝 I’m looking for help with [asd](asd)
+## 📫 Contact
 
-- 👨‍💻 All of my projects are available at [link](link)
+ For a quick response, DM me on [Discord](https://discordapp.com/users/606481557615542273). 
 
-- 📝 I regularly write articles on [link](link)
+![<hr />][hr-style]
 
-- 💬 Ask me about **asd**
 
-- 📫 How to reach me **Email**
+<!-- ## ⭐ Languages: 
+- Native in <code>Indonesian</code>, conversant in <code>English</code> and <code>Japanese</code>.<br>
+  - Indonesia → Mother Tongue Language
+  - English → Basic Working Proficiency
+  - Japanese → Basic working proficiency (N3～N2 Level)
+> Any advice is welcome, so I can also learn from other developers, etc. -->
 
-- 📄 Know about my experiences [link](link)
-
-- ⚡ Fun fact **asd** -->
 
 <!-- I'm 22 years old and have a deep passion for web development. Currently, I'm building web projects using my frontend skills. I love creating engaging and user-friendly web experiences using various frameworks and technologies. I am currently learning web development at <a href="https://zerotomastery.io">Zero To Mastery Academy</a>, where I am constantly honing my skills and knowledge in these fields. <br/>
 Aside from my tech interests, I'm a Japanese language enthusiast. I read novels, news, and articles in Japanese. I also love Japanese culture and have great respect for it. -->
 
-<!--
-Skills:
---------
--->
-<!-- Language -->
-<!--  
-<div>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/HTML.svg" alt="html5" width="50" height="50"/> 
-</a>   
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/CSS.svg" alt="css3" width="50" height="50"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/JavaScript.svg" alt="javascript" width="50" height="50"/>
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/TypeScript.svg" alt="typescript" width="50" height="50"/> 
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/NextJS-Dark.svg" alt="nextjs" width="50" height="50"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/React-Dark.svg" alt="react" width="50" height="50"/> 
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/TailwindCSS-Dark.svg" alt="tailwind" width="50" height="50"/> 
-</a> 
-</div>
-
-
-
-
-<div>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/VSCode-Dark.svg" alt="vscode" width="50" height="50"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/Git.svg" alt="git" width="50" height="50"/> 
-</a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/Github-Dark.svg" alt="github" width="50" height="50"/> 
-</a> 
-<a href="https://netlify.com" target="_blank" rel="noreferrer">
-  <img src="assets/tech-stack/Netlify-Dark.svg" alt="netlify" width="50" height="50"/> 
-</a> 
-<a href="https://vercel.com" target="_blank" rel="noreferrer">
-  <img src="assets/tech-stack/Vercel-Dark.svg" alt="vercel" width="50" height="50"/> 
-</a> 
-<a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/LaTeX-Dark.svg" alt="LaTeX" width="50" height="50"/> 
-</a> 
-<a href="#" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/Markdown-Dark.svg" alt="Markdown" width="50" height="50"/> 
-</a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-  <img src="assets/tech-stack/Bash-Dark.svg" alt="bash" width="50" height="50"/> 
-</a> 
-</div>
-
-<div>
-<a href="https://canva.com" target="_blank" rel="noreferrer">
-  <img src="assets/tech-stack/Canva.svg" alt="canva" width="50" height="50"/> 
-</a>
-</div>-->
-
-<!-- [![HTML5][html-badge] ][html-link]
-[![CSS3][css-badge] ][css-link]
-[![Bootstrap][bootstrap-badge] ][bootstrap-link]
-[![Javascript][javascript-badge] ][javascript-link]
-[![Typescript][typescript-badge] ][typescript-link]
-
-[![LaTeX][latex-badge] ][latex-link]
-[![Markdown][markdown-badge] ][markdown-link] 
-[![Shell Script/Bash][shell-badge] ][shell-link]
-
-[![Astro][astro-badge] ][astro-link]
-[![NextJS][nextjs-badge] ][nextjs-link]
-[![React][react-badge] ][react-link] 
-[![Tailwind][tailwind-badge] ][tailwind-link]
-
-[![VS Code][vscode-badge] ][vscode-link]
-[![Git][git-badge] ][git-link]
-[![Github][github-badge] ][github-link]
-[![Netlify][netlify-badge] ][netlify-link]
-[![Vercel][vercel-badge] ][vercel-link]
-
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com) -->
-
-Projects
+<!-- Projects
 --------
 
 <details>
@@ -189,7 +84,7 @@ Projects
   <summary>Old Projects</summary>
 
   - [jeffersonrj14/Pokemon-short-game](https://github.com/jeffersonrj14/Pokemon-short-game) (May 2022 - Jun 2022): .
-</details>
+</details> -->
 
 <!--
 Support
@@ -209,26 +104,8 @@ Support
 
 
 
-### Will Try to Redesign it later
-
-- [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
-- [Activity Status | Sep 2023 ~ Sep 2023](https://activity.jeffersonfed.xyz)
-- [Social Links | Nov 2023 - Nov 2023](https://links.jeffersonfed.xyz)
--->
-
 
 <!--
-<div align = "center";>
-<a href='https://ko-fi.com/W7W7KXAFP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-	
-<br />
-  <a href = "#top">
-    Back to Top 
-  </a><br />
-
-![<hr />][hr-style]
-</div>
-
 石の上にも三年
 <blockquote>このコースを頑張っています。数ヶ月後には実務経験を得られることを期待しています。</blockquote>
 -->
