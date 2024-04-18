@@ -191,7 +191,7 @@ Projects
   - [jeffersonrj14/Pokemon-short-game](https://github.com/jeffersonrj14/Pokemon-short-game) (May 2022 - Jun 2022): .
 </details>
 
-
+<!--
 Support
 --------
 
@@ -208,7 +208,7 @@ Support
 <br><br>
 
 
-<!--
+
 ### Will Try to Redesign it later
 
 - [Personal Landing Page  | Nov 2023 ~ Nov 2023](https://jeffersonfed.xyz)
