@@ -29,7 +29,7 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 - 🚀 I’m currently working on  **[Portfolio](https://jeffersonrj.com)**
 - 🌱 I’m currently learning **Next.Js**
 
-> Any advice is welcome, so I can also learn from other developers, etc. -->
+> Any advice is welcome, so I can also learn from other developers, etc.
 
 ## 🛠️ Skills
 
