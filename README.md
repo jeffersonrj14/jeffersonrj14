@@ -33,11 +33,15 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 
 ## 🛠️ Skills
 
-**Frontend Development:** `JavaScript` `TypeScript` `React` `Next.js` `Tailwind`
+**Programming:** `JavaScript` `TypeScript`
 
-**Backend Development:** `-`
+**Framework/Library:** `React.js` `Next.js`
+
+**Utils:** `Tailwind`
 
 **Version Control:** `Git` `GitHub`
+
+**CI/CD:** `Github Actions`
 
 **Deployment/Hosting** `Vercel` `Github Pages`
 
@@ -54,7 +58,7 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 
 ## 📫 Contact
 
- For a quick response, DM me on [Discord](https://discordapp.com/users/606481557615542273). 
+ You can DM me on [Discord](https://discordapp.com/users/606481557615542273) or [Email](mailto:jefferson@jeffersonrj.com) me.
 
 ![<hr />][hr-style]
 
