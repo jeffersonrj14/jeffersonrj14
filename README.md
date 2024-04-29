@@ -30,6 +30,20 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 - 🌱 I’m currently learning **Next.Js**
 
 > Any advice is welcome, so I can also learn from other developers, etc.
+<br>
+
+<details>
+  <summary>Coding Stats</summary>
+
+  ![langs](https://wakatime.com/share/@jeffersonrj14/41a8b2f4-07b1-4b4b-8652-6fefeebf1db3.svg)
+</details>
+
+<details>
+  <summary>Coding Activity</summary>
+
+  ![activity](https://wakatime.com/share/@jeffersonrj14/45e2612e-2a94-44a8-a67f-b8496b1e530f.svg)
+</details>
+
 
 ## 🛠️ Skills
 
@@ -46,6 +60,8 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 **Deployment/Hosting** `Vercel` `Github Pages`
 
 **Others:** `Java (Minecraft Modding)` `LaTeX` 
+
+
 
 ## ✨ Fun Facts
 - I'm a night owl Person
