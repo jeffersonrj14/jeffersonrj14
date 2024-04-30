@@ -59,7 +59,7 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 
 **Deployment/Hosting** `Vercel` `Github Pages`
 
-**Others:** `Java (Minecraft Modding)` `LaTeX` 
+**Others:** `LaTeX` 
 
 
 
