@@ -35,13 +35,13 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 <details>
   <summary>Coding Stats</summary>
 
-  ![langs](https://wakatime.com/share/@jeffersonrj14/41a8b2f4-07b1-4b4b-8652-6fefeebf1db3.svg)
+  ![langs](https://wakatime.com/share/@jeffersonrj14/136eb683-c873-4692-abe8-b3a1d880659b.svg)
 </details>
 
 <details>
   <summary>Coding Activity</summary>
 
-  ![activity](https://wakatime.com/share/@jeffersonrj14/45e2612e-2a94-44a8-a67f-b8496b1e530f.svg)
+  ![activity](https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg)
 </details>
 
 
