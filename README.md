@@ -70,7 +70,6 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
     - [告白 （双葉文庫）by 	湊 かなえ （著）](https://honto.jp/netstore/pd-book_03247858.html)
     - [あの夏が飽和する。 by 	カンザキイオリ](https://honto.jp/ebook/pd_30499106.html)
     - [容疑者Ｘの献身 （文春文庫 ガリレオ）by 	東野 圭吾 （著）](https://honto.jp/netstore/pd-book_03022366.html)
-- I edit clips of Hololive Japan talents by adding English subtitles to the videos.
 
 ## 📫 Contact
 
