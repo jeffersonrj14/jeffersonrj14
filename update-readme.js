@@ -139,7 +139,7 @@ I'm 22 year old Self Taught Developer based in ${userData.location || 'Not speci
  You can DM me on [Discord](https://discordapp.com/users/606481557615542273) or [Email](mailto:jefferson@jeffersonrj.com) me.
 `;
 
-    fs.writeFileSync('../README.md', markdownContent);
+    fs.writeFileSync('README.md', markdownContent);
 
     console.log('README updated successfully');
   } catch (error) {
