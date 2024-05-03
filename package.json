@@ -1,8 +1,14 @@
 {
   "name": "jeffersonfed",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
   "repository": "https://github.com/jeffersonfed/jeffersonfed.git",
   "author": "Jeffersonfed",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "node-fetch": "^3.3.2"
+  }
 }
