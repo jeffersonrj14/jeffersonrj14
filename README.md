@@ -3,10 +3,10 @@
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 <a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
 
-### Hi 👋, My name is RJ Jefferson
+<h3>Hi 👋, My name is RJ Jefferson</h3>
 
 > 
-    Based in Indonesia and it's supposed to be 32.2°C (90°F) 🌤 partly sunny today. Have a great Friday!
+    Based in Indonesia and it's supposed to be 32.2°C (90°F) 🌦 thunderstorm today. Have a great Friday!
 
 I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion for web development.
 
