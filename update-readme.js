@@ -84,7 +84,7 @@ async function fetchGitHubData() {
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 <a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
 
-### Hi 👋, My name is ${userData.name || username}
+<h3>Hi 👋, My name is ${userData.name || username}</h3>
 
 > 
     Based in Indonesia and it's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) ${weatherData.weatherEmoji} ${weatherData.weatherText} today. Have a great ${new Date().toLocaleDateString('en-US', { weekday: 'long' })}!
