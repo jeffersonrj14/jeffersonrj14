@@ -21,7 +21,7 @@ jobs:
       - name: Generate readme
         env:
           WEATHER_API_TOKEN: ${{ secrets.WEATHER_API_TOKEN }}
-        run: node update-readme.js
+        run: node ./src/update-readme.js
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
