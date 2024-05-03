@@ -1,12 +1,12 @@
 {
-  "name": "jeffersonfed",
+  "name": "github-readme",
   "version": "1.0.0",
   "scripts": {
     "start": "node update-readme.js"
   },
-  "repository": "https://github.com/jeffersonfed/jeffersonfed.git",
-  "author": "Jeffersonfed",
-  "license": "Unlicense",
+  "repository": "https://github.com/jeffersonrj14/jeffersonrj14.git",
+  "author": "Ritch Johan Jefferson",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.6.8",
     "node-fetch": "^3.3.2"
