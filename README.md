@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 <a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
@@ -58,5 +57,3 @@ I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion
 ## 📫 Contact
 
  You can DM me on [Discord](https://discordapp.com/users/606481557615542273) or [Email](mailto:jefferson@jeffersonrj.com) me.
-=======
->>>>>>> b29a99eaf18dec1c5f4550912810430cc4c72c7f
