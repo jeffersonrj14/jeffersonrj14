@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 
-const WEATHER_API_TOKEN = '827ORgBb114d68IzFjtH08oLte5zahyB';
+const WEATHER_API_TOKEN = 'process.env.WEATHER_API_TOKEN';
 const WEATHER_DOMAIN = 'http://dataservice.accuweather.com';
 const WEATHER_EMOJIS = {
   1: '☀️',
