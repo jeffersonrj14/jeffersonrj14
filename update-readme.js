@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 
-const WEATHER_API_TOKEN = 'process.env.WEATHER_API_TOKEN';
+const WEATHER_API_TOKEN = '827ORgBb114d68IzFjtH08oLte5zahyB';
 const WEATHER_DOMAIN = 'http://dataservice.accuweather.com';
 const WEATHER_EMOJIS = {
   1: '☀️',
@@ -45,16 +45,13 @@ async function fetchWeatherData() {
     const temperatureF = weatherData.Temperature.Imperial.Value;
     const weatherText = weatherData.WeatherText.toLowerCase();
     const weatherEmoji = WEATHER_EMOJIS[weatherData.WeatherIcon] || '';
-    const todayDayResponse = await axios.get(`https://www.timeapi.io/api/Time/current/zone?timeZone=Asia:Jakarta`);
-    const todayDay = todayDayResponse.data.dayOfWeek;
 
-    return { temperature, temperatureF, weatherText, weatherEmoji, todayDay };
+    return { temperature, temperatureF, weatherText, weatherEmoji };
   } catch (error) {
     console.error('Error fetching weather data:', error);
     return null;
   }
 }
-
 
 
 async function fetchGitHubData() {
@@ -73,6 +70,9 @@ async function fetchGitHubData() {
 
     //weather
     const weatherData = await fetchWeatherData();
+    const today = new Date();
+    const options = { weekday: 'long', timeZone: 'Asia/Jakarta' };
+    const dayOfWeek = today.toLocaleDateString('en-US', options);
 
     //Status
     const company = userData.company;
@@ -90,8 +90,7 @@ async function fetchGitHubData() {
 <h3>Hi 👋, My name is ${userData.name || username}</h3>
 
 > 
-    Based in Indonesia and it's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
-    Have a great ${weatherData.todayDay}!
+    Based in Indonesia and it's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. Have a great ${dayOfWeek}!
 
 I'm 22 year old Self Taught Developer based in ${userData.location || 'Not specified'} and have a deep passion for web development.
 
