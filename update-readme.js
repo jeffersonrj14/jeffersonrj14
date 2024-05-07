@@ -90,7 +90,8 @@ async function fetchGitHubData() {
 <h3>Hi 👋, My name is ${userData.name || username}</h3>
 
 > 
-    Based in Indonesia and it's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. Have a great ${dayOfWeek}!
+    Based in Indonesia and it's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
+    Have a great ${dayOfWeek}!
 
 I'm 22 year old Self Taught Developer based in ${userData.location || 'Not specified'} and have a deep passion for web development.
 
