@@ -6,7 +6,7 @@
 <h3>Hi 👋, My name is RJ Jefferson</h3>
 
 > 
-    Based in Indonesia and it's supposed to be 30°C (86°F) and 🌤 partly sunny today. 
+    Based in Indonesia and it's supposed to be 32.8°C (91°F) and 🌤 partly sunny today. 
 
 >   
     Have a great Wednesday!
