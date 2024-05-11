@@ -6,10 +6,10 @@
 <h3>Hi 👋, My name is RJ Jefferson</h3>
 
 > 
-    Based in Indonesia and it's supposed to be 35°C (95°F) and 🌤 partly sunny today. 
+    Based in Indonesia and it's supposed to be 27.2°C (81°F) and 🌫 light fog today. 
 
 >   
-    Have a great Saturday!
+    Have a great Sunday!
 
 I'm 22 year old Self Taught Developer based in Indonesia and have a deep passion for web development.
 
