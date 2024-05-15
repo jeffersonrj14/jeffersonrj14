@@ -85,21 +85,18 @@ async function fetchGitHubData() {
     const markdownContent = `
 
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
-<a href="https://wakatime.com/@jeffersonrj14"><img src="https://wakatime.com/badge/user/012554dc-b24b-4b6b-90bf-92214455e325.svg?&color=1b7565&style=flat" alt="Total time coded since Jan 11 2023" /></a>
 
 <h3>Hi 👋, My name is ${userData.name || username}</h3>
 
 > 
-    Based in Indonesia and it's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
+    Self Taught Developer based in ${userData.location || 'Not specified'}
+    It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
 
 >   
     Have a great ${dayOfWeek}!
 
-I'm 22 year old Self Taught Developer based in ${userData.location || 'Not specified'} and have a deep passion for web development.
-
-- Check out my **[Portfolio](${repoSite.html_url})** to learn more about me
-- 🚀 I’m currently working on  **[Portfolio](https://${userData.blog || ''})**
-- 🌱 I’m currently ${status} 
+- 🚀 I’m currently working on **[Portfolio](https://${userData.blog || ''})**. (**[Source Code](${repoSite.html_url})**)
+- 🌱 I’m currently ${status}
 
 > Any advice is welcome, so I can also learn from other developers, etc.
 <br>
@@ -135,14 +132,18 @@ I'm 22 year old Self Taught Developer based in ${userData.location || 'Not speci
 ## ✨ Fun Facts
 - I'm a night owl Person
 - Love reading Japanese novels.
-  - Novels that I have read: 
-    - [告白 （双葉文庫）by 	湊 かなえ （著）](https://honto.jp/netstore/pd-book_03247858.html)
-    - [あの夏が飽和する。 by 	カンザキイオリ](https://honto.jp/ebook/pd_30499106.html)
-    - [容疑者Ｘの献身 （文春文庫 ガリレオ）by 	東野 圭吾 （著）](https://honto.jp/netstore/pd-book_03022366.html)
+- <details>
+  <summary>Novels that I have read so far: </summary>
+
+  - [告白 （双葉文庫）by 	湊 かなえ （著）](https://honto.jp/netstore/pd-book_03247858.html)
+  - [あの夏が飽和する。 by 	カンザキイオリ](https://honto.jp/ebook/pd_30499106.html)
+  - [容疑者Ｘの献身 （文春文庫 ガリレオ）by 	東野 圭吾 （著）](https://honto.jp/netstore/pd-book_03022366.html)
+</details>
 
 ## 📫 Contact
 
  You can DM me on [Discord](https://discordapp.com/users/606481557615542273) or [Email](mailto:jefferson@jeffersonrj.com) me.
+
 `;
 
     fs.writeFileSync('README.md', markdownContent);
