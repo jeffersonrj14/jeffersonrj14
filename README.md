@@ -6,10 +6,10 @@
 
 > 
     Self Taught Developer based in Indonesia
-    It's supposed to be 32.8°C (91°F) and 🌤 partly sunny today. 
+    It's supposed to be 27.2°C (81°F) and  partly cloudy today. 
 
 >   
-    Have a great Friday!
+    Have a great Saturday!
 
 - 🚀 I’m currently working on **[Portfolio](https://jeffersonrj.com)**. (**[Source Code](https://github.com/jeffersonrj14/jeffersonrj.com)**)
 - 🌱 I’m currently learning **Next.Js**
