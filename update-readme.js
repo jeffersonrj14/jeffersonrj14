@@ -115,7 +115,9 @@ async function fetchGitHubData() {
 
 ## 🛠️ Skills
 
-**Programming:** <code>JavaScript</code> <code>TypeScript</code>
+**Web Technologies:** <code>HTML</code> <code>CSS</code>
+
+**Programming:** <code>JavaScript</code>
 
 **Framework/Library:** <code>React.js</code> <code>Next.js</code>
 
@@ -128,6 +130,15 @@ async function fetchGitHubData() {
 **Deployment/Hosting** <code>Vercel</code> <code>GitHub Pages</code>
 
 **Others:** <code>LaTeX</code>
+
+
+## Future Goal
+
+- [ ] Learn backend development.
+  - [ ] Node.js
+  - [ ] Express
+  - [ ] Databases such as PostGreSQL, MongoDB, etc
+- [ ] Contribute to open-source projects.
 
 ## ✨ Fun Facts
 - I'm a night owl Person
