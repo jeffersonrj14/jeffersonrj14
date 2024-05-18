@@ -6,7 +6,7 @@
 
 > 
     Self Taught Developer based in Indonesia
-    It's supposed to be 27.2°C (81°F) and  partly cloudy today. 
+    It's supposed to be 27.2°C (81°F) and 🌤 partly sunny today. 
 
 >   
     Have a great Saturday!
@@ -50,6 +50,7 @@
 
 ## Future Goal
 
+- [ ] Learn TypeScript
 - [ ] Learn backend development.
   - [ ] Node.js
   - [ ] Express
