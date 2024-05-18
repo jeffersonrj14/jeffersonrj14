@@ -134,6 +134,7 @@ async function fetchGitHubData() {
 
 ## Future Goal
 
+- [ ] Learn TypeScript
 - [ ] Learn backend development.
   - [ ] Node.js
   - [ ] Express
