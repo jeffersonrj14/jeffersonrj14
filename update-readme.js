@@ -76,7 +76,7 @@ async function fetchGitHubData() {
 
     //Status
     const company = userData.company;
-    let status = 'learning **Next.Js**';
+    let status = 'learning **TypeScript**';
     if (company) {
       status = `working at ${company}`;
     }
@@ -134,7 +134,6 @@ async function fetchGitHubData() {
 
 ## Future Goal
 
-- [ ] Learn TypeScript
 - [ ] Learn backend development.
   - [ ] Node.js
   - [ ] Express
