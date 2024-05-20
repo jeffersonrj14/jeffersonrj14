@@ -6,7 +6,7 @@
 
 > 
     Self Taught Developer based in Indonesia
-    It's supposed to be 27.8°C (82°F) and  partly cloudy today. 
+    It's supposed to be 33.9°C (93°F) and 🌤 partly sunny today. 
 
 >   
     Have a great Monday!
