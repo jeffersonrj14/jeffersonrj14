@@ -6,7 +6,7 @@
 
 > 
     Self Taught Developer based in Indonesia
-    It's supposed to be 27.8°C (82°F) and  partly cloudy today. 
+    It's supposed to be 34°C (93°F) and ☁️ cloudy today. 
 
 >   
     Have a great Tuesday!
