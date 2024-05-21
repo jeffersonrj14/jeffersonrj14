@@ -97,7 +97,7 @@ async function fetchGitHubData() {
 
 - 🚀 I’m currently working on **[Portfolio](https://${userData.blog || ''})**. (**[Source Code](${repoSite.html_url})**)
 - 🌱 I’m currently ${status}
-- I use <code>Python</code> and <code>LaTeX</code> only to take notes.
+- I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.
 
 > Any advice is welcome, so I can also learn from other developers, etc.
 <br>
