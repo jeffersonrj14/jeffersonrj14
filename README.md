@@ -13,7 +13,7 @@
 
 - 🚀 I’m currently working on **[Portfolio](https://jeffersonrj.com)**. (**[Source Code](https://github.com/jeffersonrj14/jeffersonrj.com)**)
 - 🌱 I’m currently learning **TypeScript**
-- I use <code>Python</code> and <code>LaTeX</code> only to take notes.
+- I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.
 
 > Any advice is welcome, so I can also learn from other developers, etc.
 <br>
