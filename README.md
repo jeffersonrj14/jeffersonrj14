@@ -55,18 +55,18 @@
 
 ## Next Goal
 
+- [ ] Learn HTTP/JSON/AJAX + Asynchronous Javascript
 - [ ] Learning Data Structures and Algorithms (DSA)
 - [ ] Problem Solving (LeetCode, etc)
-- [ ] Setting up raspberry pi
 
 ## Future Goal
 
-- [ ] Learn HTTP/JSON/AJAX + Asynchronous Javascript
 - [ ] Learn backend development.
   - [ ] Node.js
   - [ ] Express
   - [ ] Databases such as PostGreSQL, MongoDB, etc
 - [ ] Contribute to open-source projects.
+- [ ] Setting up raspberry pi
 
 ## ✨ Fun Facts
 - I'm a night owl Person
