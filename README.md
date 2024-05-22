@@ -6,7 +6,7 @@
 
 > 
     Self Taught Developer based in Indonesia
-    It's supposed to be 27.8°C (82°F) and  partly cloudy today. 
+    It's supposed to be 32.8°C (91°F) and 🌤 partly sunny today. 
 
 >   
     Have a great Wednesday!
@@ -19,12 +19,6 @@
 <br>
 
 <details>
-  <summary>Coding Stats</summary>
-
-  ![langs](https://wakatime.com/share/@jeffersonrj14/136eb683-c873-4692-abe8-b3a1d880659b.svg)
-</details>
-
-<details>
   <summary>Coding Activity</summary>
 
   ![activity](https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg)
@@ -32,11 +26,14 @@
 
 ## 🛠️ Skills
 
+<details>
+  <summary>Skills</summary>
+  
 **Web Technologies:** <code>HTML</code> <code>CSS</code>
 
 **Programming:** <code>JavaScript</code>
 
-**Framework/Library:** <code>React.js</code> <code>Next.js</code>
+**Framework/Library:** <code>React.js</code>
 
 **Utils:** <code>Tailwind</code>
 
@@ -48,9 +45,23 @@
 
 **Others:** <code>LaTeX</code>
 
+</details>
+
+## Currently Learning
+
+- Review Advanced JavaScript
+- React Hooks
+- Learn TypeScript
+
+## Next Goal
+
+- [ ] Learning Data Structures and Algorithms (DSA)
+- [ ] Problem Solving (LeetCode, etc)
+- [ ] Setting up raspberry pi
 
 ## Future Goal
 
+- [ ] Learn HTTP/JSON/AJAX + Asynchronous Javascript
 - [ ] Learn backend development.
   - [ ] Node.js
   - [ ] Express
@@ -59,9 +70,8 @@
 
 ## ✨ Fun Facts
 - I'm a night owl Person
-- Love reading Japanese novels.
 - <details>
-  <summary>Novels that I have read so far: </summary>
+  <summary>Love reading Japanese novels. Novels that I have read so far: </summary>
 
   - [告白 （双葉文庫）by 	湊 かなえ （著）](https://honto.jp/netstore/pd-book_03247858.html)
   - [あの夏が飽和する。 by 	カンザキイオリ](https://honto.jp/ebook/pd_30499106.html)
