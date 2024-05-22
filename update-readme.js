@@ -96,7 +96,7 @@ async function fetchGitHubData() {
     Have a great ${dayOfWeek}!
 
 - 🚀 I’m currently working on **[Portfolio](https://${userData.blog || ''})**. (**[Source Code](${repoSite.html_url})**)
-- 🌱 I’m currently ${status}
+- 🌱 I’m [currently learning](#currently-learning)
 - I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.
 
 > Any advice is welcome, so I can also learn from other developers, etc.
@@ -111,7 +111,7 @@ async function fetchGitHubData() {
 ## 🛠️ Skills
 
 <details>
-  <summary>Skills</summary>
+  <summary>Current Skills</summary>
   
 **Web Technologies:** <code>HTML</code> <code>CSS</code>
 
@@ -177,3 +177,7 @@ async function fetchGitHubData() {
 }
 
 fetchGitHubData();
+
+
+// - 🌱 I’m currently ${status}
+
