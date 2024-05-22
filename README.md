@@ -12,7 +12,7 @@
     Have a great Wednesday!
 
 - 🚀 I’m currently working on **[Portfolio](https://jeffersonrj.com)**. (**[Source Code](https://github.com/jeffersonrj14/jeffersonrj.com)**)
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m [currently learning](#currently-learning)
 - I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.
 
 > Any advice is welcome, so I can also learn from other developers, etc.
@@ -27,7 +27,7 @@
 ## 🛠️ Skills
 
 <details>
-  <summary>Skills</summary>
+  <summary>Current Skills</summary>
   
 **Web Technologies:** <code>HTML</code> <code>CSS</code>
 
