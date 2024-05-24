@@ -55,113 +55,103 @@ async function fetchWeatherData() {
 
 
 async function fetchGitHubData() {
+  const GITHUB_USERNAME = 'jeffersonrj14';
+
   try {
-    const userDataResponse = await fetch(`https://api.github.com/users/${GITHUB_USERNAME}`);
-    const userData = await userDataResponse.json();
+    const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`);
+    const userData = userDataResponse.data;
 
-    // Fetching repositories data from GitHub API
-    const reposDataResponse = await fetch(`https://api.github.com/users/${GITHUB_USERNAME}/repos`);
-    const reposData = await reposDataResponse.json();
-
-    // ===================================================
-    // Readme Badge: Profile Visits
     const profile = `<img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />`;
 
-    // greetings
     const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
-    const greetingsText = `${randomGreeting}, My name is ${userData.name || userData.username}`;
+    const greetingsText = `${randomGreeting}, My name is ${userData.name || GITHUB_USERNAME}`;
 
-    //role
     const myRole = ["Self-Taught Developer"];
 
-    // Age Calculator
     function calculateAge(birthday) {
-        const today = new Date();
-        const birthDate = new Date(birthday);
-        let age = today.getFullYear() - birthDate.getFullYear();
-        const monthDiff = today.getMonth() - birthDate.getMonth();
-        if (monthDiff < 0 || 
-            (monthDiff === 0 && 
-                today.getDate() < birthDate.getDate())) {
-                age--;
-        }
-        return age;
-    };
+      const today = new Date();
+      const birthDate = new Date(birthday);
+      let age = today.getFullYear() - birthDate.getFullYear();
+      const monthDiff = today.getMonth() - birthDate.getMonth();
+      if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDate.getDate())) {
+        age--;
+      }
+      return age;
+    }
+
     const birthdate = '2001-03-14';
     const age = calculateAge(birthdate);
 
-    // Current Project
     const portfolioRepo = [
-        {
-            description: "My Personal Website",
-            title:"Portfolio",
-            githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
-        }
+      {
+        description: "My Personal Website",
+        title: "Portfolio",
+        githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
+      }
     ];
 
-    const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`)
-    
-        // Company
-        const company = userData.company;
-        let status = '[learning](#currently-learning)';
-        if (company) {
-        status = `working at ${company}`;
-        }
+    //Currently
+    const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
 
+    const company = userData.company;
+    let status = '[learning](#currently-learning)';
+    if (company) {
+      status = `working at ${company}`;
+    }
+    
     const currentlyDoing = [
-            `🚀 I’m currently working on **${workingOn}**`,
-            `I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.`
-    ]
-
-    // Coding Activity
-    const coding = [
-        {
-            description: "My Coding Activity",
-            title: "Activity",
-            githubLink: "https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg"
-        }
+      `🚀 I’m currently working on **${workingOn}**`,
+      `I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.`
     ];
-    const codingActivity = coding.map(repo => `[${repo.title}](${repo.githubLink})`)
 
-    // Skills
+    // Coding
+    const coding = [
+      {
+        description: "My Coding Activity",
+        title: "Activity",
+        githubLink: "https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg"
+      }
+    ];
+    const codingActivity = coding.map(repo => `[${repo.title}](${repo.githubLink})`);
+
+    // Tech
     const techStack = {
-        WebTechnologies: ['HTML', 'CSS'],
-        Programming: ['JavaScript'],
-        Frameworks: ['React.js'],
-        Utils: ['Tailwind'],
-        VersionControl: ['Git', 'GitHub'],
-        CICD: ['GitHub Actions'],
-        Deployment: ['Vercel', 'GitHub Pages'],
-        Others: ['LaTeX']
+      WebTechnologies: ['HTML', 'CSS'],
+      Programming: ['JavaScript'],
+      Frameworks: ['React.js'],
+      Utils: ['Tailwind'],
+      VersionControl: ['Git', 'GitHub'],
+      CICD: ['GitHub Actions'],
+      Deployment: ['Vercel', 'GitHub Pages'],
+      Others: ['LaTeX']
     };
-        // Skill Format
-        const skills = techStack;
-        const formattedSkills = Object.entries(skills)
-            .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
-            .join('\n\n');
-    
-    // Own Goal
-      // Currently Learning
+
+    const formattedSkills = Object.entries(techStack)
+      .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
+      .join('\n\n');
+
+    // Personal Goal
       const currentlyLearning = [
         'Review Advanced JavaScript',
         'HTTP/JSON/AJAX + Asynchronous Javascript',
         'React Hooks',
         'TypeScript'
-      ]
-      // Next Goal
+      ];
+
       const nextGoal = [
         'Learning Data Structures and Algorithms (DSA)',
         'Problem Solving (LeetCode, etc)',
         'Learn backend development'
-      ]
-      // Future Goal
+      ];
+
       const futureGoal = [
         'Learn Databases',
         'Contribute to open-source projects',
         'Setting up raspberry pi'
-      ]
+      ];
+
 
     // Fun Facts
     const funFacts = [
@@ -169,22 +159,20 @@ async function fetchGitHubData() {
       "Love reading Japanese novels."
     ];
 
-    // contact 
+    // Contact
     const contact = [
       {
         title: 'You can DM me on',
         discord: '[Discord](https://discordapp.com/users/606481557615542273)',
         email: '[Email](mailto:jefferson@jeffersonrj.com)'
       },
-    ]
+    ];
 
-    //weather
     const weatherData = await fetchWeatherData();
     const today = new Date();
     const options = { weekday: 'long', timeZone: 'Asia/Jakarta' };
     const dayOfWeek = today.toLocaleDateString('en-US', options);
 
-    // Markdown Format
     const markdownContent = `
 
 ${profile}
@@ -243,7 +231,6 @@ ${funFacts.map(item => `- ${item}`).join('\n')}
 ## 📫 Contact
 
 ${contact[0].title} ${contact[0].discord} or via ${contact[0].email}
-
     `;
 
     fs.writeFileSync('README.md', markdownContent);
