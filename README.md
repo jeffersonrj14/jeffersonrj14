@@ -45,7 +45,7 @@
 
 </details>
 
-## My Learning Progress
+## 📚 My Learning Progress
 
 <details>
   <summary>Learning Goal</summary>
