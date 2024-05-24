@@ -50,20 +50,20 @@
 <details>
   <summary>Learning Goal</summary>
 
-## Currently Learning
+### Currently Learning
 
 - Review Advanced JavaScript
 - HTTP/JSON/AJAX + Asynchronous Javascript
 - React Hooks
 - TypeScript
 
-## Next Goal
+### Next Goal
 
 - [ ] Learning Data Structures and Algorithms (DSA)
 - [ ] Problem Solving (LeetCode, etc)
 - [ ] Learn backend development
 
-## Future Goal
+### Future Goal
 
 - [ ] Learn Databases
 - [ ] Contribute to open-source projects
