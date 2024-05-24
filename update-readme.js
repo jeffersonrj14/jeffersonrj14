@@ -56,10 +56,8 @@ async function fetchWeatherData() {
 
 async function fetchGitHubData() {
   try {
-    const personalAPI = 'https://githubreadme.jeffersonrj.com/api/details';
-
     // Fetch data from personalAPI
-    const response = await axios.get(personalAPI);
+    const response = await axios.get(process.env.PERSONAL_API_URL);
     const userData = response.data;
 
     // Weather data
