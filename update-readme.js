@@ -205,7 +205,7 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 
 </details>
 
-## My Learning Progress
+## 📚 My Learning Progress
 
 <details>
   <summary>Learning Goal</summary>
