@@ -114,7 +114,7 @@ async function fetchGitHubData() {
         githubLink: "https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg"
       }
     ];
-    const codingActivity = coding.map(repo => `[${repo.title}](${repo.githubLink})`);
+    const codingActivity = coding.map(repo => `[!${repo.title}](${repo.githubLink})`);
 
     // Tech
     const techStack = {
