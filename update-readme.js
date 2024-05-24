@@ -210,15 +210,15 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 <details>
   <summary>Learning Goal</summary>
 
-## Currently Learning
+### Currently Learning
 
 ${currentlyLearning.map(item => `- ${item}`).join('\n')}
 
-## Next Goal
+### Next Goal
 
 ${nextGoal.map(item => `- [ ] ${item}`).join('\n')}
 
-## Future Goal
+### Future Goal
 
 ${futureGoal.map(item => `- [ ] ${item}`).join('\n')}
 
