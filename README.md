@@ -19,7 +19,7 @@
 <details>
   <summary>Coding Activity</summary>
 
-  [Activity](https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg)
+  [!Activity](https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg)
 </details>
 
 ## 🛠️ Skills
