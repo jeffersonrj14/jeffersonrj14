@@ -56,117 +56,34 @@ async function fetchWeatherData() {
 
 async function fetchGitHubData() {
   try {
-    const username = 'jeffersonrj14';
-    const repoUser = 'jeffersonrj14';
-    const repoName = 'jeffersonrj.com';
+    const personalAPI = 'https://githubreadme.jeffersonrj.com/api/details';
 
-    // About me
-    const userResponse = await axios.get(`https://api.github.com/users/${username}`);
-    const userData = userResponse.data;
+    // Fetch data from personalAPI
+    const response = await axios.get(personalAPI);
+    const userData = response.data;
 
-    //Portfolio
-    const repoPortfolio = await axios.get(`https://api.github.com/repos/${repoUser}/${repoName}`);
-    const repoSite = repoPortfolio.data;
-
-    //weather
+    // Weather data
     const weatherData = await fetchWeatherData();
     const today = new Date();
     const options = { weekday: 'long', timeZone: 'Asia/Jakarta' };
     const dayOfWeek = today.toLocaleDateString('en-US', options);
 
-    //Status
-    const company = userData.company;
-    let status = 'learning **TypeScript**';
-    if (company) {
-      status = `working at ${company}`;
-    }
-
     // Markdown Format
     const markdownContent = `
 
-<img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
+${userData.profileLink}
 
-<h3>Hi 👋, My name is ${userData.name || username}</h3>
+<h3>${userData.greetings}</h3>
 
 > 
-    Self Taught Developer based in ${userData.location || 'Not specified'}
+    ${userData.role} based in ${userData.location || 'Not specified'}
     It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
 
 >   
     Have a great ${dayOfWeek}!
 
-- 🚀 I’m currently working on **[Portfolio](https://${userData.blog || ''})**. (**[Source Code](${repoSite.html_url})**)
-- 🌱 I’m [currently learning](#currently-learning)
-- I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.
-
-> Any advice is welcome, so I can also learn from other developers, etc.
-<br>
-
-<details>
-  <summary>Coding Activity</summary>
-
-  ![activity](https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg)
-</details>
-
-## 🛠️ Skills
-
-<details>
-  <summary>Current Skills</summary>
-  
-**Web Technologies:** <code>HTML</code> <code>CSS</code>
-
-**Programming:** <code>JavaScript</code>
-
-**Framework/Library:** <code>React.js</code>
-
-**Utils:** <code>Tailwind</code>
-
-**Version Control:** <code>Git</code> <code>GitHub</code>
-
-**CI/CD:** <code>GitHub Actions</code>
-
-**Deployment/Hosting** <code>Vercel</code> <code>GitHub Pages</code>
-
-**Others:** <code>LaTeX</code>
-
-</details>
-
-## Currently Learning
-
-- Review Advanced JavaScript
-- React Hooks
-- Learn TypeScript
-
-## Next Goal
-
-- [ ] Learning Data Structures and Algorithms (DSA)
-- [ ] Problem Solving (LeetCode, etc)
-- [ ] Setting up raspberry pi
-
-## Future Goal
-
-- [ ] Learn HTTP/JSON/AJAX + Asynchronous Javascript
-- [ ] Learn backend development.
-  - [ ] Node.js
-  - [ ] Express
-  - [ ] Databases such as PostGreSQL, MongoDB, etc
-- [ ] Contribute to open-source projects.
-
-## ✨ Fun Facts
-- I'm a night owl Person
-- <details>
-  <summary>Love reading Japanese novels. Novels that I have read so far: </summary>
-
-  - [告白 （双葉文庫）by 	湊 かなえ （著）](https://honto.jp/netstore/pd-book_03247858.html)
-  - [あの夏が飽和する。 by 	カンザキイオリ](https://honto.jp/ebook/pd_30499106.html)
-  - [容疑者Ｘの献身 （文春文庫 ガリレオ）by 	東野 圭吾 （著）](https://honto.jp/netstore/pd-book_03022366.html)
-</details>
-
-## 📫 Contact
-
- You can DM me on [Discord](https://discordapp.com/users/606481557615542273) or [Email](mailto:jefferson@jeffersonrj.com) me.
-
-`;
+${userData.readme}
+    `;
 
     fs.writeFileSync('README.md', markdownContent);
 
@@ -177,7 +94,3 @@ async function fetchGitHubData() {
 }
 
 fetchGitHubData();
-
-
-// - 🌱 I’m currently ${status}
-
