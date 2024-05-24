@@ -21,7 +21,6 @@ jobs:
       - name: Generate readme
         env:
           WEATHER_API_TOKEN: ${{ secrets.WEATHER_API_TOKEN }}
-          PERSONAL_API_URL: 'https://githubreadme.jeffersonrj.com/api/details'
         run: node update-readme.js
 
       - name: Commit changes

@@ -56,11 +56,129 @@ async function fetchWeatherData() {
 
 async function fetchGitHubData() {
   try {
-    // Fetch data from personalAPI
-    const response = await axios.get(process.env.PERSONAL_API_URL);
-    const userData = response.data;
+    const userDataResponse = await fetch(`https://api.github.com/users/${GITHUB_USERNAME}`);
+    const userData = await userDataResponse.json();
 
-    // Weather data
+    // Fetching repositories data from GitHub API
+    const reposDataResponse = await fetch(`https://api.github.com/users/${GITHUB_USERNAME}/repos`);
+    const reposData = await reposDataResponse.json();
+
+    // ===================================================
+    // Readme Badge: Profile Visits
+    const profile = `<img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />`;
+
+    // greetings
+    const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
+    const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
+
+    const greetingsText = `${randomGreeting}, My name is ${userData.name || userData.username}`;
+
+    //role
+    const myRole = ["Self-Taught Developer"];
+
+    // Age Calculator
+    function calculateAge(birthday) {
+        const today = new Date();
+        const birthDate = new Date(birthday);
+        let age = today.getFullYear() - birthDate.getFullYear();
+        const monthDiff = today.getMonth() - birthDate.getMonth();
+        if (monthDiff < 0 || 
+            (monthDiff === 0 && 
+                today.getDate() < birthDate.getDate())) {
+                age--;
+        }
+        return age;
+    };
+    const birthdate = '2001-03-14';
+    const age = calculateAge(birthdate);
+
+    // Current Project
+    const portfolioRepo = [
+        {
+            description: "My Personal Website",
+            title:"Portfolio",
+            githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
+        }
+    ];
+
+    const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`)
+    
+        // Company
+        const company = userData.company;
+        let status = '[learning](#currently-learning)';
+        if (company) {
+        status = `working at ${company}`;
+        }
+
+    const currentlyDoing = [
+            `🚀 I’m currently working on **${workingOn}**`,
+            `I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.`
+    ]
+
+    // Coding Activity
+    const coding = [
+        {
+            description: "My Coding Activity",
+            title: "Activity",
+            githubLink: "https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg"
+        }
+    ];
+    const codingActivity = coding.map(repo => `[${repo.title}](${repo.githubLink})`)
+
+    // Skills
+    const techStack = {
+        WebTechnologies: ['HTML', 'CSS'],
+        Programming: ['JavaScript'],
+        Frameworks: ['React.js'],
+        Utils: ['Tailwind'],
+        VersionControl: ['Git', 'GitHub'],
+        CICD: ['GitHub Actions'],
+        Deployment: ['Vercel', 'GitHub Pages'],
+        Others: ['LaTeX']
+    };
+        // Skill Format
+        const skills = techStack;
+        const formattedSkills = Object.entries(skills)
+            .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
+            .join('\n\n');
+    
+    // Own Goal
+      // Currently Learning
+      const currentlyLearning = [
+        'Review Advanced JavaScript',
+        'HTTP/JSON/AJAX + Asynchronous Javascript',
+        'React Hooks',
+        'TypeScript'
+      ]
+      // Next Goal
+      const nextGoal = [
+        'Learning Data Structures and Algorithms (DSA)',
+        'Problem Solving (LeetCode, etc)',
+        'Learn backend development'
+      ]
+      // Future Goal
+      const futureGoal = [
+        'Learn Databases',
+        'Contribute to open-source projects',
+        'Setting up raspberry pi'
+      ]
+
+    // Fun Facts
+    const funFacts = [
+      "I'm a night owl Person",
+      "Love reading Japanese novels."
+    ];
+
+    // contact 
+    const contact = [
+      {
+        title: 'You can DM me on',
+        discord: '[Discord](https://discordapp.com/users/606481557615542273)',
+        email: '[Email](mailto:jefferson@jeffersonrj.com)'
+      },
+    ]
+
+    //weather
     const weatherData = await fetchWeatherData();
     const today = new Date();
     const options = { weekday: 'long', timeZone: 'Asia/Jakarta' };
@@ -69,18 +187,63 @@ async function fetchGitHubData() {
     // Markdown Format
     const markdownContent = `
 
-${userData.profileLink}
+${profile}
 
-<h3>${userData.greetings}</h3>
+<h3>${greetingsText}</h3>
 
 > 
-    ${userData.role} based in ${userData.location || 'Not specified'}
+    ${myRole} based in ${userData.location || 'Not specified'}
     It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
 
 >   
     Have a great ${dayOfWeek}!
 
-${userData.readme}
+${currentlyDoing.map(item => `- ${item}`).join('\n')}
+
+<br>
+
+<details>
+  <summary>Coding Activity</summary>
+
+  ${codingActivity}
+</details>
+
+## 🛠️ Skills
+
+<details>
+  <summary>Current Skills</summary>
+  
+  ${formattedSkills}
+
+</details>
+
+## My Learning Progress
+
+<details>
+  <summary>Learning Goal</summary>
+
+## Currently Learning
+
+${currentlyLearning.map(item => `- ${item}`).join('\n')}
+
+## Next Goal
+
+${nextGoal.map(item => `- [ ] ${item}`).join('\n')}
+
+## Future Goal
+
+${futureGoal.map(item => `- [ ] ${item}`).join('\n')}
+
+</details>
+
+## ✨ Fun Facts
+
+${funFacts.map(item => `- ${item}`).join('\n')}
+
+## 📫 Contact
+
+${contact[0].title} ${contact[0].discord} or via ${contact[0].email}
+
     `;
 
     fs.writeFileSync('README.md', markdownContent);
