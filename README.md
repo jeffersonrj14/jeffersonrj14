@@ -6,7 +6,7 @@
 
 > 
     Self-Taught Developer based in Indonesia
-    It's supposed to be 26.1°C (79°F) and  thunderstorm today. 
+    It's supposed to be 28.9°C (84°F) and 🌤 partly sunny today. 
 
 >   
     Have a great Saturday!
