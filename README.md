@@ -2,11 +2,11 @@
 
 <img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />
 
-<h3>Hey 👋, My name is RJ Jefferson</h3>
+<h3>Hi 👋, My name is RJ Jefferson</h3>
 
 > 
     Self-Taught Developer based in Indonesia
-    It's supposed to be 26.1°C (79°F) and  partly cloudy today. 
+    It's supposed to be 32.2°C (90°F) and 🌤 partly sunny today. 
 
 >   
     Have a great Sunday!
