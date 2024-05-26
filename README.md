@@ -6,10 +6,10 @@
 
 > 
     Self-Taught Developer based in Indonesia
-    It's supposed to be 32.2°C (90°F) and 🌤 partly sunny today. 
+    It's supposed to be 27.8°C (82°F) and  partly cloudy today. 
 
 >   
-    Have a great Sunday!
+    Have a great Monday!
 
 - 🚀 I’m currently working on **[Portfolio](https://github.com/jeffersonrj14/jeffersonrj.com)**
 - I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.
