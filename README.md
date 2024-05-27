@@ -10,9 +10,7 @@
 
 >   
     Have a great Monday!
-
-- 🚀 I’m currently working on **[Portfolio](https://github.com/jeffersonrj14/jeffersonrj.com)**
-- 🌱 I'm currently learning
+    - 🌱 I'm currently learning
 
 <br>
 
