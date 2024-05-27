@@ -96,14 +96,14 @@ async function fetchGitHubData() {
     const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
 
     const company = userData.company;
-    let status = '[learning](#currently-learning)';
+    let status = 'learning';
     if (company) {
       status = `working at ${company}`;
     }
     
     const currentlyDoing = [
       `🚀 I’m currently working on **${workingOn}**`,
-      `I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.`
+      `🌱 I'm currently ${status}`
     ];
 
     // Coding
@@ -116,53 +116,56 @@ async function fetchGitHubData() {
     ];
     const codingActivity = coding.map(repo => `![${repo.title}](${repo.githubLink})`);
 
+    //==================================================================================
     // Tech
-    const techStack = {
-      WebTechnologies: ['HTML', 'CSS'],
-      Programming: ['JavaScript'],
-      Frameworks: ['React.js'],
-      Utils: ['Tailwind'],
-      VersionControl: ['Git', 'GitHub'],
-      CICD: ['GitHub Actions'],
-      Deployment: ['Vercel', 'GitHub Pages'],
-      Others: ['LaTeX']
-    };
+    // const techStack = {
+    //   WebTechnologies: ['HTML', 'CSS'],
+    //   Programming: ['JavaScript'],
+    //   Frameworks: ['React.js'],
+    //   Utils: ['Tailwind'],
+    //   VersionControl: ['Git', 'GitHub'],
+    //   CICD: ['GitHub Actions'],
+    //   Deployment: ['Vercel', 'GitHub Pages'],
+    //   Others: ['LaTeX']
+    // };
 
-    const formattedSkills = Object.entries(techStack)
-      .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
-      .join('\n\n');
+    // const formattedSkills = Object.entries(techStack)
+    //   .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
+    //   .join('\n\n');
 
+    //==================================================================================
     // Personal Goal
-      const currentlyLearning = [
-        'Review Advanced JavaScript',
-        'HTTP/JSON/AJAX + Asynchronous Javascript',
-        'React Hooks',
-        'TypeScript'
-      ];
+      // const currentlyLearning = [
+      //   'Review Advanced JavaScript',
+      //   'HTTP/JSON/AJAX + Asynchronous Javascript',
+      //   'React Hooks',
+      //   'TypeScript'
+      // ];
 
-      const nextGoal = [
-        'Learning Data Structures and Algorithms (DSA)',
-        'Problem Solving (LeetCode, etc)',
-        'Learn backend development'
-      ];
+      // const nextGoal = [
+      //   'Learning Data Structures and Algorithms (DSA)',
+      //   'Problem Solving (LeetCode, etc)',
+      //   'Learn backend development'
+      // ];
 
-      const futureGoal = [
-        'Learn Databases',
-        'Contribute to open-source projects',
-        'Setting up raspberry pi'
-      ];
-
+      // const futureGoal = [
+      //   'Learn Databases',
+      //   'Contribute to open-source projects',
+      //   'Setting up raspberry pi'
+      // ];
+    //==================================================================================
 
     // Fun Facts
     const funFacts = [
       "I'm a night owl Person",
-      "Love reading Japanese novels."
+      "Love to read Japanese fiction novels, especially in the thriller and mystery genres.",
+      "I speak three languages, with **English (Advanced)** and **Japanese (Advanced)** being among them."
     ];
 
     // Contact
     const contact = [
       {
-        title: 'You can DM me on',
+        title: 'You can contact me through DM on',
         discord: '[Discord](https://discordapp.com/users/606481557615542273)',
         email: '[Email](mailto:jefferson@jeffersonrj.com)'
       },
@@ -196,34 +199,6 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
   ${codingActivity}
 </details>
 
-## 🛠️ Skills
-
-<details>
-  <summary>Current Skills</summary>
-  
-  ${formattedSkills}
-
-</details>
-
-## 📚 My Learning Progress
-
-<details>
-  <summary>Learning Goal</summary>
-
-### Currently Learning
-
-${currentlyLearning.map(item => `- ${item}`).join('\n')}
-
-### Next Goal
-
-${nextGoal.map(item => `- [ ] ${item}`).join('\n')}
-
-### Future Goal
-
-${futureGoal.map(item => `- [ ] ${item}`).join('\n')}
-
-</details>
-
 ## ✨ Fun Facts
 
 ${funFacts.map(item => `- ${item}`).join('\n')}
@@ -242,3 +217,32 @@ ${contact[0].title} ${contact[0].discord} or via ${contact[0].email}
 }
 
 fetchGitHubData();
+
+
+// ## 🛠️ Skills
+
+// <details>
+//   <summary>Current Skills</summary>
+  
+//   ${formattedSkills}
+
+// </details>
+
+// ## 📚 My Learning Progress
+
+// <details>
+//   <summary>Learning Goal</summary>
+
+// ### Currently Learning
+
+// ${currentlyLearning.map(item => `- ${item}`).join('\n')}
+
+// ### Next Goal
+
+// ${nextGoal.map(item => `- [ ] ${item}`).join('\n')}
+
+// ### Future Goal
+
+// ${futureGoal.map(item => `- [ ] ${item}`).join('\n')}
+
+// </details>
