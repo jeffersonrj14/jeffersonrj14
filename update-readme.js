@@ -70,6 +70,7 @@ async function fetchGitHubData() {
 
     const myRole = ["Self-Taught Developer"];
 
+    //==================================================================================
     function calculateAge(birthday) {
       const today = new Date();
       const birthDate = new Date(birthday);
@@ -84,17 +85,20 @@ async function fetchGitHubData() {
     const birthdate = '2001-03-14';
     const age = calculateAge(birthdate);
 
+    //==================================================================================
     //Currently
-    // const portfolioRepo = [
-    //   {
-    //     description: "My Personal Website",
-    //     title: "Portfolio",
-    //     githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
-    //   }
-    // ];
+    const portfolioRepo = [
+      {
+        description: "My Personal Website",
+        title: "Portfolio",
+        githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
+      }
+    ];
 
-    // const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
+    const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
     // `🚀 I’m currently working on **${workingOn}**`,
+
+    //==================================================================================
 
     const company = userData.company;
     let status = 'learning';
@@ -106,6 +110,7 @@ async function fetchGitHubData() {
       `🌱 I'm currently ${status}`
     ];
 
+    //==================================================================================
     // Coding
     const coding = [
       {
@@ -118,41 +123,41 @@ async function fetchGitHubData() {
 
     //==================================================================================
     // Tech
-    // const techStack = {
-    //   WebTechnologies: ['HTML', 'CSS'],
-    //   Programming: ['JavaScript'],
-    //   Frameworks: ['React.js'],
-    //   Utils: ['Tailwind'],
-    //   VersionControl: ['Git', 'GitHub'],
-    //   CICD: ['GitHub Actions'],
-    //   Deployment: ['Vercel', 'GitHub Pages'],
-    //   Others: ['LaTeX']
-    // };
+    const techStack = {
+      WebTechnologies: ['HTML', 'CSS'],
+      Programming: ['JavaScript'],
+      Frameworks: ['React.js'],
+      Utils: ['Tailwind'],
+      VersionControl: ['Git', 'GitHub'],
+      CICD: ['GitHub Actions'],
+      Deployment: ['Vercel', 'GitHub Pages'],
+      Others: ['LaTeX']
+    };
 
-    // const formattedSkills = Object.entries(techStack)
-    //   .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
-    //   .join('\n\n');
+    const formattedSkills = Object.entries(techStack)
+      .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
+      .join('\n\n');
 
     //==================================================================================
     // Personal Goal
-      // const currentlyLearning = [
-      //   'Review Advanced JavaScript',
-      //   'HTTP/JSON/AJAX + Asynchronous Javascript',
-      //   'React Hooks',
-      //   'TypeScript'
-      // ];
+      const currentlyLearning = [
+        'Review Advanced JavaScript',
+        'HTTP/JSON/AJAX + Asynchronous Javascript',
+        'React Hooks',
+        'TypeScript'
+      ];
 
-      // const nextGoal = [
-      //   'Learning Data Structures and Algorithms (DSA)',
-      //   'Problem Solving (LeetCode, etc)',
-      //   'Learn backend development'
-      // ];
+      const nextGoal = [
+        'Learning Data Structures and Algorithms (DSA)',
+        'Problem Solving (LeetCode, etc)',
+        'Learn backend development'
+      ];
 
-      // const futureGoal = [
-      //   'Learn Databases',
-      //   'Contribute to open-source projects',
-      //   'Setting up raspberry pi'
-      // ];
+      const futureGoal = [
+        'Learn Databases',
+        'Contribute to open-source projects',
+        'Setting up raspberry pi'
+      ];
     //==================================================================================
 
     // Fun Facts
@@ -198,21 +203,18 @@ ${profile}
   ${codingActivity}
 </details>
 
-## ✨ Fun Facts
-
-${funFacts.map(item => `- ${item}`).join('\n')}
 
 ## 📫 Contact
 
 ${contact[0].title} ${contact[0].discord} or via ${contact[0].email}
-    `;
+`;
 
-    fs.writeFileSync('README.md', markdownContent);
+fs.writeFileSync('README.md', markdownContent);
 
-    console.log('README updated successfully');
-  } catch (error) {
-    console.error('Error updating README:', error);
-  }
+console.log('README updated successfully');
+} catch (error) {
+  console.error('Error updating README:', error);
+}
 }
 
 fetchGitHubData();
@@ -222,7 +224,7 @@ fetchGitHubData();
 
 // <details>
 //   <summary>Current Skills</summary>
-  
+
 //   ${formattedSkills}
 
 // </details>
@@ -245,3 +247,7 @@ fetchGitHubData();
 // ${futureGoal.map(item => `- [ ] ${item}`).join('\n')}
 
 // </details>
+
+// ## ✨ Fun Facts
+
+// ${funFacts.map(item => `- ${item}`).join('\n')}
