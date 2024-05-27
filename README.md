@@ -6,13 +6,13 @@
 
 > 
     Self-Taught Developer based in Indonesia
-    It's supposed to be 33.9°C (93°F) and 🌤 partly sunny today. 
+    It's supposed to be 27.8°C (82°F) and  partly cloudy today. 
 
 >   
     Have a great Monday!
 
 - 🚀 I’m currently working on **[Portfolio](https://github.com/jeffersonrj14/jeffersonrj.com)**
-- I use <code>Python</code> and <code>LaTeX</code> to take notes when studying online.
+- 🌱 I'm currently learning
 
 <br>
 
@@ -22,61 +22,13 @@
   ![Activity](https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg)
 </details>
 
-## 🛠️ Skills
-
-<details>
-  <summary>Current Skills</summary>
-  
-  **Web Technologies:** <code>HTML</code> <code>CSS</code>
-
-**Programming:** <code>JavaScript</code>
-
-**Frameworks:** <code>React.js</code>
-
-**Utils:** <code>Tailwind</code>
-
-**Version Control:** <code>Git</code> <code>GitHub</code>
-
-**C I C D:** <code>GitHub Actions</code>
-
-**Deployment:** <code>Vercel</code> <code>GitHub Pages</code>
-
-**Others:** <code>LaTeX</code>
-
-</details>
-
-## 📚 My Learning Progress
-
-<details>
-  <summary>Learning Goal</summary>
-
-### Currently Learning
-
-- Review Advanced JavaScript
-- HTTP/JSON/AJAX + Asynchronous Javascript
-- React Hooks
-- TypeScript
-
-### Next Goal
-
-- [ ] Learning Data Structures and Algorithms (DSA)
-- [ ] Problem Solving (LeetCode, etc)
-- [ ] Learn backend development
-
-### Future Goal
-
-- [ ] Learn Databases
-- [ ] Contribute to open-source projects
-- [ ] Setting up raspberry pi
-
-</details>
-
 ## ✨ Fun Facts
 
 - I'm a night owl Person
-- Love reading Japanese novels.
+- Love to read Japanese fiction novels, especially in the thriller and mystery genres.
+- I speak three languages, with **English (Advanced)** and **Japanese (Advanced)** being among them.
 
 ## 📫 Contact
 
-You can DM me on [Discord](https://discordapp.com/users/606481557615542273) or via [Email](mailto:jefferson@jeffersonrj.com)
+You can contact me through DM on [Discord](https://discordapp.com/users/606481557615542273) or via [Email](mailto:jefferson@jeffersonrj.com)
     
