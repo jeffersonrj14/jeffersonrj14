@@ -84,16 +84,17 @@ async function fetchGitHubData() {
     const birthdate = '2001-03-14';
     const age = calculateAge(birthdate);
 
-    const portfolioRepo = [
-      {
-        description: "My Personal Website",
-        title: "Portfolio",
-        githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
-      }
-    ];
-
     //Currently
-    const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
+    // const portfolioRepo = [
+    //   {
+    //     description: "My Personal Website",
+    //     title: "Portfolio",
+    //     githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
+    //   }
+    // ];
+
+    // const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
+    // `🚀 I’m currently working on **${workingOn}**`,
 
     const company = userData.company;
     let status = 'learning';
@@ -102,7 +103,6 @@ async function fetchGitHubData() {
     }
     
     const currentlyDoing = [
-      `🚀 I’m currently working on **${workingOn}**`,
       `🌱 I'm currently ${status}`
     ];
 
@@ -188,8 +188,7 @@ ${profile}
 
 >   
     Have a great ${dayOfWeek}!
-
-${currentlyDoing.map(item => `- ${item}`).join('\n')}
+    ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 
 <br>
 
