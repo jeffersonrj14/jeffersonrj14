@@ -6,10 +6,10 @@
 
 > 
     Self-Taught Developer based in Indonesia
-    It's supposed to be 33.9°C (93°F) and 🌤 partly sunny today. 
+    It's supposed to be 27.8°C (82°F) and  partly cloudy today. 
 
 >   
-    Have a great Tuesday!
+    Have a great Wednesday!
     - 🌱 I'm currently learning
 
 <br>
