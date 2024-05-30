@@ -6,7 +6,7 @@
 
 > 
     Self-Taught Developer based in Indonesia
-    It's supposed to be 27.2°C (81°F) and 🌫 light fog today. 
+    It's supposed to be 32.8°C (91°F) and 🌤 partly sunny today. 
 
 >   
     Have a great Thursday!
