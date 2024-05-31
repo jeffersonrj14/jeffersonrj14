@@ -58,17 +58,26 @@ async function fetchGitHubData() {
   const GITHUB_USERNAME = 'jeffersonrj14';
 
   try {
+    //==================================================================================
     const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`);
     const userData = userDataResponse.data;
-
-    const profile = `<img alt="Profile Total Visits" src="https://komarev.com/ghpvc/?username=jeffersonrj14&label=Profile%20Visits&color=1b7565&style=flat" />`;
-
+    //==================================================================================
     const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
-    const greetingsText = `${randomGreeting}, My name is ${userData.name || GITHUB_USERNAME}`;
+    const greetingsText = `${randomGreeting}, My name is [${userData.name || 'RJ Jefferson'}](# "Ritch Johan Jefferson")`;
 
     const myRole = ["Self-Taught Developer"];
+
+    //==================================================================================
+    // Contact
+    const contact = [
+      {
+        title: 'You can contact me through DM on',
+        discord: '[Discord](https://discordapp.com/users/606481557615542273)',
+        email: '[Email](mailto:jefferson@jeffersonrj.com)'
+      },
+    ];
 
     //==================================================================================
     function calculateAge(birthday) {
@@ -94,21 +103,69 @@ async function fetchGitHubData() {
         githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
       }
     ];
-
     const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
-    // `🚀 I’m currently working on **${workingOn}**`,
+
+    const AvailableProject = [
+      {
+        description: "Projects available at portfolio",
+        title: "my portfolio",
+        link: "https://jeffersonrj.com/projects"
+      }
+    ]
+
+    const projects = AvailableProject.map(repo => `[${repo.title}](${repo.link})`);
+
 
     //==================================================================================
 
+    const learningProgress = [
+      {
+        title: "learning process",
+        link: "https://otherprofile.jeffersonrj.com"
+      }
+    ]
+
+    const progress = learningProgress.map(repo => `still in **${repo.title}**`);
+
+    //==================================================================================
     const company = userData.company;
-    let status = 'learning';
+    let status = `${progress}`;
     if (company) {
       status = `working at ${company}`;
     }
+
+    const FAQs = [
+      {
+        description: "Before asking, make sure to read my",
+        title: "FAQs",
+        link: "https://jeffersonrj.com/faqs"
+      }
+    ]
+
+    const frequentlyAsked = FAQs.map(repo => `**[${repo.title}](${repo.link})**`);
+    
+    const leetCode = [
+      {
+        description: "I've started to commit to solving 1 to 3 questions each week on ",
+        title: "LeetCode",
+        link: "https://leetcode.com/u/jeffersonrj14/"
+      }
+    ]
+    const problemSolving = leetCode.map(repo => `**[${repo.title}](${repo.link})**`);
+    //==================================================================================
     
     const currentlyDoing = [
-      `🌱 I'm currently ${status}`
+      `💻 I'm currently working on personal projects`,
+      `🌱 I'm currently ${status}`,
+      `🚀 All of my projects are available at **${projects}**`,
+      `⭐ ${leetCode[0].description} ${problemSolving}`,
+      `📫 ${contact[0].title} **${contact[0].discord}** or via **${contact[0].email}**`,
+      `⚡ Fun fact **I'm a night owl person**`
     ];
+
+    const readyToWork = [
+      `I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.`
+    ]
 
     //==================================================================================
     // Coding
@@ -120,6 +177,8 @@ async function fetchGitHubData() {
       }
     ];
     const codingActivity = coding.map(repo => `![${repo.title}](${repo.githubLink})`);
+
+    
 
     //==================================================================================
     // Tech
@@ -139,41 +198,11 @@ async function fetchGitHubData() {
       .join('\n\n');
 
     //==================================================================================
-    // Personal Goal
-      const currentlyLearning = [
-        'Review Advanced JavaScript',
-        'HTTP/JSON/AJAX + Asynchronous Javascript',
-        'React Hooks',
-        'TypeScript'
-      ];
-
-      const nextGoal = [
-        'Learning Data Structures and Algorithms (DSA)',
-        'Problem Solving (LeetCode, etc)',
-        'Learn backend development'
-      ];
-
-      const futureGoal = [
-        'Learn Databases',
-        'Contribute to open-source projects',
-        'Setting up raspberry pi'
-      ];
-    //==================================================================================
-
     // Fun Facts
     const funFacts = [
       "I'm a night owl Person",
       "Love to read Japanese fiction novels, especially in the thriller and mystery genres.",
       "I speak three languages, with **English (Advanced)** and **Japanese (Advanced)** being among them."
-    ];
-
-    // Contact
-    const contact = [
-      {
-        title: 'You can contact me through DM on',
-        discord: '[Discord](https://discordapp.com/users/606481557615542273)',
-        email: '[Email](mailto:jefferson@jeffersonrj.com)'
-      },
     ];
 
     const weatherData = await fetchWeatherData();
@@ -183,30 +212,30 @@ async function fetchGitHubData() {
 
     const markdownContent = `
 
-${profile}
+## ${greetingsText}
 
-<h3>${greetingsText}</h3>
+<div style="font-size: 16px">
 
-> 
-    ${myRole} based in ${userData.location || 'Not specified'}
-    It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
+${myRole} based in **Indonesia**<br>
+It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
+<br><br>Have a great ${dayOfWeek}!
 
->   
-    Have a great ${dayOfWeek}!
-    ${currentlyDoing.map(item => `- ${item}`).join('\n')}
+</div>
 
+${currentlyDoing.map(item => `- ${item}`).join('\n')}
 <br>
-
 <details>
   <summary>Coding Activity</summary>
 
   ${codingActivity}
+
 </details>
 
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jeffersonrj14\&hide=commits&theme=tokyonight" alt="jeffersonrj14" />
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" />
 
-## 📫 Contact
-
-${contact[0].title} ${contact[0].discord} or via ${contact[0].email}
 `;
 
 fs.writeFileSync('README.md', markdownContent);
