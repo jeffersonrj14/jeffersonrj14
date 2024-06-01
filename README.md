@@ -1,11 +1,11 @@
 
 
-## Hello 👋, My name is [RJ Jefferson](# "Ritch Johan Jefferson")
+## Hi 👋, My name is [RJ Jefferson](# "Ritch Johan Jefferson")
 
 <div style="font-size: 16px">
 
 Self-Taught Developer based in **Indonesia**<br>
-It's supposed to be 27.2°C (81°F) and 🌫 light fog today. 
+It's supposed to be 32.2°C (90°F) and 🌤 partly sunny today. 
 <br><br>Have a great Saturday!
 
 </div>
