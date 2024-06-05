@@ -5,7 +5,7 @@
 <div style="font-size: 16px">
 
 Self-Taught Developer based in **Indonesia**<br>
-It's supposed to be 27.2°C (81°F) and  partly cloudy today. 
+It's supposed to be 32.8°C (91°F) and 🌤 partly sunny today. 
 <br><br>Have a great Wednesday!
 
 </div>
