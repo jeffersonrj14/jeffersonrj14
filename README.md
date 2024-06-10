@@ -5,7 +5,7 @@
 
 <div style="font-size: 16px">
 
-It's supposed to be 28.9°C (84°F) and  thunderstorm today. 
+It's supposed to be 27.8°C (82°F) and  thunderstorm today. 
 <br>Have a great Monday!
 
 </div>
