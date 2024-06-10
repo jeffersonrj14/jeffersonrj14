@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 
-const WEATHER_API_TOKEN = process.env.WEATHER_API_TOKEN;
+const WEATHER_API_TOKEN = 'iSDhM7djVEOtjxxM9PReWmbeqVHA4cmB';
 const WEATHER_DOMAIN = 'http://dataservice.accuweather.com';
 const WEATHER_EMOJIS = {
   1: '☀️',
@@ -55,17 +55,17 @@ async function fetchWeatherData() {
 
 
 async function fetchGitHubData() {
-  const GITHUB_USERNAME = 'jeffersonrj14';
+  // const GITHUB_USERNAME = 'jeffersonrj14';
 
   try {
     //==================================================================================
-    const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`);
-    const userData = userDataResponse.data;
+    // const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`);
+    // const userData = userDataResponse.data;
     //==================================================================================
     const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
-    const greetingsText = `${randomGreeting}, My name is [${userData.name || 'RJ Jefferson'}](# "Ritch Johan Jefferson")`;
+    const greetingsText = `${randomGreeting}, My name is [RJ Jefferson](# "Ritch Johan Jefferson")`;
 
     const myRole = ["Self-Taught Developer"];
 
@@ -108,29 +108,29 @@ async function fetchGitHubData() {
     const AvailableProject = [
       {
         description: "Projects available at portfolio",
-        title: "my portfolio",
+        title: "jeffersonrj.com/projects",
         link: "https://jeffersonrj.com/projects"
       }
     ]
 
     const projects = AvailableProject.map(repo => `[${repo.title}](${repo.link})`);
 
-
-    //==================================================================================
-
-    const learningProgress = [
+    const Currently = [
       {
-        title: "learning process",
-        link: "https://otherprofile.jeffersonrj.com"
+        description: "personal utilities",
+        title: "personal utilities",
+        link: "https://hi.jeffersonrj.com"
       }
     ]
 
-    const progress = learningProgress.map(repo => `still in **${repo.title}**`);
+    const currentProject = Currently.map(repo => `[${repo.title}](${repo.link})`);
+
 
     //==================================================================================
-    const company = userData.company;
-    let status = `${progress}`;
-    if (company) {
+    const company = null;
+    let status = `learning **CS50**`;
+    
+    if (company !== null) {
       status = `working at ${company}`;
     }
 
@@ -155,12 +155,12 @@ async function fetchGitHubData() {
     //==================================================================================
     
     const currentlyDoing = [
-      `💻 I'm currently working on personal projects`,
+      `💻 I'm currently working on **${currentProject}**`,
       `🌱 I'm currently ${status}`,
       `🚀 All of my projects are available at **${projects}**`,
       `⭐ ${leetCode[0].description} ${problemSolving}`,
-      `📫 ${contact[0].title} **${contact[0].discord}** or via **${contact[0].email}**`,
-      `⚡ Fun fact **I'm a night owl person**`
+      `⚡ Fun fact **I'm a night owl person**`,
+      `📫 ${contact[0].title} **${contact[0].discord}** or via **${contact[0].email}**`
     ];
 
     const readyToWork = [
@@ -177,7 +177,116 @@ async function fetchGitHubData() {
       }
     ];
     const codingActivity = coding.map(repo => `![${repo.title}](${repo.githubLink})`);
+    //==================================================================================
+    const socialLink = [
+      {
+        url: "https://twitter.com/jeffersonrj14",
+        alt: "Twitter",
+        target: "_blank", 
+        icon: "./assets/twitter.svg",
+        width: "40",
+        height: "30"
+      },
+      {
+        url: "https://discordapp.com/users/606481557615542273",
+        alt: "Discord",
+        target: "_blank", 
+        icon: "./assets/discord.svg",
+        width: "40",
+        height: "30"
+      },
+    ]
 
+    const connect = socialLink.map(social => 
+      `<a href="${social.url}" target="${social.target}">
+        <img align="center" src="${social.icon}" alt="${social.alt}" width="${social.width}" height="${social.height}" />
+      </a>`
+    );
+
+    //==================================================================================
+    // Tech Stack Icon
+
+    const techIcon = [
+      {
+        url: "https://www.w3.org/html/",
+        alt: "HTML5",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/HTML.svg",
+        width: "40",
+        height: "40"
+      },
+      {
+        url: "https://www.w3schools.com/css/",
+        alt: "CSS3",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/CSS.svg",
+        width: "40",
+        height: "40"
+      },
+      {
+        url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        alt: "JavaScript",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/JavaScript.svg",
+        width: "40",
+        height: "40"
+      },
+      {
+        url: "https://reactjs.org/",
+        alt: "React JS",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/React-Dark.svg",
+        width: "40",
+        height: "40"
+      },
+      {
+        url: "https://nextjs.org/",
+        alt: "nextjs",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/NextJS-Dark.svg",
+        width: "40",
+        height: "40"
+      },
+      {
+        url: "https://astro.build/",
+        alt: "astro",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/astro.svg",
+        width: "40",
+        height: "40"
+      },
+      {
+        url: "https://nodejs.org",
+        alt: "nodejs",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/nodeJS.svg",
+        width: "40",
+        height: "40"
+      },
+      {
+        url: "https://git-scm.com/",
+        alt: "git",
+        target: "_blank",
+        rel: "noreferrer", 
+        icon: "./assets/tech-stack/Git.svg",
+        width: "40",
+        height: "40"
+      }
+    ]
+
+
+    const listTech = techIcon.map(tech => 
+      `<a href="${tech.url}" target="${tech.target}" rel="${tech.rel}">
+        <img src="${tech.icon}" alt="${tech.alt}" width="${tech.width}" height="${tech.height}" />
+      </a>`
+    );
     
 
     //==================================================================================
@@ -213,12 +322,12 @@ async function fetchGitHubData() {
     const markdownContent = `
 
 ## ${greetingsText}
+### ${myRole} from **Indonesia**
 
 <div style="font-size: 16px">
 
-${myRole} based in **Indonesia**<br>
 It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
-<br><br>Have a great ${dayOfWeek}!
+<br>Have a great ${dayOfWeek}!
 
 </div>
 
@@ -231,11 +340,14 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 
 </details>
 
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jeffersonrj14\&hide=commits&theme=tokyonight" alt="jeffersonrj14" />
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" />
+### Languages and Tools:
 
+<p>${listTech.join('')}</p>
+
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonrj14\&hide=commits&theme=tokyonight&locale=en" alt="jeffersonrj14" /></p>
 `;
 
 fs.writeFileSync('README.md', markdownContent);
