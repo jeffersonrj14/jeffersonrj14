@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 
-const WEATHER_API_TOKEN = 'iSDhM7djVEOtjxxM9PReWmbeqVHA4cmB';
+const WEATHER_API_TOKEN = process.env.WEATHER_API_TOKEN;
 const WEATHER_DOMAIN = 'http://dataservice.accuweather.com';
 const WEATHER_EMOJIS = {
   1: '☀️',
@@ -339,10 +339,6 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
   ${codingActivity}
 
 </details>
-
-### Languages and Tools:
-
-<p>${listTech.join('')}</p>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
