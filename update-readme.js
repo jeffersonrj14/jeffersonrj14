@@ -128,7 +128,7 @@ async function fetchGitHubData() {
 
     //==================================================================================
     const company = null;
-    let status = `learning **CS50**`;
+    let status = `learning **CS50x**`;
     
     if (company !== null) {
       status = `working at ${company}`;
@@ -155,13 +155,13 @@ async function fetchGitHubData() {
     //==================================================================================
     
     const currentlyDoing = [
-      `💻 I'm currently working on **${currentProject}**`,
       `🌱 I'm currently ${status}`,
       `🚀 All of my projects are available at **${projects}**`,
-      `⭐ ${leetCode[0].description} ${problemSolving}`,
       `⚡ Fun fact **I'm a night owl person**`,
       `📫 ${contact[0].title} **${contact[0].discord}** or via **${contact[0].email}**`
     ];
+    //      `💻 I'm currently working on **${currentProject}**`,
+    //       `⭐ ${leetCode[0].description} ${problemSolving}`,
 
     const readyToWork = [
       `I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.`
@@ -314,6 +314,15 @@ async function fetchGitHubData() {
       "I speak three languages, with **English (Advanced)** and **Japanese (Advanced)** being among them."
     ];
 
+    const ImageInfo = [
+      {
+        title: "Developer Gif",
+        link: "https://github.com/jeffersonrj14/jeffersonrj14/assets/132354045/59621905-047f-42fa-9ef0-087e7dba8bfc"
+      }
+    ]
+
+    const image = ImageInfo.map(repo => `<img align="left" src="${repo.link}" alt="${repo.title}" />`);
+
     const weatherData = await fetchWeatherData();
     const today = new Date();
     const options = { weekday: 'long', timeZone: 'Asia/Jakarta' };
@@ -324,6 +333,9 @@ async function fetchGitHubData() {
 ## ${greetingsText}
 ### ${myRole} from **Indonesia**
 
+${image}
+
+<div>
 <div style="font-size: 16px">
 
 It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
@@ -332,6 +344,9 @@ It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°
 </div>
 
 ${currentlyDoing.map(item => `- ${item}`).join('\n')}
+
+</div>
+
 <br>
 <details>
   <summary>Coding Activity</summary>
@@ -341,9 +356,11 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 </details>
 
 <br>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonrj14\&hide=commits&theme=tokyonight&locale=en" alt="jeffersonrj14" /></p>
+</div>
 `;
 
 fs.writeFileSync('README.md', markdownContent);
