@@ -1,6 +1,6 @@
 
 
-## Hello 👋, My name is [RJ Jefferson](# "Ritch Johan Jefferson")
+## Hey 👋, My name is [RJ Jefferson](# "Ritch Johan Jefferson")
 ### Self-Taught Developer from **Indonesia**
 
 <img align="left" src="https://github.com/jeffersonrj14/jeffersonrj14/assets/132354045/59621905-047f-42fa-9ef0-087e7dba8bfc" alt="Developer Gif" />
@@ -8,8 +8,8 @@
 <div>
 <div style="font-size: 16px">
 
-It's supposed to be 29.1°C (84°F) and 🌧 rain today. 
-<br>Have a great Tuesday!
+It's supposed to be 26.1°C (79°F) and  partly cloudy today. 
+<br>Have a great Wednesday!
 
 </div>
 
