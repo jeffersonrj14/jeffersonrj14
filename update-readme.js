@@ -1,9 +1,10 @@
 const fs = require('fs');
 const axios = require('axios');
 
-
 const WEATHER_API_TOKEN = process.env.WEATHER_API_TOKEN;
 const WEATHER_DOMAIN = 'http://dataservice.accuweather.com';
+//==================================================================================
+// Not in use
 const WEATHER_EMOJIS = {
   1: '☀️',
   2: '☀️',
@@ -34,6 +35,7 @@ const WEATHER_EMOJIS = {
   31: '🥵',
   32: '🥶',
 }
+//==================================================================================
 
 const locationKey = '202242'; 
 
@@ -55,19 +57,25 @@ async function fetchWeatherData() {
 
 
 async function fetchGitHubData() {
-  // const GITHUB_USERNAME = 'jeffersonrj14';
+  const GITHUB_USERNAME = 'jeffersonrj14';
+  const GITHUB_TOKEN = process.env.USER_GITHUB_TOKEN;
 
   try {
     //==================================================================================
-    // const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`);
-    // const userData = userDataResponse.data;
+    const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`, {
+      headers: {
+        Authorization: `token ${GITHUB_TOKEN}`
+      }
+    });
+    const userData = userDataResponse.data;
     //==================================================================================
     const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
-    const greetingsText = `${randomGreeting}, My name is [RJ Jefferson](# "Ritch Johan Jefferson")`;
+    const greetingsText = `${randomGreeting}, My name is [${userData.name}](# "Ritch Johan Jefferson")`;
 
     const myRole = ["Self-Taught Developer"];
+    const location = `${userData.location}`
 
     //==================================================================================
     // Contact
@@ -96,30 +104,11 @@ async function fetchGitHubData() {
 
     //==================================================================================
     //Currently
-    const portfolioRepo = [
-      {
-        description: "My Personal Website",
-        title: "Portfolio",
-        githubLink: "https://github.com/jeffersonrj14/jeffersonrj.com"
-      }
-    ];
-    const workingOn = portfolioRepo.map(repo => `[${repo.title}](${repo.githubLink})`);
-
-    const AvailableProject = [
-      {
-        description: "Projects available at portfolio",
-        title: "jeffersonrj.com/projects",
-        link: "https://jeffersonrj.com/projects"
-      }
-    ]
-
-    const projects = AvailableProject.map(repo => `[${repo.title}](${repo.link})`);
-
     const Currently = [
       {
-        description: "personal utilities",
-        title: "personal utilities",
-        link: "https://hi.jeffersonrj.com"
+        description: "#",
+        title: "#",
+        link: "#"
       }
     ]
 
@@ -127,42 +116,22 @@ async function fetchGitHubData() {
 
 
     //==================================================================================
-    const company = null;
+    const company = userData.company || null;
     let status = `learning **CS50x**`;
     
-    if (company !== null) {
+    if (company) {
       status = `working at ${company}`;
     }
-
-    const FAQs = [
-      {
-        description: "Before asking, make sure to read my",
-        title: "FAQs",
-        link: "https://jeffersonrj.com/faqs"
-      }
-    ]
-
-    const frequentlyAsked = FAQs.map(repo => `**[${repo.title}](${repo.link})**`);
-    
-    const leetCode = [
-      {
-        description: "I've started to commit to solving 1 to 3 questions each week on ",
-        title: "LeetCode",
-        link: "https://leetcode.com/u/jeffersonrj14/"
-      }
-    ]
-    const problemSolving = leetCode.map(repo => `**[${repo.title}](${repo.link})**`);
     //==================================================================================
     
     const currentlyDoing = [
       `🌱 I'm currently ${status}`,
-      `🚀 All of my projects are available at **${projects}**`,
       `⚡ Fun fact **I'm a night owl person**`,
       `📫 ${contact[0].title} **${contact[0].discord}** or via **${contact[0].email}**`
     ];
-    //      `💻 I'm currently working on **${currentProject}**`,
-    //       `⭐ ${leetCode[0].description} ${problemSolving}`,
+    //       `🚀💻`,
 
+    // For later
     const readyToWork = [
       `I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.`
     ]
@@ -202,108 +171,52 @@ async function fetchGitHubData() {
         <img align="center" src="${social.icon}" alt="${social.alt}" width="${social.width}" height="${social.height}" />
       </a>`
     );
-
-    //==================================================================================
-    // Tech Stack Icon
-
-    const techIcon = [
-      {
-        url: "https://www.w3.org/html/",
-        alt: "HTML5",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/HTML.svg",
-        width: "40",
-        height: "40"
-      },
-      {
-        url: "https://www.w3schools.com/css/",
-        alt: "CSS3",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/CSS.svg",
-        width: "40",
-        height: "40"
-      },
-      {
-        url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-        alt: "JavaScript",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/JavaScript.svg",
-        width: "40",
-        height: "40"
-      },
-      {
-        url: "https://reactjs.org/",
-        alt: "React JS",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/React-Dark.svg",
-        width: "40",
-        height: "40"
-      },
-      {
-        url: "https://nextjs.org/",
-        alt: "nextjs",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/NextJS-Dark.svg",
-        width: "40",
-        height: "40"
-      },
-      {
-        url: "https://astro.build/",
-        alt: "astro",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/astro.svg",
-        width: "40",
-        height: "40"
-      },
-      {
-        url: "https://nodejs.org",
-        alt: "nodejs",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/nodeJS.svg",
-        width: "40",
-        height: "40"
-      },
-      {
-        url: "https://git-scm.com/",
-        alt: "git",
-        target: "_blank",
-        rel: "noreferrer", 
-        icon: "./assets/tech-stack/Git.svg",
-        width: "40",
-        height: "40"
-      }
-    ]
-
-
-    const listTech = techIcon.map(tech => 
-      `<a href="${tech.url}" target="${tech.target}" rel="${tech.rel}">
-        <img src="${tech.icon}" alt="${tech.alt}" width="${tech.width}" height="${tech.height}" />
-      </a>`
-    );
-    
-
     //==================================================================================
     // Tech
     const techStack = {
-      WebTechnologies: ['HTML', 'CSS'],
-      Programming: ['JavaScript'],
-      Frameworks: ['React.js'],
-      Utils: ['Tailwind'],
-      VersionControl: ['Git', 'GitHub'],
-      CICD: ['GitHub Actions'],
-      Deployment: ['Vercel', 'GitHub Pages'],
-      Others: ['LaTeX']
+      ProgrammingLanguages: {
+        current: ['HTML', 'CSS', 'JavaScript (advanced)'],
+        ongoing: ['TypeScript', 'Java']
+      },
+      Frameworks: {
+        current: ['Astro'],
+        ongoing: ['React.js', 'Next.js']
+      },
+      Database: {
+        current: [],
+        ongoing: ['PostgreSQL']
+      },
+      Utilities: {
+        current: ['Tailwind CSS', 'LaTeX'],
+        ongoing: []
+      },
+      VersionControl: {
+        current: ['Git', 'GitHub'],
+        ongoing: []
+      },
+      Deployment: {
+        current: ['Vercel', 'GitHub Pages'],
+        ongoing: ['Cloudflare Workers']
+      },
+      Terminal: {
+        current: ['WSL (Ubuntu)', 'Powershell'],
+        ongoing: []
+      }
     };
-
+    
     const formattedSkills = Object.entries(techStack)
-      .map(([category, skillsList]) => `**${category.replace(/([A-Z])/g, ' $1').trim()}:** <code>${skillsList.join('</code> <code>')}</code>`)
+      .map(([category, skills]) => {
+        const currentSkills = skills.current.map(skill => `<code>${skill}</code>`).join(' ・ ');
+        const ongoingSkills = skills.ongoing.map(skill => `<code>${skill}</code>`).join(' ・ ');
+    
+        let result = `**${category.replace(/([A-Z])/g, ' $1').trim()}:**\n- ${currentSkills || '(none)'}`;
+        
+        if (ongoingSkills.length > 0) {
+          result += `\n\n> Ongoing: ${ongoingSkills}`;
+        }
+        
+        return result;
+      })
       .join('\n\n');
 
     //==================================================================================
@@ -331,7 +244,7 @@ async function fetchGitHubData() {
     const markdownContent = `
 
 ## ${greetingsText}
-### ${myRole} from **Indonesia**
+### ${myRole} from **${location}**
 
 ${image}
 
@@ -354,6 +267,11 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
   ${codingActivity}
 
 </details>
+
+## Tech Stack:
+*Ongoing means currently learning.*
+
+${formattedSkills}
 
 <br>
 <div>
