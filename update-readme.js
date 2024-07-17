@@ -57,25 +57,20 @@ async function fetchWeatherData() {
 
 
 async function fetchGitHubData() {
-  const GITHUB_USERNAME = 'jeffersonrj14';
-  const GITHUB_TOKEN = process.env.USER_GITHUB_TOKEN;
+  // const GITHUB_USERNAME = 'jeffersonrj14';
 
   try {
     //==================================================================================
-    const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`, {
-      headers: {
-        Authorization: `token ${GITHUB_TOKEN}`
-      }
-    });
-    const userData = userDataResponse.data;
+    // const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`);
+    // const userData = userDataResponse.data;
     //==================================================================================
     const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
-    const greetingsText = `${randomGreeting}, My name is [${userData.name}](# "Ritch Johan Jefferson")`;
+    const greetingsText = `${randomGreeting}, My name is [RJ Jefferson](# "Ritch Johan Jefferson")`;
 
     const myRole = ["Self-Taught Developer"];
-    const location = `${userData.location}`
+    const location = ["Indonesia"];
 
     //==================================================================================
     // Contact
@@ -116,10 +111,10 @@ async function fetchGitHubData() {
 
 
     //==================================================================================
-    const company = userData.company || null;
+    const company = null;
     let status = `learning **CS50x**`;
     
-    if (company) {
+    if (company !== null) {
       status = `working at ${company}`;
     }
     //==================================================================================
