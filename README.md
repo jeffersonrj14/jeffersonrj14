@@ -19,7 +19,7 @@ It's supposed to be 33.9°C (93°F) and 🌤 partly sunny today.
 
 </div>
 
-<br>
+<br><br>
 
 ## Tech Stack:
 *Ongoing means currently learning.*
