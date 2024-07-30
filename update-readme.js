@@ -4,7 +4,6 @@ const axios = require('axios');
 const WEATHER_API_TOKEN = process.env.WEATHER_API_TOKEN;
 const WEATHER_DOMAIN = 'http://dataservice.accuweather.com';
 //==================================================================================
-// Not in use
 const WEATHER_EMOJIS = {
   1: '☀️',
   2: '☀️',
@@ -132,16 +131,6 @@ async function fetchGitHubData() {
     ]
 
     //==================================================================================
-    // Coding
-    const coding = [
-      {
-        description: "My Coding Activity",
-        title: "Activity",
-        githubLink: "https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg"
-      }
-    ];
-    const codingActivity = coding.map(repo => `![${repo.title}](${repo.githubLink})`);
-    //==================================================================================
     const socialLink = [
       {
         url: "https://twitter.com/jeffersonrj14",
@@ -256,12 +245,6 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 </div>
 
 <br>
-<details>
-  <summary>Coding Activity</summary>
-
-  ${codingActivity}
-
-</details>
 
 ## Tech Stack:
 *Ongoing means currently learning.*
