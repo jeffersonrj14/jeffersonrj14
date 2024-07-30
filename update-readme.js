@@ -244,7 +244,7 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 
 </div>
 
-<br>
+<br><br>
 
 ## Tech Stack:
 *Ongoing means currently learning.*
