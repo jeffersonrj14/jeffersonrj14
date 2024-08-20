@@ -256,6 +256,7 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 <br>
 <details>
   <summary>Coding Activity</summary>
+  
   ${codingActivity}
 </details>
 <br>
