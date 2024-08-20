@@ -1,6 +1,6 @@
 
 
-## Hello 👋, My name is [RJ Jefferson](# "Ritch Johan Jefferson")
+## Hi 👋, My name is [RJ Jefferson](# "Ritch Johan Jefferson")
 ### Self-Taught Developer from **Indonesia**
 
 <img align="left" src="https://github.com/jeffersonrj14/jeffersonrj14/assets/132354045/59621905-047f-42fa-9ef0-087e7dba8bfc" alt="Developer Gif" />
@@ -22,6 +22,7 @@ It's supposed to be 30°C (86°F) and 🌤 partly sunny today.
 <br>
 <details>
   <summary>Coding Activity</summary>
+  
   ![Activity](https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg)
 </details>
 <br>
