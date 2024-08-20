@@ -129,7 +129,16 @@ async function fetchGitHubData() {
     const readyToWork = [
       `I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.`
     ]
-
+    //==================================================================================
+    // Coding
+    const coding = [
+      {
+        description: "My Coding Activity",
+        title: "Activity",
+        githubLink: "https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg"
+      }
+    ];
+    const codingActivity = coding.map(repo => `![${repo.title}](${repo.githubLink})`);
     //==================================================================================
     const socialLink = [
       {
@@ -159,31 +168,31 @@ async function fetchGitHubData() {
     // Tech
     const techStack = {
       ProgrammingLanguages: {
-        current: ['HTML', 'CSS', 'JavaScript (advanced)'],
-        ongoing: ['TypeScript', 'Java']
+        current: [],
+        ongoing: []
       },
       Frameworks: {
-        current: ['Astro'],
-        ongoing: ['React.js', 'Next.js']
+        current: [],
+        ongoing: []
       },
       Database: {
         current: [],
-        ongoing: ['PostgreSQL']
+        ongoing: []
       },
       Utilities: {
-        current: ['Tailwind CSS', 'LaTeX'],
+        current: [],
         ongoing: []
       },
       VersionControl: {
-        current: ['Git', 'GitHub'],
+        current: [],
         ongoing: []
       },
       Deployment: {
-        current: ['Vercel', 'GitHub Pages'],
-        ongoing: ['Cloudflare Workers']
+        current: [],
+        ongoing: []
       },
       Terminal: {
-        current: ['WSL (Ubuntu)', 'Powershell'],
+        current: [],
         ongoing: []
       }
     };
@@ -244,14 +253,13 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 
 </div>
 
-<br><br>
-
-## Tech Stack:
-*Ongoing means currently learning.*
-
-${formattedSkills}
-
 <br>
+<details>
+  <summary>Coding Activity</summary>
+  ${codingActivity}
+</details>
+<br>
+
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
 
