@@ -82,21 +82,6 @@ async function fetchGitHubData() {
     ];
 
     //==================================================================================
-    function calculateAge(birthday) {
-      const today = new Date();
-      const birthDate = new Date(birthday);
-      let age = today.getFullYear() - birthDate.getFullYear();
-      const monthDiff = today.getMonth() - birthDate.getMonth();
-      if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDate.getDate())) {
-        age--;
-      }
-      return age;
-    }
-
-    const birthdate = '2001-03-14';
-    const age = calculateAge(birthdate);
-
-    //==================================================================================
     //Currently
     const Currently = [
       {
@@ -111,7 +96,7 @@ async function fetchGitHubData() {
 
     //==================================================================================
     const company = null;
-    let status = `learning **CS50x**`;
+    let status = `learning independently using various resources.`;
     
     if (company !== null) {
       status = `working at ${company}`;
