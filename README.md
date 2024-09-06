@@ -8,8 +8,8 @@
 <div>
 <div style="font-size: 16px">
 
-It's supposed to be 33.9°C (93°F) and 🌤 partly sunny today. 
-<br>Have a great Friday!
+It's supposed to be 28.9°C (84°F) and  mostly cloudy today. 
+<br>Have a great Saturday!
 
 </div>
 
