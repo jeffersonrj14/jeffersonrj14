@@ -8,7 +8,7 @@
 <div>
 <div style="font-size: 16px">
 
-It's supposed to be 27.2°C (81°F) and  partly cloudy today. 
+It's supposed to be 33.9°C (93°F) and 🌦 thunderstorm today. 
 <br>Have a great Wednesday!
 
 </div>
