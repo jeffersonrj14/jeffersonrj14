@@ -238,7 +238,7 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 
 </div>
 
-<br>
+<br><br>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
