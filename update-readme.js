@@ -120,7 +120,7 @@ async function fetchGitHubData() {
       {
         description: "My Coding Activity",
         title: "Activity",
-        githubLink: "https://wakatime.com/share/@jeffersonrj14/ada550c6-38ce-47ab-bd1d-129b1679f376.svg"
+        githubLink: "#"
       }
     ];
     const codingActivity = coding.map(repo => `![${repo.title}](${repo.githubLink})`);
@@ -239,12 +239,6 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 </div>
 
 <br>
-<details>
-  <summary>Coding Activity</summary>
-  
-  ${codingActivity}
-</details>
-<br>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
@@ -295,3 +289,10 @@ fetchGitHubData();
 // ## ✨ Fun Facts
 
 // ${funFacts.map(item => `- ${item}`).join('\n')}
+
+// <br>
+//<details>
+//  <summary>Coding Activity</summary>
+  
+//  ${codingActivity}
+//</details>
