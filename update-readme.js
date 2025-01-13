@@ -66,7 +66,7 @@ async function fetchGitHubData() {
     const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
-    const greetingsText = `${randomGreeting}, My name is [RJ Jefferson](# "Ritch Johan Jefferson")`;
+    const greetingsText = `${randomGreeting}, My name is RJ Jefferson`;
 
     const myRole = ["Self-Taught Developer"];
     const location = ["Indonesia"];
