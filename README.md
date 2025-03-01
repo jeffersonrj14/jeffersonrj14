@@ -8,8 +8,8 @@
 <div>
 <div style="font-size: 16px">
 
-It's supposed to be 32.2°C (90°F) and 🌦 thunderstorm today. 
-<br>Have a great Saturday!
+It's supposed to be 27.2°C (81°F) and  partly cloudy today. 
+<br>Have a great Sunday!
 
 </div>
 
