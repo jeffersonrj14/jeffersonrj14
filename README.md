@@ -8,7 +8,7 @@
 <div>
 <div style="font-size: 16px">
 
-It's supposed to be 27.2°C (81°F) and  partly cloudy today. 
+It's supposed to be 32.8°C (91°F) and 🌤 partly sunny today. 
 <br>Have a great Monday!
 
 </div>
