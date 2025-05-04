@@ -1,6 +1,6 @@
 
 
-## Hey 👋, My name is RJ Jefferson
+## Hello 👋, My name is RJ Jefferson
 ### Self-Taught Developer from **Indonesia**
 
 <img align="left" src="https://github.com/jeffersonrj14/jeffersonrj14/assets/132354045/59621905-047f-42fa-9ef0-087e7dba8bfc" alt="Developer Gif" />
@@ -8,8 +8,8 @@
 <div>
 <div style="font-size: 16px">
 
-It's supposed to be 31.7°C (89°F) and 🌤 clouds and sun today. 
-<br>Have a great Sunday!
+It's supposed to be 25.3°C (78°F) and  some clouds today. 
+<br>Have a great Monday!
 
 </div>
 
