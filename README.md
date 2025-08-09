@@ -1,6 +1,6 @@
 
 
-## Hello 👋, My name is RJ Jefferson
+## Hey 👋, My name is RJ Jefferson
 ### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
@@ -11,7 +11,7 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Saturday!
+Have a great Sunday!
 
 </div>
 
