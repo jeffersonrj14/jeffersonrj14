@@ -11,7 +11,7 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Saturday!
+Have a great Sunday!
 
 </div>
 
