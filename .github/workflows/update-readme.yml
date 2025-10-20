@@ -1,0 +1,33 @@
+name: Update README
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '30 6,18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+      - run: npm install
+
+      - name: Generate readme
+        env:
+          WEATHER_API_TOKEN: ${{ secrets.WEATHER_API_TOKEN }}
+        run: node update-readme.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore(automation): update readme"
+          commit_user_name: actions-user
+          commit_user_email: actions@github.com
+          commit_author: actions-user <actions@github.com>
+
