@@ -11,7 +11,7 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Monday!
+Have a great Tuesday!
 
 </div>
 
