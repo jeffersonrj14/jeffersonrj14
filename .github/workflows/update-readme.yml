@@ -4,30 +4,33 @@ on:
     branches:
       - master
   schedule:
-    - cron: '30 6,18 * * *'
-  workflow_dispatch:
+    - cron: '30 6,18 * * *'  # Runs at 6:30 AM and 6:30 PM UTC daily
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+      
+      - name: Use Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: 16
-      - run: npm install
-
-      - name: Generate readme
+          node-version: 18
+      
+      - name: Install dependencies (if needed)
+        run: npm install
+      
+      - name: Generate README with WakaTime stats
         env:
-          WEATHER_API_TOKEN: ${{ secrets.WEATHER_API_TOKEN }}
-        run: node update-readme.js
-
-      - name: Commit changes
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          node update-readme.js
+      
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "chore(automation): update readme"
+          commit_message: "chore(automation): update readme with WakaTime stats"
           commit_user_name: actions-user
           commit_user_email: actions@github.com
           commit_author: actions-user <actions@github.com>
-

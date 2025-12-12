@@ -1,59 +1,8 @@
 const fs = require('fs');
 const axios = require('axios');
-
-const WEATHER_API_TOKEN = process.env.WEATHER_API_TOKEN;
-const WEATHER_DOMAIN = 'http://dataservice.accuweather.com';
 //==================================================================================
-const WEATHER_EMOJIS = {
-  1: '☀️',
-  2: '☀️',
-  3: '🌤',
-  4: '🌤',
-  5: '🌤',
-  6: '🌥',
-  7: '☁️',
-  8: '☁️',
-  11: '🌫',
-  12: '🌧',
-  13: '🌦',
-  14: '🌦',
-  15: '⛈',
-  16: '⛈',
-  17: '🌦',
-  18: '🌧',
-  19: '🌨',
-  20: '🌨',
-  21: '🌨',
-  22: '❄️',
-  23: '❄️',
-  24: '🌧',
-  25: '🌧',
-  26: '🌧',
-  29: '🌧',
-  30: '🌫',
-  31: '🥵',
-  32: '🥶',
-}
+// Note: AccuWeather is no longer free...
 //==================================================================================
-
-const locationKey = '202242'; 
-
-async function fetchWeatherData() {
-  try {
-    const weatherResponse = await axios.get(`${WEATHER_DOMAIN}/currentconditions/v1/${locationKey}?apikey=${WEATHER_API_TOKEN}`);
-    const weatherData = weatherResponse.data[0];
-    const temperature = weatherData.Temperature.Metric.Value;
-    const temperatureF = weatherData.Temperature.Imperial.Value;
-    const weatherText = weatherData.WeatherText.toLowerCase();
-    const weatherEmoji = WEATHER_EMOJIS[weatherData.WeatherIcon] || '';
-
-    return { temperature, temperatureF, weatherText, weatherEmoji };
-  } catch (error) {
-    console.error('Error fetching weather data:', error);
-    return null;
-  }
-}
-
 
 async function fetchGitHubData() {
   // const GITHUB_USERNAME = 'jeffersonrj14';
@@ -68,22 +17,18 @@ async function fetchGitHubData() {
 
     const greetingsText = `${randomGreeting}, My name is RJ Jefferson`;
 
-    const myRole = ["Self-Taught Developer"];
-    const location = ["Indonesia"];
+    const myRole = ["Independent Student"];
+    const location = ["Indonesia (GMT+7)"];
 
     //==================================================================================
-    //Currently
-    const Currently = [
+    // Contact
+    const contact = [
       {
-        description: "#",
-        title: "#",
-        link: "#"
-      }
-    ]
-
-    const currentProject = Currently.map(repo => `[${repo.title}](${repo.link})`);
-
-
+        title: 'You can contact me',
+        discord: 'through DM on [Discord](https://discordapp.com/users/UserID)',
+        email: '[Email](https://www.jeffersonrj.com/contact)'
+      },
+    ];
     //==================================================================================
     const company = null;
     let status = `learning independently using various resources.`;
@@ -95,19 +40,37 @@ async function fetchGitHubData() {
     
     const currentlyDoing = [
       `🌱 I'm currently ${status}`,
-      `⚡ Fun fact **I'm a night owl person**`,
-      `📫 ${contact[0].title} **${contact[0].discord}** or via **${contact[0].email}**`
+      `⚡ Fun fact: **I'm a night owl person**`,
+      `🔈&nbsp; I speak Indonesian, English (Advanced) and Japanese (Advanced)`,
+      `💻 Tools I mostly use: **[VS Code](https://code.visualstudio.com/)**, **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**, **[Premiere Pro](https://www.adobe.com/jp/products/premiere.html)**`,
+      `📫 ${contact[0].title} via **${contact[0].email}** *(Phishing/Unrelated Email will be blocked)*`
     ];
+    //       `🚀💻`,
     //==================================================================================
-    // Coding
-    const coding = [
+    const socialLink = [
       {
-        description: "My Coding Activity",
-        title: "Activity",
-        githubLink: "#"
-      }
-    ];
-    const codingActivity = coding.map(repo => `![${repo.title}](${repo.githubLink})`);
+        url: "https://twitter.com/jeffersonrj14",
+        alt: "Twitter",
+        target: "_blank", 
+        icon: "./assets/twitter.svg",
+        width: "40",
+        height: "30"
+      },
+      {
+        url: `https://discordapp.com/users/userID`,
+        alt: "Discord",
+        target: "_blank", 
+        icon: "./assets/discord.svg",
+        width: "40",
+        height: "30"
+      },
+    ]
+
+    const connect = socialLink.map(social => 
+      `<a href="${social.url}" target="${social.target}">
+        <img align="center" src="${social.icon}" alt="${social.alt}" width="${social.width}" height="${social.height}" />
+      </a>`
+    );
     //==================================================================================
     // Tech
     const techStack = {
@@ -157,23 +120,6 @@ async function fetchGitHubData() {
       .join('\n\n');
 
     //==================================================================================
-    // Fun Facts
-    const funFacts = [
-      "I'm a night owl Person",
-      "Love to read Japanese fiction novels, especially in the thriller and mystery genres.",
-      "I speak three languages, with **English (Advanced)** and **Japanese (Advanced)** being among them."
-    ];
-
-    const ImageInfo = [
-      {
-        title: "Developer Gif",
-        link: "https://github.com/jeffersonrj14/jeffersonrj14/assets/132354045/59621905-047f-42fa-9ef0-087e7dba8bfc"
-      }
-    ]
-
-    const image = ImageInfo.map(repo => `<img align="left" src="${repo.link}" alt="${repo.title}" />`);
-
-    const weatherData = await fetchWeatherData();
     const today = new Date();
     const options = { weekday: 'long', timeZone: 'Asia/Jakarta' };
     const dayOfWeek = today.toLocaleDateString('en-US', options);
@@ -183,26 +129,12 @@ async function fetchGitHubData() {
 ## ${greetingsText}
 ### ${myRole} from **${location}**
 
-${image}
+${currentlyDoing.map(item => `- ${item}`).join('\n')}
 
 <div>
 <div style="font-size: 16px">
+Have a great ${dayOfWeek}!
 
-It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
-<br>Have a great ${dayOfWeek}!
-
-</div>
-
-${currentlyDoing.map(item => `- ${item}`).join('\n')}
-
-</div>
-
-<br><br>
-
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonrj14\&hide=commits&theme=tokyonight&locale=en" alt="jeffersonrj14" /></p>
 </div>
 `;
 
@@ -216,6 +148,10 @@ console.log('README updated successfully');
 
 fetchGitHubData();
 
+
+// ${image}
+// It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
+// <br>Have a great ${dayOfWeek}!
 
 // ## 🛠️ Skills
 

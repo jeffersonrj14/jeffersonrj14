@@ -1,6 +1,7 @@
 
-## Hi there👋
-### Independent Student from *Indonesia (GMT+7)*
+
+## Hey 👋, My name is RJ Jefferson
+### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
 - ⚡ Fun fact: **I'm a night owl person**
@@ -13,10 +14,3 @@
 Have a great Friday!
 
 </div>
-
-
-## 📊 This Week's Coding Stats
-
-Coding Time: 6 hrs 2 mins  
-Most Languages Used: Astro, Java, TypeScript
-
