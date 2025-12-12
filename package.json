@@ -1,0 +1,14 @@
+{
+  "name": "github-readme",
+  "version": "1.1.0",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "repository": "https://github.com/jeffersonrj14/jeffersonrj14.git",
+  "author": "RJ Jefferson",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "node-fetch": "^3.3.2"
+  }
+}
