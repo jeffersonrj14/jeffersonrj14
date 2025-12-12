@@ -1,25 +1,59 @@
+const https = require('https');
 const fs = require('fs');
-const axios = require('axios');
-//==================================================================================
-// Note: AccuWeather is no longer free...
-//==================================================================================
+
+const WAKATIME_API_KEY = process.env.WAKATIME_API_KEY;
+
+// Fetch WakaTime stats
+function fetchWakaTimeStats() {
+  return new Promise((resolve, reject) => {
+    if (!WAKATIME_API_KEY) {
+      console.log('⚠️  WakaTime API key not set, skipping stats...');
+      resolve(null);
+      return;
+    }
+
+    const encodedKey = Buffer.from(WAKATIME_API_KEY).toString('base64');
+    
+    const options = {
+      hostname: 'wakatime.com',
+      path: '/api/v1/users/current/stats/last_7_days',
+      method: 'GET',
+      headers: {
+        'Authorization': `Basic ${encodedKey}`
+      }
+    };
+
+    https.get(options, (res) => {
+      let data = '';
+      res.on('data', (chunk) => { data += chunk; });
+      res.on('end', () => {
+        if (res.statusCode === 200) {
+          resolve(JSON.parse(data));
+        } else {
+          console.log('⚠️  Could not fetch WakaTime stats');
+          resolve(null);
+        }
+      });
+    }).on('error', (err) => {
+      console.log('⚠️  WakaTime API error:', err.message);
+      resolve(null);
+    });
+  });
+}
 
 async function fetchGitHubData() {
-  // const GITHUB_USERNAME = 'jeffersonrj14';
-
   try {
+    // Fetch WakaTime stats
+    const wakaStats = await fetchWakaTimeStats();
+    
     //==================================================================================
-    // const userDataResponse = await axios.get(`https://api.github.com/users/${GITHUB_USERNAME}`);
-    // const userData = userDataResponse.data;
-    //==================================================================================
-    const greetings = ["Hi 👋", "Hey 👋", "Hello 👋"];
+    const greetings = ["Hi", "Hey", "Hello"];
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
-    const greetingsText = `${randomGreeting}, My name is RJ Jefferson`;
+    const greetingsText = `${randomGreeting} there👋`;
 
     const myRole = ["Independent Student"];
     const location = ["Indonesia (GMT+7)"];
-
     //==================================================================================
     // Contact
     const contact = [
@@ -37,7 +71,6 @@ async function fetchGitHubData() {
       status = `working at ${company}`;
     }
     //==================================================================================
-    
     const currentlyDoing = [
       `🌱 I'm currently ${status}`,
       `⚡ Fun fact: **I'm a night owl person**`,
@@ -45,87 +78,31 @@ async function fetchGitHubData() {
       `💻 Tools I mostly use: **[VS Code](https://code.visualstudio.com/)**, **[IntelliJ IDEA](https://www.jetbrains.com/idea/)**, **[Premiere Pro](https://www.adobe.com/jp/products/premiere.html)**`,
       `📫 ${contact[0].title} via **${contact[0].email}** *(Phishing/Unrelated Email will be blocked)*`
     ];
-    //       `🚀💻`,
-    //==================================================================================
-    const socialLink = [
-      {
-        url: "https://twitter.com/jeffersonrj14",
-        alt: "Twitter",
-        target: "_blank", 
-        icon: "./assets/twitter.svg",
-        width: "40",
-        height: "30"
-      },
-      {
-        url: `https://discordapp.com/users/userID`,
-        alt: "Discord",
-        target: "_blank", 
-        icon: "./assets/discord.svg",
-        width: "40",
-        height: "30"
-      },
-    ]
-
-    const connect = socialLink.map(social => 
-      `<a href="${social.url}" target="${social.target}">
-        <img align="center" src="${social.icon}" alt="${social.alt}" width="${social.width}" height="${social.height}" />
-      </a>`
-    );
-    //==================================================================================
-    // Tech
-    const techStack = {
-      ProgrammingLanguages: {
-        current: [],
-        ongoing: []
-      },
-      Frameworks: {
-        current: [],
-        ongoing: []
-      },
-      Database: {
-        current: [],
-        ongoing: []
-      },
-      Utilities: {
-        current: [],
-        ongoing: []
-      },
-      VersionControl: {
-        current: [],
-        ongoing: []
-      },
-      Deployment: {
-        current: [],
-        ongoing: []
-      },
-      Terminal: {
-        current: [],
-        ongoing: []
-      }
-    };
-    
-    const formattedSkills = Object.entries(techStack)
-      .map(([category, skills]) => {
-        const currentSkills = skills.current.map(skill => `<code>${skill}</code>`).join(' ・ ');
-        const ongoingSkills = skills.ongoing.map(skill => `<code>${skill}</code>`).join(' ・ ');
-    
-        let result = `**${category.replace(/([A-Z])/g, ' $1').trim()}:**\n- ${currentSkills || '(none)'}`;
-        
-        if (ongoingSkills.length > 0) {
-          result += `\n\n> Ongoing: ${ongoingSkills}`;
-        }
-        
-        return result;
-      })
-      .join('\n\n');
-
     //==================================================================================
     const today = new Date();
     const options = { weekday: 'long', timeZone: 'Asia/Jakarta' };
     const dayOfWeek = today.toLocaleDateString('en-US', options);
 
-    const markdownContent = `
+    //==================================================================================
+    let wakaTimeSection = '';
+    if (wakaStats) {
+      const totalTime = wakaStats.data.human_readable_total || '0 hrs 0 mins';
+      const languages = wakaStats.data.languages || [];
+      const topLanguages = languages
+        .slice(0, 3)
+        .map(lang => lang.name)
+        .join(', ');
+      
+      wakaTimeSection = `
 
+## 📊 This Week's Coding Stats
+
+Coding Time: ${totalTime}  
+Most Languages Used: ${topLanguages || 'No data'}
+`;
+    }
+
+    const markdownContent = `
 ## ${greetingsText}
 ### ${myRole} from **${location}**
 
@@ -136,66 +113,14 @@ ${currentlyDoing.map(item => `- ${item}`).join('\n')}
 Have a great ${dayOfWeek}!
 
 </div>
-
-<br>
-
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonrj14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jeffersonrj14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffersonrj14\&hide=commits&theme=tokyonight&locale=en" alt="jeffersonrj14" /></p>
-</div>
+${wakaTimeSection}
 `;
 
-fs.writeFileSync('README.md', markdownContent);
-
-console.log('README updated successfully');
-} catch (error) {
-  console.error('Error updating README:', error);
-}
+    fs.writeFileSync('README.md', markdownContent);
+    console.log('✅ README updated successfully');
+  } catch (error) {
+    console.error('❌ Error updating README:', error);
+  }
 }
 
 fetchGitHubData();
-
-
-// ${image}
-// It's supposed to be ${weatherData.temperature}°C (${weatherData.temperatureF}°F) and ${weatherData.weatherEmoji} ${weatherData.weatherText} today. 
-// <br>Have a great ${dayOfWeek}!
-
-// ## 🛠️ Skills
-
-// <details>
-//   <summary>Current Skills</summary>
-
-//   ${formattedSkills}
-
-// </details>
-
-// ## 📚 My Learning Progress
-
-// <details>
-//   <summary>Learning Goal</summary>
-
-// ### Currently Learning
-
-// ${currentlyLearning.map(item => `- ${item}`).join('\n')}
-
-// ### Next Goal
-
-// ${nextGoal.map(item => `- [ ] ${item}`).join('\n')}
-
-// ### Future Goal
-
-// ${futureGoal.map(item => `- [ ] ${item}`).join('\n')}
-
-// </details>
-
-// ## ✨ Fun Facts
-
-// ${funFacts.map(item => `- ${item}`).join('\n')}
-
-// <br>
-//<details>
-//  <summary>Coding Activity</summary>
-  
-//  ${codingActivity}
-//</details>
