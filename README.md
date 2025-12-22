@@ -1,5 +1,5 @@
 
-## Hey there👋
+## Hi there👋
 ### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
