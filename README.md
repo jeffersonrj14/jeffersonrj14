@@ -1,5 +1,5 @@
 
-## Hello there👋
+## Hi there👋
 ### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
@@ -10,13 +10,13 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Wednesday!
+Have a great Thursday!
 
 </div>
 
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 7 hrs 16 mins  
-Most Languages Used: Astro, MDX, TypeScript
+Coding Time: 5 hrs 9 mins  
+Most Languages Used: Astro, Markdown, MDX
 
