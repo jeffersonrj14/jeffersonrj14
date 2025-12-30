@@ -17,6 +17,6 @@ Have a great Tuesday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 3 hrs 15 mins  
-Most Languages Used: Astro, MDX, TypeScript
+Coding Time: 0 secs  
+Most Languages Used: JavaScript
 
