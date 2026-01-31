@@ -17,6 +17,6 @@ Have a great Saturday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 2 hrs 57 mins  
-Most Languages Used: Astro, TypeScript, CSS
+Coding Time: 3 mins  
+Most Languages Used: Markdown, HTML, Text
 
