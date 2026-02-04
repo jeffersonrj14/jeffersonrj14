@@ -17,6 +17,6 @@ Have a great Wednesday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 3 mins  
-Most Languages Used: Markdown, HTML, Text
+Coding Time: 1 min  
+Most Languages Used: HTML
 
