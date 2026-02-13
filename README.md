@@ -17,6 +17,6 @@ Have a great Friday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 7 mins  
-Most Languages Used: Text, TypeScript, JSON
+Coding Time: 0 secs  
+Most Languages Used: No data
 
