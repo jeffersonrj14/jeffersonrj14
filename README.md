@@ -10,13 +10,13 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Thursday!
+Have a great Friday!
 
 </div>
 
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 1 min  
-Most Languages Used: TypeScript, JSON, YAML
+Coding Time: 1 hr 37 mins  
+Most Languages Used: TypeScript, CSS, YAML
 
