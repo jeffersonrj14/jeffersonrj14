@@ -1,5 +1,5 @@
 
-## Hello there👋
+## Hi there👋
 ### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
@@ -10,7 +10,7 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Friday!
+Have a great Saturday!
 
 </div>
 
