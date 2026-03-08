@@ -17,6 +17,6 @@ Have a great Sunday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 5 hrs 16 mins  
-Most Languages Used: TypeScript, CSS, JSON
+Coding Time: 9 hrs 59 mins  
+Most Languages Used: TypeScript, MDX, CSS
 
