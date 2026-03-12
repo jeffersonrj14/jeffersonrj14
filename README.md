@@ -10,7 +10,7 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Thursday!
+Have a great Friday!
 
 </div>
 
