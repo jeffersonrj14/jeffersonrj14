@@ -17,6 +17,6 @@ Have a great Wednesday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 5 hrs 54 mins  
+Coding Time: 4 hrs 54 mins  
 Most Languages Used: TypeScript, MDX, YAML
 
