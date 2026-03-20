@@ -17,6 +17,6 @@ Have a great Friday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 4 hrs  
-Most Languages Used: TypeScript, YAML, MDX
+Coding Time: 1 hr 52 mins  
+Most Languages Used: YAML, TypeScript, JSON
 
