@@ -17,6 +17,6 @@ Have a great Friday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 33 mins  
-Most Languages Used: Java, TypeScript, YAML
+Coding Time: 1 hr 7 mins  
+Most Languages Used: Java, TypeScript, JavaScript
 
