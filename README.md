@@ -1,5 +1,5 @@
 
-## Hey there👋
+## Hello there👋
 ### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
@@ -17,6 +17,6 @@ Have a great Friday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 2 hrs 8 mins  
-Most Languages Used: MDX, TypeScript, Text
+Coding Time: 10 mins  
+Most Languages Used: Text, YAML, JSON
 
