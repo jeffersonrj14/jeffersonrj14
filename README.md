@@ -17,6 +17,6 @@ Have a great Sunday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 10 mins  
-Most Languages Used: Text, YAML, JSON
+Coding Time: 3 mins  
+Most Languages Used: Text, YAML
 
