@@ -17,6 +17,6 @@ Have a great Monday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 3 mins  
-Most Languages Used: Text, YAML
+Coding Time: 0 secs  
+Most Languages Used: YAML
 
