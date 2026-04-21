@@ -1,5 +1,5 @@
 
-## Hello there👋
+## Hi there👋
 ### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
@@ -17,6 +17,6 @@ Have a great Tuesday!
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 0 secs  
-Most Languages Used: YAML
+Coding Time: 27 mins  
+Most Languages Used: Java, YAML, JavaScript
 
