@@ -1,5 +1,5 @@
 
-## Hello there👋
+## Hi there👋
 ### Independent Student from **Indonesia (GMT+7)**
 
 - 🌱 I'm currently learning independently using various resources.
@@ -10,13 +10,13 @@
 
 <div>
 <div style="font-size: 16px">
-Have a great Monday!
+Have a great Tuesday!
 
 </div>
 
 
 ## 📊 This Week's Coding Stats
 
-Coding Time: 34 mins  
-Most Languages Used: Java, YAML, TypeScript
+Coding Time: 15 mins  
+Most Languages Used: TypeScript, Gradle, Text
 
